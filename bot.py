@@ -19,14 +19,12 @@ import requests
 # CONFIGURACION — edita esta lista a tu gusto
 # ---------------------------------------------------------------------------
 FEEDS = {
-    "Cointelegraph": "https://cointelegraph.com/rss",
-    "CoinDesk": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-    "Decrypt": "https://decrypt.co/feed",
-    "CryptoSlate": "https://cryptoslate.com/feed/",
-    "The Block": "https://www.theblock.co/rss.xml",
-    # "Bitcoinist": "https://bitcoinist.com/feed/",
-    # Version en español de Cointelegraph:
-    # "Cointelegraph ES": "https://es.cointelegraph.com/rss",
+    "Cointelegraph": "https://es.cointelegraph.com/rss",
+    "CriptoNoticias": "https://www.criptonoticias.com/feed/",
+    "BeInCrypto": "https://es.beincrypto.com/feed/",
+    "Bit2Me News": "https://news.bit2me.com/feed/",
+    # "Observatorio Blockchain": "https://www.observatorioblockchain.com/feed/",
+    # "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",
 }
 
 MAX_POR_EJECUCION = 8      # tope de mensajes por ronda (evita inundar el canal)
