@@ -1,0 +1,39 @@
+name: Noticias cripto a Telegram
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # cada 20 minutos (GitHub puede retrasarlo unos minutos)
+  workflow_dispatch:          # boton para lanzarlo a mano
+
+permissions:
+  contents: write             # necesario para guardar seen.json
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install feedparser requests
+
+      - name: Publicar noticias
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+
+      - name: Guardar historial
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git diff --staged --quiet || git commit -m "actualizar historial [skip ci]"
+          git push
