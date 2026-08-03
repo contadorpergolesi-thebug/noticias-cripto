@@ -19,14 +19,21 @@ import requests
 # CONFIGURACION — edita esta lista a tu gusto
 # ---------------------------------------------------------------------------
 FEEDS = {
-    "Cointelegraph": "https://cointelegraph.com/rss",
-    "CoinDesk": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-    "Decrypt": "https://decrypt.co/feed",
-    "CryptoSlate": "https://cryptoslate.com/feed/",
-    "The Block": "https://www.theblock.co/rss.xml",
-    # "Bitcoinist": "https://bitcoinist.com/feed/",
-    # Version en español de Cointelegraph:
-    # "Cointelegraph ES": "https://es.cointelegraph.com/rss",
+    "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
+    "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
+    "BeInCrypto": "https://es.beincrypto.com/feed/",
+    "Bit2Me News": "https://news.bit2me.com/feed/",
+    "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",
+    "iProUP": "https://www.iproup.com/rss/blockchain",
+    "iProfesional": "https://www.iprofesional.com/rss/finanzas",
+    "Errepar": "https://blog.errepar.com/tag/criptomonedas/feed/",
+    # "Observatorio Blockchain": "https://www.observatorioblockchain.com/feed/",
+}
+
+# Medios generalistas: solo se publica si el titular menciona algo cripto.
+FILTRO_POR_MEDIO = {
+    "iProfesional": ["cripto", "bitcoin", "btc", "ethereum", "blockchain",
+                     "stablecoin", "usdt", "billetera virtual", "tokeniz"],
 }
 
 MAX_POR_EJECUCION = 8      # tope de mensajes por ronda (evita inundar el canal)
@@ -115,10 +122,13 @@ def enviar(texto: str) -> bool:
     return True
 
 
-def interesa(entrada) -> bool:
+def interesa(medio: str, entrada) -> bool:
+    titulo = limpiar(entrada.get("title", "")).lower()
+    especifico = FILTRO_POR_MEDIO.get(medio)
+    if especifico:
+        return any(p.lower() in titulo for p in especifico)
     if not PALABRAS_CLAVE:
         return True
-    titulo = limpiar(entrada.get("title", "")).lower()
     return any(p.lower() in titulo for p in PALABRAS_CLAVE)
 
 
@@ -128,9 +138,22 @@ def main() -> int:
     primera_vez = not estado["inicializado"]
 
     nuevas = []
+    NAVEGADOR = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, text/xml, text/html, */*",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    }
+
     for medio, url in FEEDS.items():
         print(f"Leyendo {medio}...")
-        feed = feedparser.parse(url, agent="Mozilla/5.0 (compatible; NewsBot/1.0)")
+        try:
+            respuesta = requests.get(url, headers=NAVEGADOR, timeout=30)
+            respuesta.raise_for_status()
+            feed = feedparser.parse(respuesta.content)
+        except requests.RequestException as e:
+            print(f"  ! no se pudo descargar: {e}")
+            continue
         if feed.bozo and not feed.entries:
             print(f"  ! no se pudo leer: {feed.get('bozo_exception')}")
             continue
@@ -140,7 +163,7 @@ def main() -> int:
                 continue
             vistos.add(clave)
             estado["vistos"].append(clave)
-            if interesa(entrada):
+            if interesa(medio, entrada):
                 nuevas.append((medio, entrada))
 
     if primera_vez:
