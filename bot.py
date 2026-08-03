@@ -57,12 +57,14 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 API = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
 
 
-def sanear_xml(datos: bytes) -> bytes:
-    """Quita caracteres invalidos y arregla los & sueltos que rompen el XML."""
-    texto = datos.decode("utf-8", errors="ignore")
+def sanear_xml(respuesta) -> str:
+    """Reintento para feeds mal formados: decodifica, quita la declaracion de
+    codificacion (que suele venir mal) y borra caracteres invalidos."""
+    texto = respuesta.text
+    texto = re.sub(r"^\s*<\?xml[^>]*\?>", "", texto)
     texto = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", texto)
     texto = re.sub(r"&(?!(?:[a-zA-Z][a-zA-Z0-9]*|#[0-9]+|#x[0-9a-fA-F]+);)", "&amp;", texto)
-    return texto.encode("utf-8")
+    return texto.lstrip()
 
 
 def limpiar(texto: str) -> str:
@@ -168,7 +170,7 @@ def main() -> int:
             continue
         if feed.bozo and not feed.entries:
             # Segundo intento: algunos feeds traen caracteres que rompen el XML.
-            feed = feedparser.parse(sanear_xml(respuesta.content))
+            feed = feedparser.parse(sanear_xml(respuesta))
         if not feed.entries:
             print(f"  ! no se pudo leer: {feed.get('bozo_exception')}")
             continue
