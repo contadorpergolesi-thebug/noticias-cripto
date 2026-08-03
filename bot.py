@@ -19,8 +19,8 @@ import requests
 # CONFIGURACION — edita esta lista a tu gusto
 # ---------------------------------------------------------------------------
 FEEDS = {
-    "Cointelegraph": "https://es.cointelegraph.com/rss",
-    "CriptoNoticias": "https://www.criptonoticias.com/feed/",
+   "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
+    "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
     "BeInCrypto": "https://es.beincrypto.com/feed/",
     "Bit2Me News": "https://news.bit2me.com/feed/",
     # "Observatorio Blockchain": "https://www.observatorioblockchain.com/feed/",
