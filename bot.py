@@ -19,6 +19,10 @@ import requests
 # CONFIGURACION — edita esta lista a tu gusto
 # ---------------------------------------------------------------------------
 FEEDS = {
+    # Contenido propio: va primero para que tenga prioridad al publicar.
+    "Cripto Contador · YouTube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCMRtM4Gx0QfrK7gPq0aeGA",
+    "Cripto Contador · Blog": "https://cripto-contador.com/feed/",
+
     "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
     "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
     "BeInCrypto": "https://es.beincrypto.com/feed/",
@@ -51,6 +55,14 @@ PALABRAS_CLAVE = []
 TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 API = f"https://api.telegram.org/bot{TOKEN}/sendMessage"
+
+
+def sanear_xml(datos: bytes) -> bytes:
+    """Quita caracteres invalidos y arregla los & sueltos que rompen el XML."""
+    texto = datos.decode("utf-8", errors="ignore")
+    texto = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", texto)
+    texto = re.sub(r"&(?!(?:[a-zA-Z][a-zA-Z0-9]*|#[0-9]+|#x[0-9a-fA-F]+);)", "&amp;", texto)
+    return texto.encode("utf-8")
 
 
 def limpiar(texto: str) -> str:
@@ -155,6 +167,9 @@ def main() -> int:
             print(f"  ! no se pudo descargar: {e}")
             continue
         if feed.bozo and not feed.entries:
+            # Segundo intento: algunos feeds traen caracteres que rompen el XML.
+            feed = feedparser.parse(sanear_xml(respuesta.content))
+        if not feed.entries:
             print(f"  ! no se pudo leer: {feed.get('bozo_exception')}")
             continue
         for entrada in feed.entries[:20]:
