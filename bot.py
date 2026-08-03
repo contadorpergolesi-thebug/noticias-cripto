@@ -19,12 +19,14 @@ import requests
 # CONFIGURACION — edita esta lista a tu gusto
 # ---------------------------------------------------------------------------
 FEEDS = {
-   "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
-    "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
-    "BeInCrypto": "https://es.beincrypto.com/feed/",
-    "Bit2Me News": "https://news.bit2me.com/feed/",
-    # "Observatorio Blockchain": "https://www.observatorioblockchain.com/feed/",
-    # "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",
+    "Cointelegraph": "https://cointelegraph.com/rss",
+    "CoinDesk": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "Decrypt": "https://decrypt.co/feed",
+    "CryptoSlate": "https://cryptoslate.com/feed/",
+    "The Block": "https://www.theblock.co/rss.xml",
+    # "Bitcoinist": "https://bitcoinist.com/feed/",
+    # Version en español de Cointelegraph:
+    # "Cointelegraph ES": "https://es.cointelegraph.com/rss",
 }
 
 MAX_POR_EJECUCION = 8      # tope de mensajes por ronda (evita inundar el canal)
@@ -126,22 +128,9 @@ def main() -> int:
     primera_vez = not estado["inicializado"]
 
     nuevas = []
-    NAVEGADOR = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
-        "Accept": "application/rss+xml, application/xml, text/xml, text/html, */*",
-        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-    }
-
     for medio, url in FEEDS.items():
         print(f"Leyendo {medio}...")
-        try:
-            respuesta = requests.get(url, headers=NAVEGADOR, timeout=30)
-            respuesta.raise_for_status()
-            feed = feedparser.parse(respuesta.content)
-        except requests.RequestException as e:
-            print(f"  ! no se pudo descargar: {e}")
-            continue
+        feed = feedparser.parse(url, agent="Mozilla/5.0 (compatible; NewsBot/1.0)")
         if feed.bozo and not feed.entries:
             print(f"  ! no se pudo leer: {feed.get('bozo_exception')}")
             continue
