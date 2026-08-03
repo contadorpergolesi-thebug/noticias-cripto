@@ -126,9 +126,22 @@ def main() -> int:
     primera_vez = not estado["inicializado"]
 
     nuevas = []
+    NAVEGADOR = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "application/rss+xml, application/xml, text/xml, text/html, */*",
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+    }
+
     for medio, url in FEEDS.items():
         print(f"Leyendo {medio}...")
-        feed = feedparser.parse(url, agent="Mozilla/5.0 (compatible; NewsBot/1.0)")
+        try:
+            respuesta = requests.get(url, headers=NAVEGADOR, timeout=30)
+            respuesta.raise_for_status()
+            feed = feedparser.parse(respuesta.content)
+        except requests.RequestException as e:
+            print(f"  ! no se pudo descargar: {e}")
+            continue
         if feed.bozo and not feed.entries:
             print(f"  ! no se pudo leer: {feed.get('bozo_exception')}")
             continue
