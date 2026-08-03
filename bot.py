@@ -23,15 +23,15 @@ FEEDS = {
     "Cripto Contador · YouTube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCMRtM4Gx0QfrK7gPq0aeGA",
     "Cripto Contador · Blog": "https://cripto-contador.com/feed/",
 
-    "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
     "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
     "BeInCrypto": "https://es.beincrypto.com/feed/",
     "Bit2Me News": "https://news.bit2me.com/feed/",
     "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",
-    "iProUP": "https://www.iproup.com/rss/blockchain",
     "iProfesional": "https://www.iprofesional.com/rss/finanzas",
-    "Errepar": "https://blog.errepar.com/tag/criptomonedas/feed/",
-    # "Observatorio Blockchain": "https://www.observatorioblockchain.com/feed/",
+    # Retirados por fallos persistentes en el origen (no se pueden leer):
+    # "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
+    # "iProUP": "https://www.iproup.com/rss/blockchain",
+    # "Errepar": "https://blog.errepar.com/tag/criptomonedas/feed/",
 }
 
 # Medios generalistas: solo se publica si el titular menciona algo cripto.
