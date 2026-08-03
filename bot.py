@@ -40,7 +40,7 @@ FILTRO_POR_MEDIO = {
                      "stablecoin", "usdt", "billetera virtual", "tokeniz"],
 }
 
-MAX_POR_EJECUCION = 8      # tope de mensajes por ronda (evita inundar el canal)
+MAX_POR_EJECUCION = 15     # tope de mensajes por ronda (evita inundar el canal)
 LARGO_RESUMEN = 220        # caracteres del extracto
 SEGUNDOS_ENTRE_MENSAJES = 4
 ESTADO = Path("seen.json")  # historial de enlaces ya publicados
