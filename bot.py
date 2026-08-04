@@ -10,7 +10,9 @@ import os
 import re
 import sys
 import time
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -45,6 +47,15 @@ FILTRO_POR_MEDIO = {
     "iProfesional": ["cripto", "bitcoin", "btc", "ethereum", "blockchain",
                      "stablecoin", "usdt", "billetera virtual", "tokeniz"],
 }
+
+ZONA = ZoneInfo("America/Argentina/Buenos_Aires")
+
+# Horario de silencio: no se publica entre estas horas (acumula y sale despues).
+SILENCIO_DESDE = 0         # 00:00
+SILENCIO_HASTA = 8         # 08:00
+
+HORA_PRECIOS = 9           # mensaje con cotizaciones (None para desactivar)
+HORA_RESUMEN = 20          # resumen de titulares del dia (None para desactivar)
 
 MAX_POR_EJECUCION = 15     # tope de mensajes por ronda (evita inundar el canal)
 LARGO_RESUMEN = 220        # caracteres del extracto
@@ -94,6 +105,18 @@ def cargar_estado() -> dict:
         except json.JSONDecodeError:
             pass
     return {"vistos": [], "inicializado": False}
+
+
+def hoy() -> str:
+    return datetime.now(ZONA).strftime("%Y-%m-%d")
+
+
+def en_silencio(ahora: datetime) -> bool:
+    if SILENCIO_DESDE == SILENCIO_HASTA:
+        return False
+    if SILENCIO_DESDE < SILENCIO_HASTA:
+        return SILENCIO_DESDE <= ahora.hour < SILENCIO_HASTA
+    return ahora.hour >= SILENCIO_DESDE or ahora.hour < SILENCIO_HASTA
 
 
 def guardar_estado(estado: dict) -> None:
@@ -152,8 +175,85 @@ def interesa(medio: str, entrada) -> bool:
     return any(p.lower() in titulo for p in PALABRAS_CLAVE)
 
 
+def enviar_precios(estado: dict) -> None:
+    """Cotizaciones de BTC y ETH, una vez por dia."""
+    if HORA_PRECIOS is None or estado.get("precios_enviado") == hoy():
+        return
+    try:
+        r = requests.get(
+            "https://api.coingecko.com/api/v3/simple/price",
+            params={"ids": "bitcoin,ethereum", "vs_currencies": "usd",
+                    "include_24hr_change": "true"},
+            timeout=30,
+        )
+        r.raise_for_status()
+        datos = r.json()
+    except (requests.RequestException, ValueError) as e:
+        print(f"  ! no se pudieron obtener precios: {e}")
+        return
+
+    lineas = ["<b>Cotizaciones de hoy</b>", ""]
+    for clave, nombre in (("bitcoin", "Bitcoin (BTC)"), ("ethereum", "Ethereum (ETH)")):
+        info = datos.get(clave)
+        if not info:
+            continue
+        precio = info.get("usd", 0)
+        cambio = info.get("usd_24h_change", 0) or 0
+        signo = "+" if cambio >= 0 else ""
+        lineas.append(f"{nombre}: USD {precio:,.0f} ({signo}{cambio:.2f}% en 24h)")
+
+    if len(lineas) <= 2:
+        return
+    lineas.append("")
+    lineas.append("<i>Datos: CoinGecko</i>")
+    if enviar("\n".join(lineas)):
+        estado["precios_enviado"] = hoy()
+        print("Enviadas las cotizaciones del dia.")
+
+
+def enviar_resumen(estado: dict) -> None:
+    """Resumen de titulares publicados durante el dia."""
+    if HORA_RESUMEN is None or estado.get("resumen_enviado") == hoy():
+        return
+    titulos = estado.get("resumen", {}).get("titulos", [])
+    if not titulos:
+        estado["resumen_enviado"] = hoy()
+        return
+
+    lineas = [f"<b>Resumen del dia — {len(titulos)} noticias</b>", ""]
+    for t in titulos[:25]:
+        lineas.append(f"• {html.escape(t)}")
+    if len(titulos) > 25:
+        lineas.append(f"\n<i>y {len(titulos) - 25} mas</i>")
+
+    if enviar("\n".join(lineas)):
+        estado["resumen_enviado"] = hoy()
+        print(f"Enviado el resumen con {len(titulos)} titulares.")
+
+
+def anotar_en_resumen(estado: dict, titulo: str) -> None:
+    resumen = estado.setdefault("resumen", {"fecha": hoy(), "titulos": []})
+    if resumen.get("fecha") != hoy():
+        resumen["fecha"] = hoy()
+        resumen["titulos"] = []
+    resumen["titulos"].append(titulo)
+
+
 def main() -> int:
+    ahora = datetime.now(ZONA)
     estado = cargar_estado()
+
+    # Tareas de horario fijo (fuera del silencio nocturno)
+    if ahora.hour == HORA_PRECIOS:
+        enviar_precios(estado)
+    if ahora.hour == HORA_RESUMEN:
+        enviar_resumen(estado)
+
+    if en_silencio(ahora):
+        guardar_estado(estado)
+        print(f"Silencio nocturno ({ahora:%H:%M}): las noticias quedan en cola.")
+        return 0
+
     vistos = set(estado["vistos"])
     primera_vez = not estado["inicializado"]
 
@@ -180,17 +280,20 @@ def main() -> int:
         if not feed.entries:
             print(f"  ! no se pudo leer: {feed.get('bozo_exception')}")
             continue
-        for entrada in feed.entries[:20]:
+        for entrada in feed.entries[:40]:
             clave = entrada.get("id") or entrada.get("link")
             if not clave or clave in vistos:
                 continue
             vistos.add(clave)
-            estado["vistos"].append(clave)
             if interesa(medio, entrada):
-                nuevas.append((medio, entrada))
+                nuevas.append((medio, entrada, clave))
+            else:
+                # Descartada por el filtro: no volver a evaluarla.
+                estado["vistos"].append(clave)
 
     if primera_vez:
         # En el primer arranque no publicamos el historico entero.
+        estado["vistos"].extend(clave for _, _, clave in nuevas)
         estado["inicializado"] = True
         guardar_estado(estado)
         print(f"Primera ejecucion: {len(nuevas)} noticias marcadas como vistas, sin publicar.")
@@ -198,14 +301,18 @@ def main() -> int:
 
     print(f"{len(nuevas)} noticias nuevas")
     enviadas = 0
-    for medio, entrada in nuevas[:MAX_POR_EJECUCION]:
+    for medio, entrada, clave in nuevas[:MAX_POR_EJECUCION]:
+        titulo = limpiar(entrada.get("title", ""))
         if enviar(construir_mensaje(medio, entrada)):
             enviadas += 1
-            print(f"  -> {limpiar(entrada.get('title', ''))[:70]}")
+            estado["vistos"].append(clave)
+            anotar_en_resumen(estado, titulo)
+            print(f"  -> {titulo[:70]}")
         time.sleep(SEGUNDOS_ENTRE_MENSAJES)
 
     guardar_estado(estado)
-    print(f"Publicadas {enviadas} noticias.")
+    pendientes = max(0, len(nuevas) - enviadas)
+    print(f"Publicadas {enviadas} noticias. Quedan {pendientes} en cola.")
     return 0
 
 
