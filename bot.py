@@ -61,13 +61,15 @@ HORA_PRECIOS = 9           # mensaje con cotizaciones (None para desactivar)
 HORA_RESUMEN = 20          # resumen de titulares del dia (None para desactivar)
 
 # Mensaje del sponsor: horas del dia en que se publica (lista vacia = desactivado)
-HORAS_SPONSOR = [13, 19]
+HORAS_SPONSOR = [13]
 MENSAJE_SPONSOR = (
-    "<b>Operá con Bitunix</b>\n\n"
-    "Nuestro sponsor oficial: futuros con hasta 200x de apalancamiento, "
-    "comisiones bajas y soporte en español.\n\n"
-    "https://x.com/BitunixOfficial\n\n"
-    "<i>Publicidad</i>"
+    "<b>Operá en Bitunix</b>\n\n"
+    "Es el exchange que uso a diario para operar futuros y spot. "
+    "Si querés abrir cuenta, podés hacerlo desde acá con el código "
+    "<b>CRIPTOCONTADOR</b>:\n\n"
+    "https://www.bitunix.com/register?vipCode=CRIPTOCONTADOR\n\n"
+    "<i>Enlace de referido. Operar con apalancamiento implica riesgo de "
+    "perder el capital invertido.</i>"
 )
 
 MAX_POR_EJECUCION = 15     # tope de mensajes por ronda (evita inundar el canal)
