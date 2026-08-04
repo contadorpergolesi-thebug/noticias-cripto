@@ -51,6 +51,10 @@ FILTRO_POR_MEDIO = {
                      "stablecoin", "usdt", "billetera virtual", "tokeniz"],
 }
 
+# Los feeds cuyo nombre empieza asi se consideran contenido propio y pueden
+# revisarse aparte, con mas frecuencia (ver el workflow "propios").
+PREFIJO_PROPIO = "Cripto Contador"
+
 ZONA = ZoneInfo("America/Argentina/Buenos_Aires")
 
 # Horario de silencio: no se publica entre estas horas (acumula y sale despues).
@@ -58,10 +62,10 @@ SILENCIO_DESDE = 0         # 00:00
 SILENCIO_HASTA = 8         # 08:00
 
 HORA_PRECIOS = 9           # mensaje con cotizaciones (None para desactivar)
-HORA_RESUMEN = 20          # resumen de titulares del dia (None para desactivar)
+HORA_RESUMEN = 21          # resumen de titulares del dia (None para desactivar)
 
 # Mensaje del sponsor: horas del dia en que se publica (lista vacia = desactivado)
-HORAS_SPONSOR = [13, 20]
+HORAS_SPONSOR = [13, 19]
 # Imagen del sponsor (dejar "" para enviarlo como texto simple).
 # Podes subir el archivo a este mismo repositorio y usar la direccion "raw".
 IMAGEN_SPONSOR = ""
@@ -298,12 +302,19 @@ def main() -> int:
     ahora = datetime.now(ZONA)
     estado = cargar_estado()
 
-    # Tareas de horario fijo (fuera del silencio nocturno)
-    if ahora.hour == HORA_PRECIOS:
-        enviar_precios(estado)
-    if ahora.hour == HORA_RESUMEN:
-        enviar_resumen(estado)
-    enviar_sponsor(estado, ahora)
+    # Modo "solo propios": revisa unicamente el blog y YouTube, sin mensajes fijos.
+    solo_propios = os.environ.get("SOLO_PROPIOS") == "1"
+    if solo_propios:
+        feeds = {k: v for k, v in FEEDS.items() if k.startswith(PREFIJO_PROPIO)}
+        print("Modo contenido propio.")
+    else:
+        feeds = FEEDS
+        # Tareas de horario fijo
+        if ahora.hour == HORA_PRECIOS:
+            enviar_precios(estado)
+        if ahora.hour == HORA_RESUMEN:
+            enviar_resumen(estado)
+        enviar_sponsor(estado, ahora)
 
     if en_silencio(ahora):
         guardar_estado(estado)
@@ -321,7 +332,7 @@ def main() -> int:
         "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
     }
 
-    for medio, url in FEEDS.items():
+    for medio, url in feeds.items():
         print(f"Leyendo {medio}...")
         try:
             respuesta = requests.get(url, headers=NAVEGADOR, timeout=30)
