@@ -31,11 +31,14 @@ FEEDS = {
     "Cripto Contador · YouTube": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCMRtM4Gx0QfrK7gPq0aeGA",
     "Cripto Contador · Blog": "https://cripto-contador.com/feed/",
 
-    "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
+    "Bitunix": "https://blog.bitunix.com/en/feed/",
+
     "BeInCrypto": "https://es.beincrypto.com/feed/",
     "Bit2Me News": "https://news.bit2me.com/feed/",
     "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",
     "iProfesional": "https://www.iprofesional.com/rss/finanzas",
+    # Retirados:
+    # "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
     # Retirados por fallos persistentes en el origen (no se pueden leer):
     # "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
     # "iProUP": "https://www.iproup.com/rss/blockchain",
@@ -56,6 +59,16 @@ SILENCIO_HASTA = 8         # 08:00
 
 HORA_PRECIOS = 9           # mensaje con cotizaciones (None para desactivar)
 HORA_RESUMEN = 20          # resumen de titulares del dia (None para desactivar)
+
+# Mensaje del sponsor: horas del dia en que se publica (lista vacia = desactivado)
+HORAS_SPONSOR = [13, 19]
+MENSAJE_SPONSOR = (
+    "<b>Operá con Bitunix</b>\n\n"
+    "Nuestro sponsor oficial: futuros con hasta 200x de apalancamiento, "
+    "comisiones bajas y soporte en español.\n\n"
+    "https://x.com/BitunixOfficial\n\n"
+    "<i>Publicidad</i>"
+)
 
 MAX_POR_EJECUCION = 15     # tope de mensajes por ronda (evita inundar el canal)
 LARGO_RESUMEN = 220        # caracteres del extracto
@@ -175,6 +188,18 @@ def interesa(medio: str, entrada) -> bool:
     return any(p.lower() in titulo for p in PALABRAS_CLAVE)
 
 
+def enviar_sponsor(estado: dict, ahora: datetime) -> None:
+    """Mensaje del sponsor, una vez por cada hora configurada."""
+    if ahora.hour not in HORAS_SPONSOR:
+        return
+    marca = f"{hoy()}-{ahora.hour}"
+    if estado.get("sponsor_enviado") == marca:
+        return
+    if enviar(MENSAJE_SPONSOR):
+        estado["sponsor_enviado"] = marca
+        print("Enviado el mensaje del sponsor.")
+
+
 def enviar_precios(estado: dict) -> None:
     """Cotizaciones de BTC y ETH, una vez por dia."""
     if HORA_PRECIOS is None or estado.get("precios_enviado") == hoy():
@@ -248,6 +273,7 @@ def main() -> int:
         enviar_precios(estado)
     if ahora.hour == HORA_RESUMEN:
         enviar_resumen(estado)
+    enviar_sponsor(estado, ahora)
 
     if en_silencio(ahora):
         guardar_estado(estado)
