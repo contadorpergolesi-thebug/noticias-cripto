@@ -14,6 +14,12 @@ from pathlib import Path
 
 import feedparser
 import requests
+import socket
+import urllib3.util.connection as urllib3_conexion
+
+# Los servidores de GitHub no tienen IPv6: forzamos IPv4 para evitar
+# el error "Network is unreachable" en webs que responden por IPv6.
+urllib3_conexion.allowed_gai_family = lambda: socket.AF_INET
 
 # ---------------------------------------------------------------------------
 # CONFIGURACION — edita esta lista a tu gusto
