@@ -61,7 +61,10 @@ HORA_PRECIOS = 9           # mensaje con cotizaciones (None para desactivar)
 HORA_RESUMEN = 20          # resumen de titulares del dia (None para desactivar)
 
 # Mensaje del sponsor: horas del dia en que se publica (lista vacia = desactivado)
-HORAS_SPONSOR = [13,20]
+HORAS_SPONSOR = [13, 20]
+# Imagen del sponsor (dejar "" para enviarlo como texto simple).
+# Podes subir el archivo a este mismo repositorio y usar la direccion "raw".
+IMAGEN_SPONSOR = ""
 MENSAJE_SPONSOR = (
     "<b>Operá en Bitunix</b>\n\n"
     "Es el exchange que uso a diario para operar futuros y spot. "
@@ -190,6 +193,24 @@ def interesa(medio: str, entrada) -> bool:
     return any(p.lower() in titulo for p in PALABRAS_CLAVE)
 
 
+def enviar_foto(imagen: str, pie: str) -> bool:
+    """Envia una imagen con texto al pie. Si falla, avisa y devuelve False."""
+    try:
+        r = requests.post(
+            f"https://api.telegram.org/bot{TOKEN}/sendPhoto",
+            json={"chat_id": CHAT_ID, "photo": imagen, "caption": pie,
+                  "parse_mode": "HTML"},
+            timeout=30,
+        )
+    except requests.RequestException as e:
+        print(f"  ! error de red al enviar la imagen: {e}")
+        return False
+    if not r.ok:
+        print(f"  ! Telegram rechazo la imagen {r.status_code}: {r.text[:200]}")
+        return False
+    return True
+
+
 def enviar_sponsor(estado: dict, ahora: datetime) -> None:
     """Mensaje del sponsor, una vez por cada hora configurada."""
     if ahora.hour not in HORAS_SPONSOR:
@@ -197,7 +218,14 @@ def enviar_sponsor(estado: dict, ahora: datetime) -> None:
     marca = f"{hoy()}-{ahora.hour}"
     if estado.get("sponsor_enviado") == marca:
         return
-    if enviar(MENSAJE_SPONSOR):
+    if IMAGEN_SPONSOR:
+        ok = enviar_foto(IMAGEN_SPONSOR, MENSAJE_SPONSOR)
+        if not ok:                      # si la imagen falla, mandamos el texto
+            ok = enviar(MENSAJE_SPONSOR)
+    else:
+        ok = enviar(MENSAJE_SPONSOR)
+
+    if ok:
         estado["sponsor_enviado"] = marca
         print("Enviado el mensaje del sponsor.")
 
