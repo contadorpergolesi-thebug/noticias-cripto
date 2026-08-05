@@ -35,9 +35,9 @@ FEEDS = {
 
     "BeInCrypto": "https://es.beincrypto.com/feed/",
     "Bit2Me News": "https://news.bit2me.com/feed/",
-    "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",
     "iProfesional": "https://www.iprofesional.com/rss/finanzas",
     # Retirados:
+    # "DiarioBitcoin": "https://www.diariobitcoin.com/feed/",   # demasiada alerta de precio
     # "CriptoNoticias": "https://news.google.com/rss/search?q=site:criptonoticias.com&hl=es-419&gl=AR&ceid=AR:es",
     # Retirados por fallos persistentes en el origen (no se pueden leer):
     # "Cointelegraph": "https://news.google.com/rss/search?q=site:es.cointelegraph.com&hl=es-419&gl=AR&ceid=AR:es",
