@@ -216,10 +216,13 @@ def enviar_foto(imagen: str, pie: str) -> bool:
 
 
 def enviar_sponsor(estado: dict, ahora: datetime) -> None:
-    """Mensaje del sponsor, una vez por cada hora configurada."""
-    if ahora.hour not in HORAS_SPONSOR:
+    """Mensaje del sponsor, una vez por cada hora configurada.
+    Si una tanda falla, se recupera en la siguiente del mismo dia."""
+    pendientes = [h for h in HORAS_SPONSOR if ahora.hour >= h]
+    if not pendientes:
         return
-    marca = f"{hoy()}-{ahora.hour}"
+    hora_objetivo = max(pendientes)
+    marca = f"{hoy()}-{hora_objetivo}"
     if estado.get("sponsor_enviado") == marca:
         return
     if IMAGEN_SPONSOR:
@@ -309,10 +312,11 @@ def main() -> int:
         print("Modo contenido propio.")
     else:
         feeds = FEEDS
-        # Tareas de horario fijo
-        if ahora.hour == HORA_PRECIOS:
+        # Tareas de horario fijo. Usamos ">=" para que, si una tanda falla,
+        # el mensaje salga igual en la siguiente del mismo dia.
+        if HORA_PRECIOS is not None and ahora.hour >= HORA_PRECIOS:
             enviar_precios(estado)
-        if ahora.hour == HORA_RESUMEN:
+        if HORA_RESUMEN is not None and ahora.hour >= HORA_RESUMEN:
             enviar_resumen(estado)
         enviar_sponsor(estado, ahora)
 
