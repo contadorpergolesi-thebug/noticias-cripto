@@ -734,31 +734,34 @@
   "https://es.beincrypto.com/?p=537244",
   "https://www.iprofesional.com/criptomonedas/461980-gigante-financiero-vendio-casi-1700-bitcoins-en-plena-presion-sobre-su-precio",
   "https://www.iprofesional.com/finanzas/461992-el-chiste-de-bausili-que-puede-terminar-en-juicio-entre-luis-caputo-y-marcela-pagano",
-  "https://es.beincrypto.com/?p=537249"
+  "https://es.beincrypto.com/?p=537249",
+  "https://www.iprofesional.com/economia/462004-el-techo-al-dolar-que-puso-caputo-recalienta-las-tasas-de-interes",
+  "https://es.beincrypto.com/?p=537327",
+  "https://es.beincrypto.com/?p=537314",
+  "https://es.beincrypto.com/?p=537321",
+  "https://es.beincrypto.com/?p=537300",
+  "https://es.beincrypto.com/?p=537315",
+  "https://news.bit2me.com/strategy-vende-1-690-bitcoin-recomprar/",
+  "https://news.bit2me.com/mineria-bitcoin-bitdeer-multiplica-produccion/",
+  "https://news.bit2me.com/bitcoin-cae-tension-ormuz-petroleo/",
+  "https://news.bit2me.com/ethereum-ia-seguridad-cuantica-hoja-ruta/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-08-10",
+  "fecha": "2026-08-11",
   "titulos": [
-   "MicroStrategy vende más Bitcoin para arreglar la acción de STRC: ¿Funcionará?",
-   "Hackers norcoreanos prueban IA para mejorar sus ciberataques",
-   "Top 3 desbloqueos de tokens a observar en la segunda semana de agosto de 2026",
-   "El gasto en IA se desacelera: ¿Cómo reaccionará el S&P 500?",
-   "Coinsbuy sufre posible hack por $7.9 millones en criptomonedas",
-   "Oro tokenizado: Reino Unido prepara su marco regulatorio",
-   "Ley CLARITY: Mark Esper la define como seguridad nacional",
-   "Chainlink cotiza en $8.22: Standard Chartered prevé rally de 24x",
-   "Altcoins se disparan 30% tras nuevos listados en Upbit",
-   "Bitcoin: H100 es la segunda mayor tesorería de Europa",
-   "Advertencia sobre el precio de XRP en Polymarket coincide con los gráficos",
-   "Bitcoin sepulta el hard fork BIP-110: ¿Se avecina una nueva criptomoneda para el 1 de septiembre?",
-   "JPMorgan y CFRA aumentan proyecciones para el S&P 500 y esta es la razón",
-   "Top 3 altcoins a observar: 2da semana de agosto de 2026",
-   "Gigante financiero vendió casi 1.700 Bitcoins en plena presión sobre el precio de la criptomoneda",
-   "Bancos centrales de cuatro países debaten sobre tokenización y stablecoins en Río de Janeiro"
+   "Claude introduce marcas de agua invisibles: ¿Llegó el fin del copiar y pegar con IA?",
+   "Doce acciones del Nasdaq duplicaron su valor en 2026, pero ninguna es del grupo de las Magnificent Seven",
+   "Bitcoin Knots dice que la red está bajo ataque: ex-CTO de Ripple califica la advertencia de “tontería engañosa”",
+   "El plan de la Fed con el yen japonés impulsará a Bitcoin, sugiere Arthur Hayes",
+   "OpenAI lanza GPT-5.6-Cyber a través del nivel de acceso restringido Daybreak Red",
+   "Strategy vende 1.690 Bitcoin para recomprar acciones STRC",
+   "Minería Bitcoin: Bitdeer multiplica por cinco su producción",
+   "Bitcoin cae por la tensión en Ormuz y el alza del petróleo",
+   "Ethereum: IA y seguridad cuántica en su nueva hoja de ruta"
   ]
  },
- "precios_enviado": "2026-08-10",
+ "precios_enviado": "2026-08-11",
  "sponsor_enviado": "2026-08-10-19",
  "resumen_enviado": "2026-08-10"
 }
