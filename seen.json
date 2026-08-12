@@ -763,34 +763,29 @@
   "https://es.beincrypto.com/?p=537416",
   "https://es.beincrypto.com/?p=537413",
   "https://www.iprofesional.com/finanzas/462079-el-broker-facimex-valores-armo-un-portafolio-para-invertir-1-millon-en-bonos",
-  "https://www.iprofesional.com/finanzas/462087-el-bitcoin-no-repunta-y-los-expertos-revelan-si-es-buen-momento-para-invertir"
+  "https://www.iprofesional.com/finanzas/462087-el-bitcoin-no-repunta-y-los-expertos-revelan-si-es-buen-momento-para-invertir",
+  "https://es.beincrypto.com/pronosticos-inflacion-eeuu-bitcoin-fed/",
+  "https://es.beincrypto.com/?p=537509",
+  "https://es.beincrypto.com/?p=537493",
+  "https://es.beincrypto.com/?p=537477",
+  "https://es.beincrypto.com/?p=537461",
+  "https://news.bit2me.com/tokenizacion-rwa-shipfinex-adi-chain-buques/",
+  "https://news.bit2me.com/bitcoin-microstrategy-retomara-compras-este-ano/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-08-11",
+  "fecha": "2026-08-12",
   "titulos": [
-   "Claude introduce marcas de agua invisibles: ¿Llegó el fin del copiar y pegar con IA?",
-   "Doce acciones del Nasdaq duplicaron su valor en 2026, pero ninguna es del grupo de las Magnificent Seven",
-   "Bitcoin Knots dice que la red está bajo ataque: ex-CTO de Ripple califica la advertencia de “tontería engañosa”",
-   "El plan de la Fed con el yen japonés impulsará a Bitcoin, sugiere Arthur Hayes",
-   "OpenAI lanza GPT-5.6-Cyber a través del nivel de acceso restringido Daybreak Red",
-   "Strategy vende 1.690 Bitcoin para recomprar acciones STRC",
-   "Minería Bitcoin: Bitdeer multiplica por cinco su producción",
-   "Bitcoin cae por la tensión en Ormuz y el alza del petróleo",
-   "Ethereum: IA y seguridad cuántica en su nueva hoja de ruta",
-   "Zoomex lanza oficialmente el Demo Trading",
-   "Ballenas acumulan 46,000 Bitcoin, pero la débil actividad en la blockchain nubla la recuperación",
-   "XRP cae por debajo de $1 por primera vez desde 2024: el hack del Coreum Bridge fue el catalizador",
-   "TRON movió $2.1 billones en USDT el último trimestre, pero el precio de TRX no se movió",
-   "Peter Schiff recomienda vender Bitcoin y acciones de Strategy mientras el oro supera los $4,400",
-   "Empresa nórdica triplica su tesorería Bitcoin y asciende al segundo puesto en Europa",
-   "La Comisión de Bolsa y Valores presentará planes alternativos para las criptomonedas frente a la Ley CLARITY",
-   "Banco central de Brasil detalla planes para crear el Pix internacional para conectar el sistema con otros países",
-   "Carry trade de Bitcoin supera los rendimientos del Tesoro con 7.89%: ¿Rotará Wall Street?",
-   "El Bitcoin no repunta y los expertos revelan si es buen momento para invertir"
+   "La inflación en Estados Unidos se mantiene en 3.4%: ¿evitará Bitcoin una subida de tasas de la Fed en septiembre?",
+   "Memecoin explota 10,000% tras post viral en X (Twitter)",
+   "Barça Mobile integrará una wallet digital con Stellar, Wirex y Crossmint",
+   "Harmony (ONE) cae a mínimos históricos tras exploit que generó 4 mil millones de tokens",
+   "¿Quieres leer el mercado como Jim Cramer? Hazte estas 3 preguntas",
+   "Tokenización RWA: Shipfinex y ADI Chain tokenizan 35 buques",
+   "Bitcoin: MicroStrategy retomará sus compras este año"
   ]
  },
- "precios_enviado": "2026-08-11",
+ "precios_enviado": "2026-08-12",
  "sponsor_enviado": "2026-08-11-19",
  "resumen_enviado": "2026-08-11"
 }
