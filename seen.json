@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/morgan-stanley-integra-etps-ethereum-solana/",
-  "https://news.bit2me.com/moonpay-paybox-pagos-cripto-chatgpt-claude/",
-  "https://news.bit2me.com/ethereum-foundation-junta-pascal-caversaccio/",
-  "https://news.bit2me.com/regulacion-stablecoins-corea-del-sur/",
   "https://news.bit2me.com/myanmar-estafas-cripto-penas-hasta-cadena/",
   "https://news.bit2me.com/hungria-mica-fin-controles-cripto-primera/",
   "https://news.bit2me.com/emirates-integra-pagos-criptomonedas-vuelos/",
@@ -799,7 +795,11 @@
   "https://news.bit2me.com/metaplanet-aclara-traslado-bitcoin/",
   "https://www.iprofesional.com/finanzas/462223-calificadora-fitch-cuanto-podria-valer-dolar-tras-elecciones-2027",
   "https://es.beincrypto.com/?p=537366",
-  "https://es.beincrypto.com/?p=537728"
+  "https://es.beincrypto.com/?p=537728",
+  "https://www.iprofesional.com/politica/462231-el-gobierno-avanza-con-cambios-para-ampliar-el-credito-en-dolares-a-empresas",
+  "https://www.iprofesional.com/finanzas/462227-la-ciudad-de-buenos-aires-quiere-transformar-los-taxis-y-saca-un-credito-con-tasa-del-20",
+  "https://cripto-contador.com/?p=4753",
+  "https://es.beincrypto.com/?p=537588"
  ],
  "inicializado": true,
  "resumen": {
@@ -821,10 +821,12 @@
    "Goldman Sachs compra NEOS por 2.250 millones de dólares",
    "Metaplanet no vende Bitcoin: aclara el traslado de 5.014 BTC",
    "Opera con gigantes de la salud, las finanzas y el consumo en Zoomex",
-   "Brecha expone datos de más de 13,000 usuarios de Trezor: ¿Deberías preocuparte?"
+   "Brecha expone datos de más de 13,000 usuarios de Trezor: ¿Deberías preocuparte?",
+   "LLC en Estados Unidos y ARCA: qué informa FATCA, qué no informa y por qué Wyoming no te vuelve “invisible”",
+   "OranjeBTC lanza DIGY11: un ETF mensual de ingresos vinculado a Bitcoin"
   ]
  },
  "precios_enviado": "2026-08-13",
- "sponsor_enviado": "2026-08-12-19",
+ "sponsor_enviado": "2026-08-13-13",
  "resumen_enviado": "2026-08-11"
 }
