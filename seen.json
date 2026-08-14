@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=536096",
-  "https://es.beincrypto.com/?p=536165",
-  "https://es.beincrypto.com/?p=536111",
-  "https://es.beincrypto.com/?p=536157",
-  "https://es.beincrypto.com/?p=536193",
-  "https://es.beincrypto.com/?p=536114",
   "https://es.beincrypto.com/?p=536176",
   "https://news.bit2me.com/segregacion-fondos-pilar-fundamental-confianza/",
   "https://news.bit2me.com/acciones-tokenizadas-garantia-prestamos-cripto/",
@@ -799,7 +793,13 @@
   "https://www.iprofesional.com/finanzas/462316-federico-furiase-anticipa-que-los-bancos-privados-ofreceran-mas-creditos-en-dolares",
   "https://es.beincrypto.com/?p=537826",
   "https://es.beincrypto.com/?p=537885",
-  "https://news.bit2me.com/etf-bitcoin-entradas-netas-mercado-cripto/"
+  "https://news.bit2me.com/etf-bitcoin-entradas-netas-mercado-cripto/",
+  "https://www.iprofesional.com/finanzas/462326-caputo-busca-reactivar-la-economia-rumbo-a-las-elecciones-con-los-creditos-en-dolares",
+  "https://www.iprofesional.com/finanzas/462331-cuanto-se-gana-en-el-plazo-fijo-de-banco-ciudad-si-se-invierten-2-millones",
+  "https://www.iprofesional.com/finanzas/461976-la-advertencia-de-barclays-sobre-el-nuevo-bcra-una-ley-no-alcanza-para-evitar-la-emision",
+  "https://es.beincrypto.com/?p=537865",
+  "https://news.bit2me.com/regulacion-cripto-sec-cancela-reunion/",
+  "https://news.bit2me.com/adopcion-pagos-cripto-europa-bce/"
  ],
  "inicializado": true,
  "resumen": {
@@ -822,7 +822,10 @@
    "Fondo tokenizado de Aviva Investors llega a XRP Ledger",
    "MORPHO registra su mayor salida de exchanges desde que comenzó el trading del token",
    "Binance restringe transacciones con HTX y otras 10 plataformas: ¿Están en riesgo tus fondos?",
-   "ETF de Bitcoin: Entradas netas en el mercado cripto"
+   "ETF de Bitcoin: Entradas netas en el mercado cripto",
+   "Kraken crece más rápido que Coinbase, pero sus ganancias cayeron un 71%",
+   "Regulación cripto: la SEC cancela su reunión clave",
+   "Adopción cripto en Europa: el BCE revela datos de pagos"
   ]
  },
  "precios_enviado": "2026-08-14",
