@@ -1,12 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/etf-bitcoin-entradas-netas-mercado-cripto/",
-  "https://es.beincrypto.com/?p=536026",
-  "https://es.beincrypto.com/?p=535465",
-  "https://es.beincrypto.com/?p=536052",
-  "https://es.beincrypto.com/?p=536046",
-  "https://es.beincrypto.com/?p=536073",
-  "https://es.beincrypto.com/?p=535898",
   "https://es.beincrypto.com/?p=535390",
   "https://es.beincrypto.com/?p=536078",
   "https://es.beincrypto.com/?p=536094",
@@ -799,7 +792,14 @@
   "https://news.bit2me.com/staking-ether-bitmine-ingresos-anuales/",
   "https://news.bit2me.com/mineria-bitcoin-caida-hashrate-inteligencia-artificial/",
   "https://news.bit2me.com/fraude-cripto-ceo-delio-condenado-prision/",
-  "https://news.bit2me.com/auditoria-tether-kpmg-cuentas-financieras/"
+  "https://news.bit2me.com/auditoria-tether-kpmg-cuentas-financieras/",
+  "https://es.beincrypto.com/?p=537772",
+  "https://es.beincrypto.com/?p=537723",
+  "https://news.bit2me.com/jpmorgan-corta-lazos-polymarket-regulacion/",
+  "https://news.bit2me.com/bny-mellon-registros-fondos-blockchain/",
+  "https://news.bit2me.com/corea-sur-ley-cripto-stablecoins-impuestos/",
+  "https://news.bit2me.com/oro-tokenizado-supera-test-defi-pero/",
+  "https://news.bit2me.com/fondo-tokenizado-aviva-investors-xrp-ledger/"
  ],
  "inicializado": true,
  "resumen": {
@@ -812,7 +812,14 @@
    "Staking de Ether: Bitmine asegura 257 millones anuales",
    "Minería de Bitcoin: el hashrate cae un 13% por la IA",
    "Fraude cripto: CEO de Delio condenado a 15 años de prisión",
-   "Auditoría de Tether: KPMG avala sus cuentas financieras"
+   "Auditoría de Tether: KPMG avala sus cuentas financieras",
+   "BloFin Research: Circle eleva su guía para 2026 con la preventa del token Arc como motor",
+   "Resumen semanal de Bitcoin y criptomonedas: 14 de agosto",
+   "JPMorgan corta lazos con Polymarket por presión regulatoria",
+   "BNY Mellon lleva los registros de fondos a la blockchain",
+   "Corea del Sur prepara nueva ley cripto y debate fiscal",
+   "Oro tokenizado: supera el test DeFi pero su adopción es baja",
+   "Fondo tokenizado de Aviva Investors llega a XRP Ledger"
   ]
  },
  "precios_enviado": "2026-08-14",
