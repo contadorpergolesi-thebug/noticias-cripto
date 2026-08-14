@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=535390",
-  "https://es.beincrypto.com/?p=536078",
-  "https://es.beincrypto.com/?p=536094",
-  "https://es.beincrypto.com/?p=536103",
   "https://es.beincrypto.com/?p=536096",
   "https://es.beincrypto.com/?p=536165",
   "https://es.beincrypto.com/?p=536111",
@@ -799,7 +795,11 @@
   "https://news.bit2me.com/bny-mellon-registros-fondos-blockchain/",
   "https://news.bit2me.com/corea-sur-ley-cripto-stablecoins-impuestos/",
   "https://news.bit2me.com/oro-tokenizado-supera-test-defi-pero/",
-  "https://news.bit2me.com/fondo-tokenizado-aviva-investors-xrp-ledger/"
+  "https://news.bit2me.com/fondo-tokenizado-aviva-investors-xrp-ledger/",
+  "https://www.iprofesional.com/finanzas/462316-federico-furiase-anticipa-que-los-bancos-privados-ofreceran-mas-creditos-en-dolares",
+  "https://es.beincrypto.com/?p=537826",
+  "https://es.beincrypto.com/?p=537885",
+  "https://news.bit2me.com/etf-bitcoin-entradas-netas-mercado-cripto/"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,10 +819,13 @@
    "BNY Mellon lleva los registros de fondos a la blockchain",
    "Corea del Sur prepara nueva ley cripto y debate fiscal",
    "Oro tokenizado: supera el test DeFi pero su adopción es baja",
-   "Fondo tokenizado de Aviva Investors llega a XRP Ledger"
+   "Fondo tokenizado de Aviva Investors llega a XRP Ledger",
+   "MORPHO registra su mayor salida de exchanges desde que comenzó el trading del token",
+   "Binance restringe transacciones con HTX y otras 10 plataformas: ¿Están en riesgo tus fondos?",
+   "ETF de Bitcoin: Entradas netas en el mercado cripto"
   ]
  },
  "precios_enviado": "2026-08-14",
- "sponsor_enviado": "2026-08-13-19",
+ "sponsor_enviado": "2026-08-14-13",
  "resumen_enviado": "2026-08-11"
 }
