@@ -1,7 +1,5 @@
 {
  "vistos": [
-  "CBMimgFBVV95cUxQMnFsQzltdXdGZjJJM2d1elFrMTZOYVU4RXp4d0xMZ01Pakp0a0RZT3ZMektUM1pnTlhtTGgzZWtWRF9obWxSRnlQZGtNUm85TUk5RHdoUVdobG80OWo4YjI2MWhLTGo4WV9VSVFlOWxuSFJoRkFfa2daV2lhUFdhT1dEa0t4dDQ3dmhJUk1meG9YYWNtMWNfbWVB",
-  "CBMilAFBVV95cUxNZ0pXLUJJcEJ4blJVNkJrVEVlaHdWalMwVHgxYW9qSEhOSFk2Mm5OeDUzNXJhRW9UUG9nZ2tmSkFDR2RzWVBZbmlzdjNlYVRRMWZXQ1FGalZkdWdrN1lMakdWb0swQ1BtTzlSX0ZRanpMTVk4RXE3QWhmNmpVZnh5ZWpYMFZzUmtSdTJFTllSc1Q2VFhh",
   "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification",
   "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves",
   "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years",
@@ -799,7 +797,9 @@
   "https://news.bit2me.com/reino-unido-fca-investiga-promociones-criptomonedas/",
   "https://news.bit2me.com/custodia-bank-reserva-federal-supremo/",
   "https://news.bit2me.com/ethereum-nuevo-plan-post-cuantico-poseidon/",
-  "https://es.beincrypto.com/?p=537914"
+  "https://es.beincrypto.com/?p=537914",
+  "https://es.beincrypto.com/?p=537978",
+  "https://es.beincrypto.com/?p=537985"
  ],
  "inicializado": true,
  "resumen": {
@@ -811,10 +811,12 @@
    "Reino Unido: la FCA investiga promociones de criptomonedas",
    "Custodia Bank y la Fed: el sector cripto acude al Supremo",
    "Ethereum: nuevo plan post-cuántico sin la función Poseidon",
-   "Peter Schiff advierte que el activo más seguro ha caído 50%: ¿Qué significa para Bitcoin?"
+   "Peter Schiff advierte que el activo más seguro ha caído 50%: ¿Qué significa para Bitcoin?",
+   "CEO de Tether desmiente rumores sobre blockchain nativa",
+   "Wall Street solo se vio así en 1929 y en 2000: ¿Qué significa esto para Bitcoin?"
   ]
  },
  "precios_enviado": "2026-08-15",
- "sponsor_enviado": "2026-08-14-19",
+ "sponsor_enviado": "2026-08-15-13",
  "resumen_enviado": "2026-08-14"
 }
