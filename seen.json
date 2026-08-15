@@ -1,10 +1,5 @@
 {
  "vistos": [
-  "CBMijAFBVV95cUxPRjlwd0lGVFVmSElFNU1XRHRoRTVqWUVMV2k4Z25Xak1tTzRSbHNxbjdaS3F4d3RUU1NOelZ4ZDl3VmY2RnM0S01lSHBLaEFlUUhNY0FLa3ZFY2pKNGlxdVoycmZ2Tms0X3owbVEwV2dldF9yejVnenNGVzFDZXcydDdkODYzUzgwRHNUYQ",
-  "CBMinwFBVV95cUxNVjhkcnl4eHVyZnhaYS1jUVYwcVRZVHRJQmxiREtKMkZsRTJFMXFlenRzSkxVb3I2Q3dXUFUyLU1Ia3dLb2VPZWNma0l6QWg1RGtVTS0yNDJ1UkhILVBuSkZaQ21kN0p4SmRRWTZsYUs3bGJEbTc1N21RZWFVMlRZeWlnVGlRTUE0b0V3RG5LU2tRaDZXdkQ4aFg2cFFsMjg",
-  "CBMikAFBVV95cUxOWkE3aDZKV0JFV3A5aUlHRmlCM2thY1dIOTlrZTc2TzRicW1tZ3V0T1lpMTVsbF9pQmtMOVNuc0t2cUkzd3VFcGctS2ZlUHBCSzc4Y0Y3WGdLRnVKTU9yRzVLTURzazdVdjUzQ2pfOHF5UEN1cVl2YncxOXl1ZU5LZ2pYOXhhMElNbkZkSk4wTTI",
-  "CBMilgFBVV95cUxQYmdSMUFuODhkSF8wbXpyQkxrS2JDWDljS2RLbFFrYzllMUtZMzVtdUJtTWFYd2pZeFhoVUZFcFpzZ08yaFZBaGlzMXlGaHJvM2ZUWnE5ZXBUSWMtdXE1U1A4LURwMVRLRHBqU0QwYmFYYmxtcThXUndLWXhqRkZZT0taRms5Ni16TGx3Z0lXTzBScldocnc",
-  "CBMilgFBVV95cUxOc3BsM1h3ZVVpcXFSM3ZiTF9vaWJhajBMRDRmNHEyRWFlTjN5WktCcFNvd283LU0zUE1POElpR3lQYTRTZkpVZUpzem83NGxwcTl6SzIxRjk5bmRfV0RNOVM4bEMzS1RWWk9PWnVaR2c1dmlXelNPOW9zZTVTdkFUeVZPNWhXZUl4VlFDRHVzTW1lRXRvamc",
   "CBMioAFBVV95cUxQa0hSNllvOVJrWUVqTTZkc0dndE00ZXpFNlJWVUFteUFlZE96SXdmbGJ3SnJXQWlmdXgzSklpNy1FXzhqQkRPSzJsOVJoTnUtVWJLZUk0UnNZVXZpQjNVRld1Zm9GWGl2bThBcWtoQk9yWXZSQWNPTGxtZXFaWDVHR0lROHlaWWQxWU9XQ1BYelR2VmVONVJuM1lKbGwwQlZW",
   "CBMigAFBVV95cUxQVkZQUHRCMTdtNHl1cFJSaC12Z09tWE9hRlVlTmlGaVZycEtoOVNiZFRkTlFiYjBocG1IWW1DX0pWQV81Q1lDdTB1RHFTdnNRWHhuajAtTEE4dmZXTkdyVU1sYzVTMEJ0LW1oYzd6QS1iakp1VllacWhndmx5NEVGSg",
   "CBMiXkFVX3lxTE9iRkozb1JDaG1lZTMzRE02Mjk0OHFUT003SnRLa05oYVpqbHhxRWlvc0lyMER4VXBTYWlnZmR4ejNNbUVyZnZSRlZGaG9LaUxFTE9Ib3dSaVRyMGl2VkE",
@@ -799,7 +794,12 @@
   "https://es.beincrypto.com/?p=537862",
   "https://news.bit2me.com/microstrategy-mantiene-dividendo-acciones-12/",
   "https://news.bit2me.com/segregacion-fondos-pilar-fundamental-confianza/",
-  "https://news.bit2me.com/acciones-tokenizadas-garantia-prestamos-cripto/"
+  "https://news.bit2me.com/acciones-tokenizadas-garantia-prestamos-cripto/",
+  "https://www.iprofesional.com/finanzas/462363-de-pablo-dijo-que-el-gobierno-hace-todo-para-no-necesitar-de-trump-ni-de-wall-street",
+  "https://www.iprofesional.com/finanzas/462356-la-inversion-que-mas-rinde-en-agosto-supera-por-lejos-al-dolar-y-plazo-fijo",
+  "https://www.iprofesional.com/energia/462346-subasta-inversa-nuevo-modelo-de-licitacion-de-ypf-para-abaratar-obras-de-argentina-lng",
+  "https://www.iprofesional.com/finanzas/462326-caputo-busca-reactivar-economia-rumbo-a-las-elecciones-con-los-creditos-en-dolares",
+  "https://news.bit2me.com/caso-ftx-quinta-fase-devolucion-fondos/"
  ],
  "inicializado": true,
  "resumen": {
@@ -833,10 +833,11 @@
    "Brasil aplica Ley de Reciprocidad contra los aranceles de EEUU",
    "MicroStrategy mantiene el dividendo de sus acciones al 12 %",
    "Segregación de fondos: un pilar fundamental de la confianza",
-   "Acciones tokenizadas como garantía en préstamos cripto"
+   "Acciones tokenizadas como garantía en préstamos cripto",
+   "Caso FTX: Comienza la quinta fase de devolución de fondos"
   ]
  },
  "precios_enviado": "2026-08-14",
  "sponsor_enviado": "2026-08-14-19",
- "resumen_enviado": "2026-08-11"
+ "resumen_enviado": "2026-08-14"
 }
