@@ -1,10 +1,5 @@
 {
  "vistos": [
-  "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week",
-  "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze",
-  "https://cointelegraph.com/news/what-happened-in-crypto-today",
-  "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc",
-  "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls",
   "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein",
   "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss",
   "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push",
@@ -799,26 +794,22 @@
   "https://es.beincrypto.com/?p=537985",
   "https://es.beincrypto.com/?p=537927",
   "https://es.beincrypto.com/?p=537269",
-  "https://www.iprofesional.com/economia/462120-la-propuesta-del-mercado-a-milei-para-reactivar-la-economia-sin-emitir"
+  "https://www.iprofesional.com/economia/462120-la-propuesta-del-mercado-a-milei-para-reactivar-la-economia-sin-emitir",
+  "https://www.iprofesional.com/finanzas/462371-cedear-de-nubank-dos-brokers-revelan-si-es-momento-de-invertir",
+  "https://www.iprofesional.com/economia/462353-credito-en-dolares-las-cinco-advertencias-de-la-city-para-caputo",
+  "https://www.iprofesional.com/finanzas/462001-que-precio-alcanzara-el-dolar-en-argentina-segun-pronosticadora-estrella-de-eeuu",
+  "https://es.beincrypto.com/?p=537868",
+  "https://es.beincrypto.com/?p=537647"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-08-15",
+  "fecha": "2026-08-16",
   "titulos": [
-   "Standard Chartered reconsidera precio objetivo de Uniswap: “$100 es demasiado bajo”",
-   "Reaparece un catalizador del crash de Bitcoin de octubre de 2025: ¿El precio está en peligro?",
-   "Franklin Templeton recibe aval de la SEC para fondo onchain",
-   "Reino Unido: la FCA investiga promociones de criptomonedas",
-   "Custodia Bank y la Fed: el sector cripto acude al Supremo",
-   "Ethereum: nuevo plan post-cuántico sin la función Poseidon",
-   "Peter Schiff advierte que el activo más seguro ha caído 50%: ¿Qué significa para Bitcoin?",
-   "CEO de Tether desmiente rumores sobre blockchain nativa",
-   "Wall Street solo se vio así en 1929 y en 2000: ¿Qué significa esto para Bitcoin?",
-   "Model 2 de Anthropic supera a Claude Mythos 5, pero el público no lo tendrá",
-   "Argentina convirtió $10,000 en ahorros en pesos en $114: Steve Hanke dice que la solución es incompleta"
+   "40 días después de MiCA: impacto en el mercado cripto en Europa",
+   "El Banco de Corea rompe racha de 13 años al comprar un ETF de oro"
   ]
  },
- "precios_enviado": "2026-08-15",
+ "precios_enviado": "2026-08-16",
  "sponsor_enviado": "2026-08-15-19",
  "resumen_enviado": "2026-08-15"
 }
