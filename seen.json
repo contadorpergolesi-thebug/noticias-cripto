@@ -1,6 +1,5 @@
 {
  "vistos": [
-  "https://cointelegraph.com/news/trumps-american-bitcoin-output-narrower-q2-loss",
   "https://cointelegraph.com/news/ripple-invests-zilo-licuido-tokenized-capital-markets-push",
   "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research",
   "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account",
@@ -799,7 +798,8 @@
   "https://www.iprofesional.com/finanzas/462001-que-precio-alcanzara-el-dolar-en-argentina-segun-pronosticadora-estrella-de-eeuu",
   "https://es.beincrypto.com/?p=537868",
   "https://es.beincrypto.com/?p=537647",
-  "https://es.beincrypto.com/?p=537963"
+  "https://es.beincrypto.com/?p=537963",
+  "https://es.beincrypto.com/?p=538035"
  ],
  "inicializado": true,
  "resumen": {
@@ -807,10 +807,11 @@
   "titulos": [
    "40 días después de MiCA: impacto en el mercado cripto en Europa",
    "El Banco de Corea rompe racha de 13 años al comprar un ETF de oro",
-   "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 16 de agosto"
+   "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 16 de agosto",
+   "El fundador de Cardano lanza nueva herramienta gratuita para eliminar la marca de agua de IA de Anthropic"
   ]
  },
  "precios_enviado": "2026-08-16",
- "sponsor_enviado": "2026-08-15-19",
+ "sponsor_enviado": "2026-08-16-13",
  "resumen_enviado": "2026-08-15"
 }
