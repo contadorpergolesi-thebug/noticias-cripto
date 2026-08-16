@@ -1,6 +1,5 @@
 {
  "vistos": [
-  "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions",
   "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss",
   "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak",
   "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief",
@@ -799,7 +798,8 @@
   "https://es.beincrypto.com/?p=538035",
   "https://es.beincrypto.com/?p=538045",
   "https://es.beincrypto.com/?p=538015",
-  "https://es.beincrypto.com/?p=538020"
+  "https://es.beincrypto.com/?p=538020",
+  "https://es.beincrypto.com/?p=538058"
  ],
  "inicializado": true,
  "resumen": {
@@ -811,10 +811,11 @@
    "El fundador de Cardano lanza nueva herramienta gratuita para eliminar la marca de agua de IA de Anthropic",
    "Brecha de datos de SafePal expone direcciones de domicilio de casi 40,000 clientes",
    "Los millonarios pronto no podrán tener 1 Bitcoin, dice el fundador de Binance CZ",
-   "Strategy vs. Bitcoin: ¿Quién gana el duelo de rendimiento en 1 año?"
+   "Strategy vs. Bitcoin: ¿Quién gana el duelo de rendimiento en 1 año?",
+   "Trader de memecoins convierte $120 en $205,000: ¿Suerte o estrategia?"
   ]
  },
  "precios_enviado": "2026-08-16",
- "sponsor_enviado": "2026-08-16-13",
+ "sponsor_enviado": "2026-08-16-19",
  "resumen_enviado": "2026-08-15"
 }
