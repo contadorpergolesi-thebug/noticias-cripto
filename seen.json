@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "175dc84b-dbc9-4bdc-a38f-f7f4ce89fe3b",
-  "b1b25492-4737-496f-9109-e86d2e37f00f",
-  "4d77c610-8ad8-4199-a431-6e66a10caf5c",
   "6efb6b12-fa13-44b3-914d-7ea977a23417",
   "1c90f4cc-7227-42e0-9d60-7cfe98c5c523",
   "6cd4edce-5df1-4a4d-a64e-f88fc175f22a",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=538170",
   "https://es.beincrypto.com/audiencia-quiebra-ftx-pelea-reclamacion-kyc/",
   "https://es.beincrypto.com/?p=538180",
-  "https://news.bit2me.com/microstrategy-recauda-millones-sin-comprar-bitcoin/"
+  "https://news.bit2me.com/microstrategy-recauda-millones-sin-comprar-bitcoin/",
+  "https://es.beincrypto.com/?p=538147",
+  "https://es.beincrypto.com/?p=538187",
+  "https://news.bit2me.com/reglamento-mica-primera-sancion-austria-exchange/"
  ],
  "inicializado": true,
  "resumen": {
@@ -817,7 +817,10 @@
    "Top 3 desbloqueos de tokens a observar esta semana",
    "La audiencia de bancarrota de FTX llega a su última disputa",
    "¿Por qué XRP no logra mantener $1? Los datos de Binance tienen la respuesta",
-   "MicroStrategy recauda 305 millones de euros sin comprar BTC"
+   "MicroStrategy recauda 305 millones de euros sin comprar BTC",
+   "Alibaba abandona su división de gaming mientras la IA cobra protagonismo",
+   "Zoomex lanza la Competencia de Stock Perpetuals – Ronda 2: elevando los derivados cross-asset para traders globales",
+   "Reglamento MiCA: primera sanción en Austria a un exchange"
   ]
  },
  "precios_enviado": "2026-08-17",
