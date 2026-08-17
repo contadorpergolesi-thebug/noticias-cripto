@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "294f9551-bb1d-48f1-83bd-96bb431817a0",
-  "5e38ed8e-7979-4876-8b9b-0b186769b7e4",
-  "2ac1ae0e-25ab-4bba-aa9b-16facebcf508",
-  "6ed532af-8ea4-490d-b6b8-c817455b47f0",
-  "fa6775b5-924d-4284-91ce-d00b5e79b1b8",
-  "5f40aaee-3390-4d71-9760-a40acfdb27ac",
   "175dc84b-dbc9-4bdc-a38f-f7f4ce89fe3b",
   "b1b25492-4737-496f-9109-e86d2e37f00f",
   "4d77c610-8ad8-4199-a431-6e66a10caf5c",
@@ -799,7 +793,13 @@
   "https://news.bit2me.com/ethereum-hegota-actualizacion-privacidad-red/",
   "https://es.beincrypto.com/binance-regresa-reino-unido-nueva-licencia/",
   "https://es.beincrypto.com/?p=538139",
-  "https://es.beincrypto.com/?p=538141"
+  "https://es.beincrypto.com/?p=538141",
+  "https://www.iprofesional.com/finanzas/462444-caen-bonos-y-riesgo-pais-se-acerca-a-500-puntos",
+  "https://www.iprofesional.com/finanzas/461559-jugada-con-bonos-en-dolares-que-propone-mesa-de-la-city-y-abrio-debate",
+  "https://es.beincrypto.com/?p=538170",
+  "https://es.beincrypto.com/audiencia-quiebra-ftx-pelea-reclamacion-kyc/",
+  "https://es.beincrypto.com/?p=538180",
+  "https://news.bit2me.com/microstrategy-recauda-millones-sin-comprar-bitcoin/"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,10 +813,14 @@
    "Ethereum Hegotá: 66 propuestas para su nueva actualización",
    "Binance podría regresar al Reino Unido con una nueva licencia",
    "Bitrue lanza un Copilot de IA que explica el ‘por qué’ del trading con XRP y criptomonedas",
-   "Pérdidas de Coldcard superan los $115 millones: Galaxy Research"
+   "Pérdidas de Coldcard superan los $115 millones: Galaxy Research",
+   "Top 3 desbloqueos de tokens a observar esta semana",
+   "La audiencia de bancarrota de FTX llega a su última disputa",
+   "¿Por qué XRP no logra mantener $1? Los datos de Binance tienen la respuesta",
+   "MicroStrategy recauda 305 millones de euros sin comprar BTC"
   ]
  },
  "precios_enviado": "2026-08-17",
- "sponsor_enviado": "2026-08-16-19",
+ "sponsor_enviado": "2026-08-17-13",
  "resumen_enviado": "2026-08-16"
 }
