@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss",
-  "https://cointelegraph.com/markets/bitcoin-hits-62k-while-coinbase-premium-hits-77-day-negative-streak",
-  "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief",
-  "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges",
-  "https://cointelegraph.com/news/suspected-4th-coldcard-attack-wave-sweeps-389-bitcoin-galaxys-thorn",
-  "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2",
-  "a119da9e-bb52-4937-8090-f6c6e9a07564",
-  "f841c97d-5b02-4e30-a4f6-510645494082",
   "7034b3db-432d-4ade-9b76-723dc1811fd3",
   "6723adf1-ee85-4897-ae22-b6478397f0a5",
   "3a795987-2eb4-41d9-a001-b89882992504",
@@ -799,23 +791,29 @@
   "https://es.beincrypto.com/?p=538045",
   "https://es.beincrypto.com/?p=538015",
   "https://es.beincrypto.com/?p=538020",
-  "https://es.beincrypto.com/?p=538058"
+  "https://es.beincrypto.com/?p=538058",
+  "https://www.iprofesional.com/finanzas/462362-economistas-reclaman-medidas-para-levantar-la-actividad-y-caputo-va-por-nuevos-anuncios",
+  "https://www.iprofesional.com/economia/462070-de-eximir-impuestos-a-estirar-plazos-las-propuestas-del-mercado-para-la-crisis-de-mora",
+  "https://es.beincrypto.com/?p=538113",
+  "https://es.beincrypto.com/?p=538105",
+  "https://es.beincrypto.com/?p=538073",
+  "https://es.beincrypto.com/?p=537996",
+  "https://news.bit2me.com/chainalysis-demanda-gobierno-estados-unidos/",
+  "https://news.bit2me.com/ethereum-hegota-actualizacion-privacidad-red/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-08-16",
+  "fecha": "2026-08-17",
   "titulos": [
-   "40 días después de MiCA: impacto en el mercado cripto en Europa",
-   "El Banco de Corea rompe racha de 13 años al comprar un ETF de oro",
-   "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 16 de agosto",
-   "El fundador de Cardano lanza nueva herramienta gratuita para eliminar la marca de agua de IA de Anthropic",
-   "Brecha de datos de SafePal expone direcciones de domicilio de casi 40,000 clientes",
-   "Los millonarios pronto no podrán tener 1 Bitcoin, dice el fundador de Binance CZ",
-   "Strategy vs. Bitcoin: ¿Quién gana el duelo de rendimiento en 1 año?",
-   "Trader de memecoins convierte $120 en $205,000: ¿Suerte o estrategia?"
+   "Benjamin Cowen sugiere que Bitcoin está a 69-73 días del fondo, pero: ¿BTC sigue ciclos?",
+   "Entradas a ETF de Solana aumentan 70x en su mejor semana desde mayo, pero hay una advertencia",
+   "Polymarket lanza mercados de predicción para cartas de Pokémon",
+   "¿Podría Bitcoin alguna vez superar el límite de 21 millones? Adam Back dice que es una trampa",
+   "Chainalysis demanda a EE. UU. por un contrato cripto",
+   "Ethereum Hegotá: 66 propuestas para su nueva actualización"
   ]
  },
- "precios_enviado": "2026-08-16",
+ "precios_enviado": "2026-08-17",
  "sponsor_enviado": "2026-08-16-19",
  "resumen_enviado": "2026-08-16"
 }
