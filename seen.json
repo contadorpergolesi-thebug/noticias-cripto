@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "d5d04f2c-afe9-4dd6-9907-86b53a635589",
-  "21018b0d-4817-49db-94f0-0f25753c20d9",
-  "https://decrypt.co/?p=374850",
   "https://decrypt.co/?p=374836",
   "https://decrypt.co/?p=374830",
   "https://decrypt.co/?p=374831",
@@ -799,7 +796,10 @@
   "https://www.iprofesional.com/finanzas/462394-la-city-revela-sus-estrategias-de-inversion-para-cubrirse-de-la-inflacion-y-el-dolar",
   "https://www.iprofesional.com/finanzas/462453-adrs-argentinos-suben-hasta-5-por-ciento-wall-street-mientras-riesgo-pais-roza-490-puntos",
   "https://es.beincrypto.com/cambio-en-conteo-de-vistas-de-youtube-afecta-pago-a-creadores/",
-  "https://es.beincrypto.com/?p=538222"
+  "https://es.beincrypto.com/?p=538222",
+  "https://www.iprofesional.com/finanzas/462452-que-bancos-ya-se-sumaron-al-programa-caba-para-refinanciar-deudas-en-mora",
+  "https://www.iprofesional.com/finanzas/462416-luis-caputo-cuestiono-tasas-de-hasta-700-por-ciento-pero-rechazo-una-intervencion-del-gobierno",
+  "https://es.beincrypto.com/?p=538235"
  ],
  "inicializado": true,
  "resumen": {
@@ -822,10 +822,11 @@
    "Zoomex lanza la Competencia de Stock Perpetuals – Ronda 2: elevando los derivados cross-asset para traders globales",
    "Reglamento MiCA: primera sanción en Austria a un exchange",
    "Las visualizaciones en YouTube están a punto de explotar, pero tu dinero no lo hará",
-   "¿Cuántas acciones de SpaceX realmente posee Elon Musk y cuándo puede vender?"
+   "¿Cuántas acciones de SpaceX realmente posee Elon Musk y cuándo puede vender?",
+   "Bitcoin rompe la “zona zombie” de los $63,000: ¿Logrará mantener el ritmo?"
   ]
  },
  "precios_enviado": "2026-08-17",
- "sponsor_enviado": "2026-08-17-13",
+ "sponsor_enviado": "2026-08-17-19",
  "resumen_enviado": "2026-08-16"
 }
