@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "7034b3db-432d-4ade-9b76-723dc1811fd3",
-  "6723adf1-ee85-4897-ae22-b6478397f0a5",
-  "3a795987-2eb4-41d9-a001-b89882992504",
   "294f9551-bb1d-48f1-83bd-96bb431817a0",
   "5e38ed8e-7979-4876-8b9b-0b186769b7e4",
   "2ac1ae0e-25ab-4bba-aa9b-16facebcf508",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=538073",
   "https://es.beincrypto.com/?p=537996",
   "https://news.bit2me.com/chainalysis-demanda-gobierno-estados-unidos/",
-  "https://news.bit2me.com/ethereum-hegota-actualizacion-privacidad-red/"
+  "https://news.bit2me.com/ethereum-hegota-actualizacion-privacidad-red/",
+  "https://es.beincrypto.com/binance-regresa-reino-unido-nueva-licencia/",
+  "https://es.beincrypto.com/?p=538139",
+  "https://es.beincrypto.com/?p=538141"
  ],
  "inicializado": true,
  "resumen": {
@@ -810,7 +810,10 @@
    "Polymarket lanza mercados de predicción para cartas de Pokémon",
    "¿Podría Bitcoin alguna vez superar el límite de 21 millones? Adam Back dice que es una trampa",
    "Chainalysis demanda a EE. UU. por un contrato cripto",
-   "Ethereum Hegotá: 66 propuestas para su nueva actualización"
+   "Ethereum Hegotá: 66 propuestas para su nueva actualización",
+   "Binance podría regresar al Reino Unido con una nueva licencia",
+   "Bitrue lanza un Copilot de IA que explica el ‘por qué’ del trading con XRP y criptomonedas",
+   "Pérdidas de Coldcard superan los $115 millones: Galaxy Research"
   ]
  },
  "precios_enviado": "2026-08-17",
