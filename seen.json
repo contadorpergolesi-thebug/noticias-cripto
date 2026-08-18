@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://www.theblock.co/post/410451",
-  "https://www.theblock.co/post/410441",
-  "https://www.theblock.co/post/410426",
   "https://www.theblock.co/post/410414",
   "https://www.theblock.co/post/410408",
   "https://www.theblock.co/post/410395",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=538343",
   "https://es.beincrypto.com/?p=538340",
   "https://news.bit2me.com/ethereum-bitmine-suministro-global-staking/",
-  "https://news.bit2me.com/visa-busca-socio-liquidaciones-stablecoins/"
+  "https://news.bit2me.com/visa-busca-socio-liquidaciones-stablecoins/",
+  "https://www.iprofesional.com/finanzas/462545-el-riesgo-pais-supero-los-500-puntos-y-alcanzo-un-nuevo-maximo-en-tres-meses",
+  "https://es.beincrypto.com/?p=538370",
+  "https://es.beincrypto.com/reglas-sec-cripto-ico-america/"
  ],
  "inicializado": true,
  "resumen": {
@@ -820,7 +820,9 @@
    "Latam Digital Assets Conf llevará a instituciones financieras a Buenos Aires",
    "Hyperliquid (HYPE) lidera el Top 10 en agosto, pero el smart money muestra señales mixtas",
    "Ethereum: Bitmine roza el 5% del suministro global",
-   "Visa busca nuevo socio para liquidaciones con stablecoins"
+   "Visa busca nuevo socio para liquidaciones con stablecoins",
+   "El banco más grande de Italia cambia Bitcoin por acciones de SpaceX",
+   "Nuevas reglas cripto de la SEC reavivan la pregunta que XRP hizo famosa"
   ]
  },
  "precios_enviado": "2026-08-18",
