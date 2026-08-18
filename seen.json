@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://decrypt.co/?p=374836",
-  "https://decrypt.co/?p=374830",
-  "https://decrypt.co/?p=374831",
-  "https://decrypt.co/?p=374823",
   "https://decrypt.co/?p=374820",
   "https://decrypt.co/?p=374817",
   "https://decrypt.co/?p=374808",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=538222",
   "https://www.iprofesional.com/finanzas/462452-que-bancos-ya-se-sumaron-al-programa-caba-para-refinanciar-deudas-en-mora",
   "https://www.iprofesional.com/finanzas/462416-luis-caputo-cuestiono-tasas-de-hasta-700-por-ciento-pero-rechazo-una-intervencion-del-gobierno",
-  "https://es.beincrypto.com/?p=538235"
+  "https://es.beincrypto.com/?p=538235",
+  "https://www.iprofesional.com/economia/462464-morosidad-bancaria-trepa-millones-quedan-sin-ayuda-estatal-agosto-2026",
+  "https://www.iprofesional.com/finanzas/462468-reclamos-contra-fintech-y-bancos-se-duplican-y-morosidad-alcanza-niveles-preocupantes",
+  "https://cripto-contador.com/?p=4757",
+  "https://cripto-contador.com/?p=4755"
  ],
  "inicializado": true,
  "resumen": {
@@ -823,10 +823,12 @@
    "Reglamento MiCA: primera sanción en Austria a un exchange",
    "Las visualizaciones en YouTube están a punto de explotar, pero tu dinero no lo hará",
    "¿Cuántas acciones de SpaceX realmente posee Elon Musk y cuándo puede vender?",
-   "Bitcoin rompe la “zona zombie” de los $63,000: ¿Logrará mantener el ritmo?"
+   "Bitcoin rompe la “zona zombie” de los $63,000: ¿Logrará mantener el ritmo?",
+   "Ganancias no realizadas y Bienes Personales: ¿qué hacemos con un perpetual abierto al 31 de diciembre?",
+   "¿Realmente comprás acciones en Bitunix? Stock Perpetuals, acciones tokenizadas y tratamiento impositivo en Argentina"
   ]
  },
  "precios_enviado": "2026-08-17",
  "sponsor_enviado": "2026-08-17-19",
- "resumen_enviado": "2026-08-16"
+ "resumen_enviado": "2026-08-17"
 }
