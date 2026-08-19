@@ -1,16 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=316757",
-  "https://www.diariobitcoin.com/?p=316754",
-  "https://www.diariobitcoin.com/?p=316745",
-  "https://www.diariobitcoin.com/?p=316741",
-  "https://www.diariobitcoin.com/?p=316738",
-  "https://www.diariobitcoin.com/?p=316735",
-  "https://www.diariobitcoin.com/?p=316732",
-  "https://www.diariobitcoin.com/?p=316729",
-  "https://www.diariobitcoin.com/?p=316726",
-  "https://www.diariobitcoin.com/?p=316723",
-  "https://www.iprofesional.com/finanzas/460795-nuevo-semaforo-de-bonos-de-la-city-revela-cuales-comprar-y-cuales-evitar",
   "https://www.iprofesional.com/finanzas/461360-plazo-fijo-banco-por-banco-cual-es-el-ranking-de-los-que-mas-pagan",
   "https://www.iprofesional.com/finanzas/461420-morosidad-bancaria-freno-su-escalada-y-le-da-respiro-clave-al-gobierno-e-inversores",
   "https://www.iprofesional.com/finanzas/461337-a-partir-de-que-monto-arca-investigara-las-transferencias-en-agosto-2026",
@@ -799,7 +788,18 @@
   "https://news.bit2me.com/stablecoins-efectivo-propuesta-contable-fasb/",
   "https://www.iprofesional.com/finanzas/462602-creditos-en-dolares-que-empresas-podran-acceder-y-cual-es-el-limite-que-fijo-el-bcra",
   "https://es.beincrypto.com/avance-vacuna-contra-el-cancer-acciones-moderna/",
-  "https://es.beincrypto.com/?p=538475"
+  "https://es.beincrypto.com/?p=538475",
+  "https://cripto-contador.com/?p=4807",
+  "https://cripto-contador.com/?p=4805",
+  "https://cripto-contador.com/?p=4803",
+  "https://cripto-contador.com/?p=4801",
+  "https://cripto-contador.com/?p=4799",
+  "https://cripto-contador.com/?p=4797",
+  "https://cripto-contador.com/?p=4795",
+  "https://cripto-contador.com/?p=4793",
+  "https://cripto-contador.com/?p=4791",
+  "https://es.beincrypto.com/cftc-ellison-wang-ftx-acuerdo-final/",
+  "https://news.bit2me.com/bitcoin-senales-capitulacion-mercado/"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,10 +819,21 @@
    "Regulación SEC: nuevas exenciones para emitir tokens",
    "Stablecoins como efectivo: la nueva propuesta contable del FASB",
    "La acción de Moderna sube más del 100% tras avance en la vacuna contra el cáncer",
-   "Meta enfrenta amenaza de $1.4 billones, las acciones caen mientras comienza el histórico juicio sobre seguridad juvenil"
+   "Meta enfrenta amenaza de $1.4 billones, las acciones caen mientras comienza el histórico juicio sobre seguridad juvenil",
+   "El archivo que todo trader fondeado debería tener",
+   "Origen de fondos de prop firms: el problema aparece cuando querés comprar algo grande",
+   "Scaling de cuentas fondeadas: ¿más capital significa más patrimonio?",
+   "Perdí una cuenta con USD 12.000 de profit antes del payout: ¿gané USD 12.000?",
+   "LLC para cobrar prop firms: cuándo puede tener sentido y cuándo no",
+   "Monotributo y traders fondeados: ¿se puede?",
+   "Tengo varias prop firms: cómo ordenar la información antes de declarar",
+   "Cobrar una prop firm por Wise, Rise, banco o cripto: ¿cambia el impuesto?",
+   "Factura E y cuentas de fondeo: ¿hay que facturar los payouts?",
+   "Los insiders de FTX que se volvieron contra SBF acaban de recibir su acuerdo final",
+   "Bitcoin emite señales de capitulación: análisis del mercado"
   ]
  },
  "precios_enviado": "2026-08-19",
- "sponsor_enviado": "2026-08-18-19",
+ "sponsor_enviado": "2026-08-19-13",
  "resumen_enviado": "2026-08-18"
 }
