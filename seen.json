@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=536171",
-  "https://www.diariobitcoin.com/?p=316903",
-  "https://www.diariobitcoin.com/?p=316906",
-  "https://www.diariobitcoin.com/?p=316888",
   "https://www.diariobitcoin.com/?p=316890",
   "https://www.diariobitcoin.com/?p=316894",
   "https://www.diariobitcoin.com/?p=316877",
@@ -799,7 +795,11 @@
   "https://www.iprofesional.com/economia/462660-para-el-mercado-los-bonos-contienen-80-por-ciento-de-probabilidad-de-reeleccion-de-milei",
   "https://www.iprofesional.com/finanzas/462772-el-oro-podria-superar-los-us5-000-en-2027-la-proyeccion-de-morgan-stanley",
   "https://es.beincrypto.com/?p=538832",
-  "https://es.beincrypto.com/?p=538815"
+  "https://es.beincrypto.com/?p=538815",
+  "yt:video:w9jlkkZcgK8",
+  "https://es.beincrypto.com/?p=538877",
+  "https://es.beincrypto.com/?p=538735",
+  "https://news.bit2me.com/coldcard-actualizacion-firmware-seguridad-cripto/"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,10 +813,14 @@
    "Bitcoin supera los 71.000 $ y apunta a un cruce dorado",
    "Bitcoin supera los 71.000 $ y apunta a un cruce dorado",
    "El rally del 29% en el precio de Ethereum divide a las ballenas en todo el mercado",
-   "MANTRA registra mínimo histórico en medio del rally del mercado cripto más amplio"
+   "MANTRA registra mínimo histórico en medio del rally del mercado cripto más amplio",
+   "ARCA intimó por $650 millones… y el ajuste final fue $0 | Caso real",
+   "El oro registra máximos de 3 meses en medio de tensión en el mercado de bonos: ¿Alcanzará los $5,000?",
+   "Resumen semanal de Bitcoin y criptomonedas: 21 de agosto",
+   "Coldcard actualiza su firmware tras el robo de 1.778 BTC"
   ]
  },
  "precios_enviado": "2026-08-21",
- "sponsor_enviado": "2026-08-20-19",
+ "sponsor_enviado": "2026-08-21-13",
  "resumen_enviado": "2026-08-20"
 }
