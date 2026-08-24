@@ -1,7 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=317061",
-  "https://www.diariobitcoin.com/?p=317058",
   "https://www.diariobitcoin.com/?p=317055",
   "https://www.diariobitcoin.com/?p=317049",
   "https://cripto-contador.com/?p=4657",
@@ -799,7 +797,9 @@
   "https://www.iprofesional.com/finanzas/462904-el-mercado-eleva-el-riesgo-de-default-para-el-proximo-gobierno",
   "https://es.beincrypto.com/?p=539159",
   "https://news.bit2me.com/adopcion-cripto-estudio-fed-motivaciones/",
-  "https://news.bit2me.com/transferencias-cripto-resistentes-computacion-cuantica/"
+  "https://news.bit2me.com/transferencias-cripto-resistentes-computacion-cuantica/",
+  "https://es.beincrypto.com/?p=539166",
+  "https://es.beincrypto.com/?p=539174"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,10 +813,12 @@
    "Bitcoin y oro: Ray Dalio advierte sobre la crisis de deuda",
    "Michael Saylor explica cómo invertir como multimillonario y por qué Bitcoin pasa el test de Bernard Arnault",
    "Adopción cripto: un estudio de la Fed revela qué la impulsa",
-   "Transferencias cripto resistentes a la computación cuántica"
+   "Transferencias cripto resistentes a la computación cuántica",
+   "PENGU sube 62% en una semana por especulaciones de IPO",
+   "Strategy recaudó $3.28 mil millones en agosto: no compró Bitcoin"
   ]
  },
  "precios_enviado": "2026-08-24",
- "sponsor_enviado": "2026-08-23-19",
+ "sponsor_enviado": "2026-08-24-13",
  "resumen_enviado": "2026-08-23"
 }
