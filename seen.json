@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=317175",
-  "https://www.diariobitcoin.com/?p=317172",
-  "https://www.diariobitcoin.com/?p=317169",
-  "https://www.diariobitcoin.com/?p=317166",
-  "https://www.diariobitcoin.com/?p=317163",
-  "https://www.diariobitcoin.com/?p=317159",
   "https://www.diariobitcoin.com/?p=317156",
   "https://www.diariobitcoin.com/?p=317153",
   "https://www.diariobitcoin.com/?p=317150",
@@ -799,7 +793,13 @@
   "https://www.iprofesional.com/finanzas/462940-los-adr-subieron-hasta-8-en-wall-street-y-el-riesgo-pais-volvio-a-ceder",
   "https://www.iprofesional.com/finanzas/462945-el-dolar-se-recalento-y-toco-un-nuevo-record-que-puede-pasar-con-su-precio",
   "https://es.beincrypto.com/?p=539211",
-  "https://es.beincrypto.com/?p=539214"
+  "https://es.beincrypto.com/?p=539214",
+  "https://www.iprofesional.com/economia/462956-nueva-pelea-por-la-morosidad-tasa-nominal-versus-tasa-efectiva",
+  "https://www.iprofesional.com/energia/462955-ypf-vendio-en-su-app-mas-de-84000-acciones-en-solo-cuatro-dias",
+  "https://www.iprofesional.com/finanzas/462940-los-adr-subieron-hasta-8-en-wall-street-pero-el-riesgo-pais-reboto-y-se-acerco-a-los-510-puntos",
+  "https://es.beincrypto.com/?p=539257",
+  "https://es.beincrypto.com/?p=539231",
+  "https://es.beincrypto.com/caso-telegram-francia-procesamiento-durov/"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,10 +819,13 @@
    "Bitcoin se alista para el debut de Warsh en Jackson Hole: ¿Se repetirá el escenario de 2022?",
    "Seguridad en Bitcoin: la IA como amenaza y defensa",
    "Josh Kushner triplica su fortuna a $16.7 mil millones gracias a SpaceX: ¿Cómo lo logró?",
-   "Ethereum supera los $2,500 tras nueva compra de BitMine por $81 millones"
+   "Ethereum supera los $2,500 tras nueva compra de BitMine por $81 millones",
+   "Elon Musk elogia la nueva alianza entre SpaceX y NVIDIA, pero ambas acciones caen",
+   "Top 3 altcoins que más se benefician del último rally de Bitcoin",
+   "El caso de Telegram en Francia cumple 2 años: ¿Están procesando a Durov por decir que no?"
   ]
  },
  "precios_enviado": "2026-08-24",
- "sponsor_enviado": "2026-08-24-13",
+ "sponsor_enviado": "2026-08-24-19",
  "resumen_enviado": "2026-08-23"
 }
