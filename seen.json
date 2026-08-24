@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=317052",
-  "https://www.diariobitcoin.com/?p=317069",
-  "https://www.diariobitcoin.com/?p=317067",
-  "https://www.diariobitcoin.com/?p=317064",
   "https://www.diariobitcoin.com/?p=317061",
   "https://www.diariobitcoin.com/?p=317058",
   "https://www.diariobitcoin.com/?p=317055",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=539128",
   "https://es.beincrypto.com/?p=539081",
   "https://news.bit2me.com/etf-bitcoin-entradas-1900-millones/",
-  "https://news.bit2me.com/bitcoin-oro-ray-dalio-deuda/"
+  "https://news.bit2me.com/bitcoin-oro-ray-dalio-deuda/",
+  "https://www.iprofesional.com/finanzas/462904-el-mercado-eleva-el-riesgo-de-default-para-el-proximo-gobierno",
+  "https://es.beincrypto.com/?p=539159",
+  "https://news.bit2me.com/adopcion-cripto-estudio-fed-motivaciones/",
+  "https://news.bit2me.com/transferencias-cripto-resistentes-computacion-cuantica/"
  ],
  "inicializado": true,
  "resumen": {
@@ -810,7 +810,10 @@
    "Tesorería de Tron Inc. supera 711 millones de TRX mientras la acción sube 7.49%",
    "Importante minero de Bitcoin apuesta por Ethereum y predice que ETH superará a BTC en este ciclo",
    "ETF de Bitcoin: entradas de 1.900 millones en una semana",
-   "Bitcoin y oro: Ray Dalio advierte sobre la crisis de deuda"
+   "Bitcoin y oro: Ray Dalio advierte sobre la crisis de deuda",
+   "Michael Saylor explica cómo invertir como multimillonario y por qué Bitcoin pasa el test de Bernard Arnault",
+   "Adopción cripto: un estudio de la Fed revela qué la impulsa",
+   "Transferencias cripto resistentes a la computación cuántica"
   ]
  },
  "precios_enviado": "2026-08-24",
