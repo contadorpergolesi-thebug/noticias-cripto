@@ -1,12 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=317094",
-  "https://www.diariobitcoin.com/?p=317091",
-  "https://www.diariobitcoin.com/?p=317087",
-  "https://www.diariobitcoin.com/?p=317084",
-  "https://www.diariobitcoin.com/?p=317081",
-  "https://www.diariobitcoin.com/?p=317075",
-  "https://www.diariobitcoin.com/?p=317077",
   "https://www.diariobitcoin.com/?p=317052",
   "https://www.diariobitcoin.com/?p=317069",
   "https://www.diariobitcoin.com/?p=317067",
@@ -799,23 +792,28 @@
   "https://es.beincrypto.com/?p=539033",
   "https://es.beincrypto.com/?p=539019",
   "https://www.iprofesional.com/finanzas/462264-semaforo-de-la-city-revela-que-bonos-conviene-comprar-y-cuales-evitar",
-  "https://es.beincrypto.com/?p=539040"
+  "https://es.beincrypto.com/?p=539040",
+  "https://www.iprofesional.com/economia/462876-por-que-el-miercoles-sera-una-jornada-desafiante-para-el-dolar",
+  "https://es.beincrypto.com/?p=539125",
+  "https://es.beincrypto.com/?p=539154",
+  "https://es.beincrypto.com/?p=539128",
+  "https://es.beincrypto.com/?p=539081",
+  "https://news.bit2me.com/etf-bitcoin-entradas-1900-millones/",
+  "https://news.bit2me.com/bitcoin-oro-ray-dalio-deuda/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-08-23",
+  "fecha": "2026-08-24",
   "titulos": [
-   "La cripto app NoOnes anuncia cierre, afectando a 2,5 millones de usuarios",
-   "Arthur Hayes comparte consejo sorprendente sobre acciones, oro y Bitcoin",
-   "El boom de las altcoins podría no regresar: ¿Cómo ha cambiado el trading de criptomonedas en 2026?",
-   "Robert Kiyosaki apuesta por el oro, la plata y Bitcoin en medio de “más dólares falsos”",
-   "¿CyberLeek amenaza con lanzar versión jugable de GTA VI? Memecoin explota 1,400%",
-   "¿Por fin llega la altseason? El mercado suma $215 mil millones",
-   "NVIDIA aumentará precios de servidores de IA en un 15%",
-   "Otro hack de en DeFi: Term Labs pierde $8.5 millones tras exploit de gobernanza"
+   "CEO de Strive dice que el mercado bajista de Bitcoin terminó tras una doble ruptura",
+   "Entradas a ETF de XRP alcanzan récord de $1.55 mil millones en medio del rally de precios del 70%",
+   "Tesorería de Tron Inc. supera 711 millones de TRX mientras la acción sube 7.49%",
+   "Importante minero de Bitcoin apuesta por Ethereum y predice que ETH superará a BTC en este ciclo",
+   "ETF de Bitcoin: entradas de 1.900 millones en una semana",
+   "Bitcoin y oro: Ray Dalio advierte sobre la crisis de deuda"
   ]
  },
- "precios_enviado": "2026-08-23",
+ "precios_enviado": "2026-08-24",
  "sponsor_enviado": "2026-08-23-19",
  "resumen_enviado": "2026-08-23"
 }
