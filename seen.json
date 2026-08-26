@@ -1,7 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=317466",
-  "https://www.diariobitcoin.com/?p=317463",
   "https://www.diariobitcoin.com/?p=317460",
   "https://www.diariobitcoin.com/?p=317457",
   "https://www.diariobitcoin.com/?p=317452",
@@ -799,7 +797,9 @@
   "https://es.beincrypto.com/?p=539544",
   "https://es.beincrypto.com/?p=539593",
   "https://news.bit2me.com/microstrategy-riesgo-mercados-capitales-bitcoin/",
-  "https://news.bit2me.com/avalanche-posco-tokenizacion-activos-comerciales/"
+  "https://news.bit2me.com/avalanche-posco-tokenizacion-activos-comerciales/",
+  "https://es.beincrypto.com/?p=539588",
+  "https://news.bit2me.com/educacion-cripto-estudiantes-universidad/"
  ],
  "inicializado": true,
  "resumen": {
@@ -816,10 +816,12 @@
    "¿Cómo el precio de XRP experimentó un rally que superó a todas las criptomonedas del top 10?",
    "Charles Hoskinson dice que Cardano ganará, pero con la ayuda de Ethereum",
    "MicroStrategy y el reto de sus 66.000 millones en Bitcoin",
-   "Avalanche y POSCO tokenizan activos comerciales reales"
+   "Avalanche y POSCO tokenizan activos comerciales reales",
+   "Solana bate récords, excepto en lo que importa a los holders",
+   "Educación cripto: el 90% de los estudiantes pide clases"
   ]
  },
  "precios_enviado": "2026-08-26",
- "sponsor_enviado": "2026-08-25-19",
+ "sponsor_enviado": "2026-08-26-13",
  "resumen_enviado": "2026-08-25"
 }
