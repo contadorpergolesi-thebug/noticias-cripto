@@ -1,14 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=317992",
-  "https://www.diariobitcoin.com/?p=317986",
-  "https://www.diariobitcoin.com/?p=317982",
-  "https://www.diariobitcoin.com/?p=317978",
-  "https://www.diariobitcoin.com/?p=317976",
-  "https://www.diariobitcoin.com/?p=317973",
-  "https://www.diariobitcoin.com/?p=317970",
-  "https://www.diariobitcoin.com/?p=317966",
-  "https://www.diariobitcoin.com/?p=317952",
   "https://www.diariobitcoin.com/?p=317948",
   "https://www.diariobitcoin.com/?p=317946",
   "https://www.diariobitcoin.com/?p=317943",
@@ -799,28 +790,32 @@
   "https://es.beincrypto.com/?p=540030",
   "https://www.iprofesional.com/economia/463320-mora-bancaria-soluciones-que-ofrecen-entidades-para-refinanciar-deuda",
   "https://es.beincrypto.com/?p=540052",
-  "https://es.beincrypto.com/?p=539908"
+  "https://es.beincrypto.com/?p=539908",
+  "https://www.iprofesional.com/finanzas/463318-van-a-sobrar-dolares-y-es-momento-de-ganar-con-tasas-de-interes",
+  "https://es.beincrypto.com/cronos-detiene-blockchain-exploit-tectonic/",
+  "https://es.beincrypto.com/?p=540078",
+  "https://es.beincrypto.com/?p=539184",
+  "https://es.beincrypto.com/?p=539611",
+  "https://es.beincrypto.com/?p=538507",
+  "https://news.bit2me.com/perspectivas-corto-medio-plazo-ecosistema-bitcoi/",
+  "https://news.bit2me.com/shrincs-propuesta-bitcoin-resistente-cuantica/",
+  "https://news.bit2me.com/swift-blockchain-taurus-integra-plataforma/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-08-29",
+  "fecha": "2026-08-30",
   "titulos": [
-   "ETF de XRP acumulan récord de $1.66 mil millones tras su mayor entrada semanal en 2026",
-   "Trump asegura control mayoritario de 65,000 millones de barriles de petróleo de Venezuela",
-   "Bitcoin, bonos y acciones entran en un patrón peligroso en septiembre",
-   "OpenAI y Anthropic advierten que los ciberataques con IA aumentarán en los próximos meses",
-   "El neobanco de Solana, Avici, sufre un hack por $650,000: el token cae 40%",
-   "ETF de Solana: récord de entradas con 1.220 millones USD",
-   "Nvidia adquiere Hugging Face: impacto en la IA abierta",
-   "Ethena (ENA) sube un 23 % por su propuesta de recompras",
-   "¿Quién es responsable cuando un agente de IA pierde tu dinero?",
-   "El siguiente paso en open finance es la banca agéndica, según Mastercard",
-   "Top 3 altcoins a observar este fin de semana | 29-30 de agosto",
-   "NVIDIA rompió el patrón más inusual de Wall Street, dice Tom Lee",
-   "Las acciones mineras de oro se disparan 43% en agosto, su mejor mes registrado"
+   "Blockchain de Cronos se detiene tras intento de hack de 75 millones de dólares",
+   "Tim Cook posee criptomonedas, pero Apple nunca compró Bitcoin: ¿Esto cambiará?",
+   "Las stablecoins facilitaron la salida de dinero de América Latina: impacto y perspectivas",
+   "La próxima actualización de Ethereum podría cambiar su velocidad real",
+   "¿Es Arthur Hayes el Jim Cramer de las criptomonedas? 124 operaciones muestran un patrón claro",
+   "Perspectivas a corto y medio plazo para el ecosistema Bitcoin",
+   "SHRINCS: propuesta para un Bitcoin resistente a la cuántica",
+   "Swift blockchain: Taurus integra su plataforma de custodia"
   ]
  },
- "precios_enviado": "2026-08-29",
- "sponsor_enviado": "2026-08-29-19",
+ "precios_enviado": "2026-08-30",
+ "sponsor_enviado": "2026-08-30-13",
  "resumen_enviado": "2026-08-29"
 }
