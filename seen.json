@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=318126",
-  "https://www.diariobitcoin.com/?p=318123",
-  "https://www.diariobitcoin.com/?p=318119",
-  "https://www.iprofesional.com/actualidad/461490-cuales-son-tres-gremios-que-pagan-mejores-sueldos-como-los-ajustan",
-  "https://es.beincrypto.com/?p=536396",
-  "https://es.beincrypto.com/apelacion-sbf-mandato-un-hilo-de-esperanza-restante/",
-  "https://www.diariobitcoin.com/?p=318243",
-  "https://www.diariobitcoin.com/?p=318241",
   "https://www.diariobitcoin.com/?p=318238",
   "https://www.diariobitcoin.com/?p=318235",
   "https://www.diariobitcoin.com/?p=318232",
@@ -799,7 +791,15 @@
   "https://news.bit2me.com/etfs-bitcoin-frenan-racha-ethereum/",
   "https://news.bit2me.com/rally-bitcoin-creadores-mercado-estrategias/",
   "https://news.bit2me.com/bitcoin-resiliencia-tension-geopolitica-petroleo/",
-  "https://news.bit2me.com/tipos-interes-reserva-federal-probabilidad/"
+  "https://news.bit2me.com/tipos-interes-reserva-federal-probabilidad/",
+  "https://www.iprofesional.com/finanzas/463446-nuevas-reglas-para-comprar-en-el-exterior-y-el-truco-de-la-franquicia-de-400-dolares",
+  "https://www.iprofesional.com/finanzas/463431-la-city-dice-en-que-invertir-en-septiembre-tras-mes-duro-para-acciones",
+  "https://www.iprofesional.com/economia/463434-el-bcra-tuvo-en-agosto-la-menor-compra-mensual-de-dolares-en-lo-que-va-del-ano",
+  "https://es.beincrypto.com/?p=540271",
+  "https://es.beincrypto.com/?p=540244",
+  "https://es.beincrypto.com/?p=540254",
+  "https://news.bit2me.com/prima-bitcoin-mercado-estadounidense-positivo/",
+  "https://www.iprofesional.com/criptomonedas/463450-por-que-un-banco-de-wall-street-cree-que-bitcoin-puede-alcanzar-los-us300-000"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,10 +819,15 @@
    "ETFs de Bitcoin frenan su racha mientras Ethereum avanza",
    "Rally de Bitcoin: cómo los creadores de mercado obtienen APY",
    "Bitcoin resiste la tensión global mientras el petróleo sube",
-   "Tipos de interés: la probabilidad de subida cae al 58%"
+   "Tipos de interés: la probabilidad de subida cae al 58%",
+   "A sus 240 años, BNY quiere llevar servicios que mueven $8.6 billones a la blockchain",
+   "BeInCrypto se asocia con TOKEN2049 Singapur 2026",
+   "La UE apunta a ChatGPT, Reddit y Roblox: ¿Por qué Claude de Anthropic quedó fuera?",
+   "Prima de Bitcoin en EE. UU. vuelve a positivo desde mayo",
+   "Por qué un banco de Wall Street cree que Bitcoin puede alcanzar los u$s300.000"
   ]
  },
  "precios_enviado": "2026-08-31",
- "sponsor_enviado": "2026-08-31-13",
+ "sponsor_enviado": "2026-08-31-19",
  "resumen_enviado": "2026-08-30"
 }
