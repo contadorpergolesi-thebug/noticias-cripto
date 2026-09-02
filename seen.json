@@ -1,7 +1,5 @@
 {
  "vistos": [
-  "https://www.diariobitcoin.com/?p=318380",
-  "https://www.diariobitcoin.com/?p=318378",
   "https://www.diariobitcoin.com/?p=318375",
   "https://www.diariobitcoin.com/?p=318372",
   "https://www.diariobitcoin.com/?p=318369",
@@ -799,7 +797,9 @@
   "https://es.beincrypto.com/claude-fabula-5-1-lanzamiento-antidestilacion/",
   "https://es.beincrypto.com/?p=540388",
   "https://es.beincrypto.com/?p=540345",
-  "https://news.bit2me.com/bitcoin-microstrategy-adquiere-370-millones/"
+  "https://news.bit2me.com/bitcoin-microstrategy-adquiere-370-millones/",
+  "https://es.beincrypto.com/?p=540407",
+  "https://es.beincrypto.com/?p=540361"
  ],
  "inicializado": true,
  "resumen": {
@@ -825,10 +825,12 @@
    "Anthropic lanza Claude Fable 5.1: ¿Puede detener a los imitadores de IA?",
    "¿Más rico de lo que todos creen? Por qué Justin Sun nunca retirará sus criptomonedas",
    "Zoomex concluye el evento “Trade The Tide” en Coinfest Asia 2026, reforzando su presencia en el mercado del Sudeste Asiático",
-   "Bitcoin: MicroStrategy adquiere 370 millones en BTC"
+   "Bitcoin: MicroStrategy adquiere 370 millones en BTC",
+   "Predicción del precio de Ethereum: septiembre de 2026",
+   "Predicción del precio de Bitcoin para septiembre de 2026: ¿Qué sigue tras un mes con $3.5 mil millones en entradas de ETF?"
   ]
  },
  "precios_enviado": "2026-09-01",
- "sponsor_enviado": "2026-09-01-13",
- "resumen_enviado": "2026-08-30"
+ "sponsor_enviado": "2026-09-01-19",
+ "resumen_enviado": "2026-09-01"
 }
