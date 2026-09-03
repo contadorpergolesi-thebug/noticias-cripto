@@ -1,15 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/461630-swap-china-bcra-renovacion-cinco-anos",
-  "https://es.beincrypto.com/?p=536564",
-  "https://es.beincrypto.com/?p=536560",
-  "https://news.bit2me.com/blackrock-fondos-tokenizados-solana-ethereum/",
-  "https://news.bit2me.com/ethereum-bitmine-adquiere-eth-tesoreria/",
-  "https://es.beincrypto.com/?p=536517",
-  "https://news.bit2me.com/ripple-tokenizacion-rwa-zilo-licuido/",
-  "https://www.iprofesional.com/finanzas/461561-coto-carrefour-y-otros-supermercados-tienen-descuentos-de-hasta-35-por-ciento-y-reintegro-agosto-2026",
-  "https://es.beincrypto.com/?p=536528",
-  "https://news.bit2me.com/regulacion-stablecoins-ee-uu-reino-unido/",
   "https://www.iprofesional.com/finanzas/461646-ricardo-arriazu-rechazo-suba-dolar-pedir-devaluar-es-como-si-petiso-pidiera-devaluar-metro",
   "https://www.iprofesional.com/economia/461647-reservas-del-bcra-superaron-los-50000-millones-dolares-y-marcaron-record-en-siete-anos",
   "https://es.beincrypto.com/?p=536605",
@@ -799,7 +789,17 @@
   "https://news.bit2me.com/regulacion-mica-espana-claves-normativa-cripto/",
   "https://news.bit2me.com/dogecoin-perdidas-remixpoint-apuesta-bitcoin/",
   "https://news.bit2me.com/consorcio-bancos-prepara-stablecoin-2027/",
-  "https://news.bit2me.com/bonos-japon-coste-endeudamiento-maximos/"
+  "https://news.bit2me.com/bonos-japon-coste-endeudamiento-maximos/",
+  "https://www.iprofesional.com/finanzas/463728-el-vice-del-bcra-pidio-a-los-bancos-que-bajen-las-tasas-para-las-familias",
+  "https://www.iprofesional.com/finanzas/463716-plazo-fijo-banco-galicia-con-tasa-mas-alta-cuanto-ganas-con-2-millones-pesos",
+  "https://www.iprofesional.com/finanzas/463714-el-riesgo-pais-vuelve-a-perforar-los-500-puntos-y-toca-su-menor-nivel-en-dos-semanas",
+  "https://www.iprofesional.com/finanzas/463620-plazo-fijo-lidera-el-ranking-de-mejores-inversiones-del-2026",
+  "https://www.iprofesional.com/finanzas/463645-dolarizacion-brecha-y-bonos-3-variables-que-mira-la-city-hasta-elecciones",
+  "https://es.beincrypto.com/?p=540689",
+  "https://es.beincrypto.com/?p=540778",
+  "https://es.beincrypto.com/?p=540776",
+  "https://es.beincrypto.com/?p=540741",
+  "https://news.bit2me.com/adopcion-bitcoin-estudio-universidad-cornell/"
  ],
  "inicializado": true,
  "resumen": {
@@ -816,7 +816,12 @@
    "Regulación MiCA en España: Claves y Normativa Cripto",
    "Dogecoin genera pérdidas a Remixpoint tras apostar por Bitcoin",
    "Consorcio de 21 bancos prepara una stablecoin para 2027",
-   "Bonos de Japón: el coste de endeudamiento sube un 2900 %"
+   "Bonos de Japón: el coste de endeudamiento sube un 2900 %",
+   "Google y Meta lanzan modelos de IA rivales con pocas horas de diferencia: ¿Quién lidera?",
+   "La CLARITY Act podría retrasarse otra vez ya que el Senado elimina 8 días de votación",
+   "Bitcoin supera los $81,000 mientras Trump considera poner fin a la guerra con Irán",
+   "BeInCrypto lanzará su Consejo de Expertos Legales y Regulatorios en la ONU, en colaboración con el Future of Money, Governance, and the Law de la GBA",
+   "Adopción de Bitcoin: el estudio de la Universidad de Cornell"
   ]
  },
  "precios_enviado": "2026-09-03",
