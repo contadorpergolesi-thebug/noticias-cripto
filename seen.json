@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://cripto-contador.com/?p=4724",
-  "https://cripto-contador.com/?p=4722",
-  "https://cripto-contador.com/?p=4720",
   "https://cripto-contador.com/?p=4718",
   "https://cripto-contador.com/?p=4716",
   "https://cripto-contador.com/?p=4714",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=541019",
   "https://es.beincrypto.com/?p=540801",
   "https://news.bit2me.com/funciona-custodia-criptomonedas-bit2me/",
-  "https://news.bit2me.com/acciones-tokenizadas-amc-critica-robinhood/"
+  "https://news.bit2me.com/acciones-tokenizadas-amc-critica-robinhood/",
+  "https://es.beincrypto.com/?p=541051",
+  "https://es.beincrypto.com/?p=541059",
+  "https://news.bit2me.com/bitcoin-el-salvador-fondos-publicos-fmi/"
  ],
  "inicializado": true,
  "resumen": {
@@ -809,10 +809,13 @@
    "¿Qué sigue para Zcash tras superar los $1,000 por primera vez en una década?",
    "Inversor con 30 años sin pérdidas apuesta $125 millones en Bitcoin",
    "Cómo funciona la custodia de criptomonedas con Bit2Me",
-   "Acciones tokenizadas: AMC critica la iniciativa de Robinhood"
+   "Acciones tokenizadas: AMC critica la iniciativa de Robinhood",
+   "La mayoría de los inversores no valora esta altcoin: Cathie Wood",
+   "XRP muestra el mismo patrón que impulsó rally del 650%: ¿Se repetirá la historia?",
+   "Bitcoin: El Salvador no usó fondos públicos según el FMI"
   ]
  },
  "precios_enviado": "2026-09-05",
- "sponsor_enviado": "2026-09-04-19",
+ "sponsor_enviado": "2026-09-05-13",
  "resumen_enviado": "2026-09-04"
 }
