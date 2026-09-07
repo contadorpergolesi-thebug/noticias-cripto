@@ -1,10 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=537052",
-  "https://www.iprofesional.com/economia/461883-milei-anuncio-usd-70000-millones-frenar-corridas-dolar-inquieto-mercado",
-  "https://es.beincrypto.com/?p=536867",
-  "https://www.iprofesional.com/finanzas/461310-acciones-cedears-y-bonos-para-invertir-en-agosto-recomendados-por-expertos-de-la-city",
-  "https://www.iprofesional.com/finanzas/461839-nuevo-precio-del-dolar-que-preven-las-consultoras-que-mas-acertaron-con-sus-pronosticos",
   "https://es.beincrypto.com/?p=537055",
   "https://es.beincrypto.com/?p=536508",
   "https://es.beincrypto.com/?p=537067",
@@ -799,7 +794,12 @@
   "https://news.bit2me.com/harmony-propone-cerrar-blockchain-migrar-one/",
   "https://news.bit2me.com/hipotecas-bitcoin-funciona-aval-250/",
   "https://news.bit2me.com/bitcoin-tesoreria-strategy-defiende-venta/",
-  "https://news.bit2me.com/tokenizacion-bonos-catastrofe-blockchain-2027/"
+  "https://news.bit2me.com/tokenizacion-bonos-catastrofe-blockchain-2027/",
+  "https://www.iprofesional.com/economia/463971-el-banco-central-no-compro-dolares-por-tercera-vez-en-el-ano",
+  "https://www.iprofesional.com/finanzas/463906-como-invertir-y-cuidar-tus-ahorros-en-los-proximos-seis-meses",
+  "https://www.iprofesional.com/finanzas/463903-adelanto-de-sueldo-cuanto-prestan-los-bancos-y-cuales-son-sus-tasas",
+  "https://www.iprofesional.com/finanzas/463943-caputo-reforzo-el-poder-de-fuego-del-bcra-para-contener-al-dolar",
+  "https://news.bit2me.com/ethereum-pago-comisiones-sin-eth/"
  ],
  "inicializado": true,
  "resumen": {
@@ -815,7 +815,8 @@
    "Harmony propone cerrar su blockchain y migrar ONE a Ethereum",
    "Hipotecas con Bitcoin: cómo funciona el aval del 250 %",
    "Bitcoin en tesorería: Strategy defiende su reciente venta",
-   "Tokenización de bonos catástrofe: pruebas para 2027"
+   "Tokenización de bonos catástrofe: pruebas para 2027",
+   "Ethereum: pago de comisiones sin ETH en la red"
   ]
  },
  "precios_enviado": "2026-09-07",
