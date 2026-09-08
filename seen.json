@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=537055",
-  "https://es.beincrypto.com/?p=536508",
-  "https://es.beincrypto.com/?p=537067",
-  "https://es.beincrypto.com/?p=537080",
-  "https://es.beincrypto.com/?p=536784",
-  "https://es.beincrypto.com/?p=537102",
-  "https://www.iprofesional.com/finanzas/460780-5-acciones-argentinas-que-tienen-potencial-de-suba-de-hasta-140-segun-conocido-broker",
-  "https://www.iprofesional.com/finanzas/461925-outlets-de-ceramicos-y-porcelanatos-con-precios-hasta-50-por-ciento-mas-bajos-en-caba-y-gba",
   "https://www.iprofesional.com/finanzas/461835-la-batalla-entre-airbnb-y-booking-por-atraer-a-duenos-e-inquilinos-cual-conviene-mas",
   "https://www.iprofesional.com/finanzas/461922-como-funciona-el-robo-hormiga-en-las-cuentas-bancarias-que-te-saca-dinero-y-no-sabes",
   "https://www.iprofesional.com/economia/461861-caputo-aprieta-las-clavijas-para-sostener-al-dolar-e-ignora-advertencias-del-mercado",
@@ -799,27 +791,28 @@
   "https://www.iprofesional.com/finanzas/463906-como-invertir-y-cuidar-tus-ahorros-en-los-proximos-seis-meses",
   "https://www.iprofesional.com/finanzas/463903-adelanto-de-sueldo-cuanto-prestan-los-bancos-y-cuales-son-sus-tasas",
   "https://www.iprofesional.com/finanzas/463943-caputo-reforzo-el-poder-de-fuego-del-bcra-para-contener-al-dolar",
-  "https://news.bit2me.com/ethereum-pago-comisiones-sin-eth/"
+  "https://news.bit2me.com/ethereum-pago-comisiones-sin-eth/",
+  "https://www.iprofesional.com/finanzas/463942-consumo-de-luz-por-que-superar-ciertas-topes-en-la-factura-sale-caro",
+  "https://www.iprofesional.com/finanzas/464004-alarmas-para-el-hogar-costos-de-proteger-casas-y-departamentos",
+  "https://www.iprofesional.com/finanzas/463894-nuevo-techo-del-dolar-de-caputo-pone-en-tension-al-mercado",
+  "https://es.beincrypto.com/retrasos-retiros-kraken-fondos-atascados/",
+  "https://news.bit2me.com/bitcoin-retrocede-79000-probabilidad-subida-tipos-fed/",
+  "https://news.bit2me.com/bit2shield-unidad-rastreo-criptoactivos/",
+  "https://news.bit2me.com/solana-triplica-tamano-transacciones-4096-bytes/",
+  "https://news.bit2me.com/polonia-mantiene-veto-regulacion-cripto/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-09-07",
+  "fecha": "2026-09-08",
   "titulos": [
-   "CONSECUENCIAS DE NO FACTURAR INGRESOS COMO CREADOR DE CONTENIDO",
-   "La laptop de Hunter Biden se convierte en una memecoin el miércoles. TRUMP baja un 97%",
-   "El mercado bajista de Bitcoin terminó, Eric Crown explica por qué",
-   "Volumen en DEX se dispara más de 9,000x: ahora la industria cripto tiene un nuevo problema",
-   "Ciclo inmobiliario de 18 años indica que la próxima caída del mercado está cerca",
-   "El dólar ha perdido el 97% de su valor desde 1913: ¿Es Bitcoin la respuesta?",
-   "Tu cerebro funciona con 20 vatios: la IA quiere una central eléctrica",
-   "Harmony propone cerrar su blockchain y migrar ONE a Ethereum",
-   "Hipotecas con Bitcoin: cómo funciona el aval del 250 %",
-   "Bitcoin en tesorería: Strategy defiende su reciente venta",
-   "Tokenización de bonos catástrofe: pruebas para 2027",
-   "Ethereum: pago de comisiones sin ETH en la red"
+   "Kraken dice que los retiros están atascados debido a problemas de financiación que afectan a 23 servicios",
+   "Bitcoin retrocede bajo los 79.000 $ ante un 60 % de probabilidad de subida de tipos",
+   "Bit2Shield: unidad de rastreo de criptoactivos de Bit2Me",
+   "Solana triplica el tamaño de sus transacciones a 4.096 bytes",
+   "Polonia mantiene el veto a su regulación cripto"
   ]
  },
- "precios_enviado": "2026-09-07",
- "sponsor_enviado": "2026-09-07-19",
+ "precios_enviado": "2026-09-08",
+ "sponsor_enviado": "2026-09-08-13",
  "resumen_enviado": "2026-09-07"
 }
