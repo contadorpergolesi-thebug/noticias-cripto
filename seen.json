@@ -1,7 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/461835-la-batalla-entre-airbnb-y-booking-por-atraer-a-duenos-e-inquilinos-cual-conviene-mas",
-  "https://www.iprofesional.com/finanzas/461922-como-funciona-el-robo-hormiga-en-las-cuentas-bancarias-que-te-saca-dinero-y-no-sabes",
   "https://www.iprofesional.com/economia/461861-caputo-aprieta-las-clavijas-para-sostener-al-dolar-e-ignora-advertencias-del-mercado",
   "https://es.beincrypto.com/microstrategy-vende-bitcoin-agosto-solucion-strc/",
   "https://es.beincrypto.com/?p=537183",
@@ -799,7 +797,9 @@
   "https://news.bit2me.com/bitcoin-retrocede-79000-probabilidad-subida-tipos-fed/",
   "https://news.bit2me.com/bit2shield-unidad-rastreo-criptoactivos/",
   "https://news.bit2me.com/solana-triplica-tamano-transacciones-4096-bytes/",
-  "https://news.bit2me.com/polonia-mantiene-veto-regulacion-cripto/"
+  "https://news.bit2me.com/polonia-mantiene-veto-regulacion-cripto/",
+  "https://www.iprofesional.com/finanzas/463950-bancos-argentinos-alerta-unicas-dos-acciones-comprar-septiembre-2026",
+  "https://news.bit2me.com/microstrategy-recompra-acciones-pausa-compras-bitcoin/"
  ],
  "inicializado": true,
  "resumen": {
@@ -809,7 +809,8 @@
    "Bitcoin retrocede bajo los 79.000 $ ante un 60 % de probabilidad de subida de tipos",
    "Bit2Shield: unidad de rastreo de criptoactivos de Bit2Me",
    "Solana triplica el tamaño de sus transacciones a 4.096 bytes",
-   "Polonia mantiene el veto a su regulación cripto"
+   "Polonia mantiene el veto a su regulación cripto",
+   "MicroStrategy recompra 176 millones en acciones y pausa BTC"
   ]
  },
  "precios_enviado": "2026-09-08",
