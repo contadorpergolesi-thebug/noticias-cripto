@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/economia/461861-caputo-aprieta-las-clavijas-para-sostener-al-dolar-e-ignora-advertencias-del-mercado",
-  "https://es.beincrypto.com/microstrategy-vende-bitcoin-agosto-solucion-strc/",
-  "https://es.beincrypto.com/?p=537183",
-  "https://es.beincrypto.com/?p=537165",
   "https://es.beincrypto.com/?p=537112",
   "https://es.beincrypto.com/?p=537156",
   "https://news.bit2me.com/oro-tokenizado-marco-regulatorio-reino-unido/",
@@ -799,7 +795,11 @@
   "https://news.bit2me.com/solana-triplica-tamano-transacciones-4096-bytes/",
   "https://news.bit2me.com/polonia-mantiene-veto-regulacion-cripto/",
   "https://www.iprofesional.com/finanzas/463950-bancos-argentinos-alerta-unicas-dos-acciones-comprar-septiembre-2026",
-  "https://news.bit2me.com/microstrategy-recompra-acciones-pausa-compras-bitcoin/"
+  "https://news.bit2me.com/microstrategy-recompra-acciones-pausa-compras-bitcoin/",
+  "https://www.iprofesional.com/finanzas/463651-el-calendario-de-84-cedears-que-reparten-dolares-en-septiembre",
+  "https://www.iprofesional.com/finanzas/463551-por-que-los-bonos-bajo-ley-argentina-cotizan-hasta-7-por-ciento-mas-baratos",
+  "https://www.iprofesional.com/finanzas/463972-plazo-fijo-banco-provincia-con-suba-de-tasa-cuanto-ganas-al-invertir-2-millones-pesos",
+  "https://www.iprofesional.com/economia/463975-el-dolar-ya-no-se-quedara-atras-y-copiara-a-la-inflacion-en-argentina"
  ],
  "inicializado": true,
  "resumen": {
@@ -814,6 +814,6 @@
   ]
  },
  "precios_enviado": "2026-09-08",
- "sponsor_enviado": "2026-09-08-13",
- "resumen_enviado": "2026-09-07"
+ "sponsor_enviado": "2026-09-08-19",
+ "resumen_enviado": "2026-09-08"
 }
