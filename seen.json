@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=537249",
-  "https://www.iprofesional.com/economia/462004-el-techo-al-dolar-que-puso-caputo-recalienta-las-tasas-de-interes",
-  "https://es.beincrypto.com/?p=537327",
-  "https://es.beincrypto.com/?p=537314",
-  "https://es.beincrypto.com/?p=537321",
-  "https://es.beincrypto.com/?p=537300",
   "https://es.beincrypto.com/?p=537315",
   "https://news.bit2me.com/strategy-vende-1-690-bitcoin-recomprar/",
   "https://news.bit2me.com/mineria-bitcoin-bitdeer-multiplica-produccion/",
@@ -799,7 +793,13 @@
   "https://news.bit2me.com/bitcoin-custodia-multifirma-boveda-asegurada/",
   "https://news.bit2me.com/bitcoin-empresas-xce-compra-firmas/",
   "https://news.bit2me.com/bitmine-compra-eth-reserva-corporativa/",
-  "https://news.bit2me.com/chfd-revolucion-stablecoins-marco-regulato/"
+  "https://news.bit2me.com/chfd-revolucion-stablecoins-marco-regulato/",
+  "https://www.iprofesional.com/finanzas/464060-radiografia-del-endeudamiento-brecha-invisible-de-la-mora-entre-caba-y-conurbano",
+  "https://es.beincrypto.com/?p=541432",
+  "https://es.beincrypto.com/?p=541422",
+  "https://es.beincrypto.com/?p=541066",
+  "https://es.beincrypto.com/?p=541411",
+  "https://news.bit2me.com/regulacion-cripto-lummis-consenso-clarity-act/"
  ],
  "inicializado": true,
  "resumen": {
@@ -817,7 +817,12 @@
    "Bitcoin y custodia multifirma: nueva bóveda asegurada",
    "Bitcoin en empresas: XCE compra firmas para acumular BTC",
    "Ethereum: Bitmine compra 28.000 ETH y roza su meta del 5%",
-   "CHFD y la revolución de las stablecoins en el marco regulatorio suizo y europeo"
+   "CHFD y la revolución de las stablecoins en el marco regulatorio suizo y europeo",
+   "MetaMask se separa de Consensys, pero siguen dudas sobre IPO y el token",
+   "U.S. Bank mueve dólares reales en una blockchain pública, pero con un interruptor de apagado",
+   "La deuda de EEUU alcanzó $40 billones, entonces, ¿Dónde está la operación contra la depreciación de Bitcoin?",
+   "MEXC lanza “Opera en Wall Street sin barreras” para romper las fricciones tradicionales de participación en el mercado de valores",
+   "Regulación cripto: Lummis exige consenso por el Clarity Act"
   ]
  },
  "precios_enviado": "2026-09-09",
