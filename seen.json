@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=537315",
-  "https://news.bit2me.com/strategy-vende-1-690-bitcoin-recomprar/",
-  "https://news.bit2me.com/mineria-bitcoin-bitdeer-multiplica-produccion/",
-  "https://news.bit2me.com/bitcoin-cae-tension-ormuz-petroleo/",
-  "https://news.bit2me.com/ethereum-ia-seguridad-cuantica-hoja-ruta/",
-  "https://www.iprofesional.com/finanzas/461547-inversores-temen-que-la-politica-pegue-en-el-dolar-y-hacen-volar-la-cobertura-cambiaria",
   "https://www.iprofesional.com/realestate/462029-el-departamento-de-neuquen-donde-impacta-el-boom-petrolero-y-la-morosida-superan-el-25",
   "https://es.beincrypto.com/?p=536951",
   "https://es.beincrypto.com/?p=537388",
@@ -799,7 +793,13 @@
   "https://es.beincrypto.com/?p=541422",
   "https://es.beincrypto.com/?p=541066",
   "https://es.beincrypto.com/?p=541411",
-  "https://news.bit2me.com/regulacion-cripto-lummis-consenso-clarity-act/"
+  "https://news.bit2me.com/regulacion-cripto-lummis-consenso-clarity-act/",
+  "https://www.iprofesional.com/energia/464153-ypf-coloco-bono-por-us1200-millones-y-hace-historia-despues-de-11-anos",
+  "https://www.iprofesional.com/finanzas/464152-morgan-stanley-estimo-el-precio-del-dolar-a-fin-de-ano-en-argentina",
+  "https://www.iprofesional.com/finanzas/464108-del-colapso-geopolitico-a-la-ia-como-cambio-el-mundo-tras-las-torres-gemelas",
+  "https://es.beincrypto.com/?p=541430",
+  "https://es.beincrypto.com/violacion-proveedor-email-trezor-phishing/",
+  "https://es.beincrypto.com/pf-cita-galipolo-campos-neto-banco-master/"
  ],
  "inicializado": true,
  "resumen": {
@@ -822,10 +822,13 @@
    "U.S. Bank mueve dólares reales en una blockchain pública, pero con un interruptor de apagado",
    "La deuda de EEUU alcanzó $40 billones, entonces, ¿Dónde está la operación contra la depreciación de Bitcoin?",
    "MEXC lanza “Opera en Wall Street sin barreras” para romper las fricciones tradicionales de participación en el mercado de valores",
-   "Regulación cripto: Lummis exige consenso por el Clarity Act"
+   "Regulación cripto: Lummis exige consenso por el Clarity Act",
+   "Los ETF de XRP siguen atrayendo dinero de Wall Street mientras Bitcoin y Ethereum caen",
+   "Trezor informa de otro incidente de seguridad: lo que los usuarios deben saber",
+   "Policía Federal ordena a Galípolo y Campos Neto declarar sobre Banco Master"
   ]
  },
  "precios_enviado": "2026-09-09",
- "sponsor_enviado": "2026-09-09-13",
- "resumen_enviado": "2026-09-08"
+ "sponsor_enviado": "2026-09-09-19",
+ "resumen_enviado": "2026-09-09"
 }
