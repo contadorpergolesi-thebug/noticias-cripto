@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/trump-verdad-api-demanda-primera-enmienda/",
-  "https://es.beincrypto.com/?p=537467",
-  "https://es.beincrypto.com/?p=537368",
-  "https://news.bit2me.com/empresas-cripto-piden-acceso-ia-desarrolladores-bitcoin/",
   "https://news.bit2me.com/ethereum-etf-fidelity-solicita-staking-sec/",
   "https://es.beincrypto.com/?p=537506",
   "https://es.beincrypto.com/?p=537479",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=541550",
   "https://es.beincrypto.com/?p=541553",
   "https://es.beincrypto.com/?p=541560",
-  "https://news.bit2me.com/riesgo-venta-bitcoin-minimos-historicos/"
+  "https://news.bit2me.com/riesgo-venta-bitcoin-minimos-historicos/",
+  "https://www.iprofesional.com/finanzas/464238-caputo-renuncia-a-su-bono-preferido-y-emite-deuda-de-corto-plazo",
+  "https://es.beincrypto.com/?p=541597",
+  "https://es.beincrypto.com/?p=541606",
+  "https://es.beincrypto.com/liquidacion-etf-dogecoin-bitwise-bwow/"
  ],
  "inicializado": true,
  "resumen": {
@@ -823,10 +823,13 @@
    "Estas 2 acciones de chips tuvieron una ruptura esta semana: ninguna fue NVIDIA",
    "Zoomex lanza Campeonato de Trading Multi-Activos ZWTC 2026 con un premio récord de hasta $5 millones en USDT",
    "Oro y Bitcoin caen mientras la alta inflación en EEUU sacude los mercados",
-   "Riesgo de venta de Bitcoin cae a mínimos históricos"
+   "Riesgo de venta de Bitcoin cae a mínimos históricos",
+   "Trump, “Midterms” y un plan de $5,000: ¿Positivo para Bitcoin?",
+   "Ex CTO de Ripple comparte sorpresiva predicción sobre XRP",
+   "El ETF de Dogecoin de Bitwise cierra con 722.000 dólares restantes: ¿seguirán los fondos rivales?"
   ]
  },
  "precios_enviado": "2026-09-10",
- "sponsor_enviado": "2026-09-10-13",
- "resumen_enviado": "2026-09-09"
+ "sponsor_enviado": "2026-09-10-19",
+ "resumen_enviado": "2026-09-10"
 }
