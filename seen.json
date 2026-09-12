@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=537624",
-  "https://es.beincrypto.com/?p=537542",
-  "https://news.bit2me.com/libra-digital-pruebas-stablecoins-reino-unido/",
-  "https://news.bit2me.com/goldman-sachs-compra-gestora-etf-neos/",
   "https://news.bit2me.com/metaplanet-aclara-traslado-bitcoin/",
   "https://www.iprofesional.com/finanzas/462223-calificadora-fitch-cuanto-podria-valer-dolar-tras-elecciones-2027",
   "https://es.beincrypto.com/?p=537366",
@@ -799,30 +795,23 @@
   "https://www.iprofesional.com/finanzas/464320-banco-central-argentina-registro-la-menor-compra-de-dolares-semanal-en-lo-que-va-del-2026",
   "https://www.iprofesional.com/finanzas/464292-cuanto-gano-invirtiendo-500000-a-plazo-fijo",
   "https://www.iprofesional.com/finanzas/464283-caputo-celebra-record-exportador-pyme-de-us7630-millones-pero-crece-la-morosidad",
-  "https://es.beincrypto.com/?p=541730"
+  "https://es.beincrypto.com/?p=541730",
+  "https://es.beincrypto.com/?p=541703",
+  "https://es.beincrypto.com/?p=541744",
+  "https://es.beincrypto.com/filtracion-de-datos-de-revolut-solicitud-falsa-del-gobierno/",
+  "https://es.beincrypto.com/?p=541650"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-09-11",
+  "fecha": "2026-09-12",
   "titulos": [
-   "Benjamin Cowen sobre efecto de la IPO de Anthropic en Bitcoin",
-   "Resumen semanal de Bitcoin y criptomonedas: 11 de septiembre",
-   "Base App vuelve a ser Coinbase Wallet: ¿Qué sucedió?",
-   "Caída repentina de Bitcoin y oro: por qué un IPC de 2.4% siguió siendo alto",
-   "ETF de XRP registran 3 días de entrafas en medio de salidas de los fondos de Bitcoin",
-   "Posible rival chino de NVIDIA sube más de 200% en su debut en la bolsa de Shanghái",
-   "Raydium (RAY) alcanza su nivel más alto en 11 meses tras rally del 90%",
-   "Los ETF de oro registran su segundo mejor mes de la historia con una entrada de $18 mil millones",
-   "Sam Bankman-Fried lleva el caso FTX a la Corte Suprema: ¿Los jueces lo aceptarán?",
-   "Unicoin demanda a Uniswap por el registro de la marca UNI",
-   "Samsung recibe $250 por cada iPhone Duo que compras",
-   "Trader de criptomonedas gana $10 millones con unaagresiva de estrategia HODL",
-   "Informe mensual on-chain de Zoomex: agosto de 2026",
-   "Metaplanet reduce pool de recompensas para ejecutivos en 41%: ¿perdonarán los accionistas la dilución?",
-   "Probabilidad de aumento de tasas de la Fed se acerca al 90%: ¿Dónde falló la economía de Trump?"
+   "“No veremos regulación de la IA hasta que mate a alguien”, advierte el CIO de Bridgewater",
+   "Bitcoin vs Zcash: Grayscale revela cuál es más rentable para minar",
+   "Revolut confirma envío de registros de pasaportes y de Bitcoin a correo electrónico gubernamental falso",
+   "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento"
   ]
  },
- "precios_enviado": "2026-09-11",
+ "precios_enviado": "2026-09-12",
  "sponsor_enviado": "2026-09-11-19",
  "resumen_enviado": "2026-09-11"
 }
