@@ -1,7 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/metaplanet-aclara-traslado-bitcoin/",
-  "https://www.iprofesional.com/finanzas/462223-calificadora-fitch-cuanto-podria-valer-dolar-tras-elecciones-2027",
   "https://es.beincrypto.com/?p=537366",
   "https://es.beincrypto.com/?p=537728",
   "https://www.iprofesional.com/politica/462231-el-gobierno-avanza-con-cambios-para-ampliar-el-credito-en-dolares-a-empresas",
@@ -799,7 +797,9 @@
   "https://es.beincrypto.com/?p=541703",
   "https://es.beincrypto.com/?p=541744",
   "https://es.beincrypto.com/filtracion-de-datos-de-revolut-solicitud-falsa-del-gobierno/",
-  "https://es.beincrypto.com/?p=541650"
+  "https://es.beincrypto.com/?p=541650",
+  "https://es.beincrypto.com/?p=541783",
+  "https://es.beincrypto.com/?p=541760"
  ],
  "inicializado": true,
  "resumen": {
@@ -808,10 +808,12 @@
    "“No veremos regulación de la IA hasta que mate a alguien”, advierte el CIO de Bridgewater",
    "Bitcoin vs Zcash: Grayscale revela cuál es más rentable para minar",
    "Revolut confirma envío de registros de pasaportes y de Bitcoin a correo electrónico gubernamental falso",
-   "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento"
+   "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento",
+   "NVIDIA podría hacer que la IPO de Anthropic supere la de SpaceX con $10 mil millones",
+   "¿Caerá el precio del oro por debajo de $4,000 ante los nuevos riesgos económicos?"
   ]
  },
  "precios_enviado": "2026-09-12",
- "sponsor_enviado": "2026-09-11-19",
+ "sponsor_enviado": "2026-09-12-13",
  "resumen_enviado": "2026-09-11"
 }
