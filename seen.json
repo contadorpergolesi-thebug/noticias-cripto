@@ -1,10 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/462227-la-ciudad-de-buenos-aires-quiere-transformar-los-taxis-y-saca-un-credito-con-tasa-del-20",
-  "https://cripto-contador.com/?p=4753",
-  "https://es.beincrypto.com/?p=537588",
-  "https://www.iprofesional.com/politica/462231-caputo-habilito-los-creditos-en-dolares-para-todas-las-empresas",
-  "https://www.iprofesional.com/finanzas/462184-el-bcra-compra-menos-reservas-y-la-city-anticipa-que-pasara-con-el-dolar",
   "https://es.beincrypto.com/tether-kpmg-primer-auditoria-limpia-colchon-reservas-se-reduce/",
   "https://es.beincrypto.com/?p=537705",
   "https://www.iprofesional.com/finanzas/462246-llenar-el-freezer-como-inversion-la-carne-le-gana-al-dolar-y-al-plazo-fijo-en-el-ano",
@@ -799,22 +794,24 @@
   "https://es.beincrypto.com/?p=541760",
   "https://www.iprofesional.com/finanzas/464339-prestamos-jubilados-banco-nacion-provincia-comafi",
   "https://www.iprofesional.com/economia/464073-caputo-aprovecha-boom-de-dolares-para-asegurar-paz-cambiaria",
-  "https://es.beincrypto.com/?p=541787"
+  "https://es.beincrypto.com/?p=541787",
+  "https://www.iprofesional.com/finanzas/464166-precio-mas-alto-al-que-llegaria-dolar-2026-segun-15-consultoras",
+  "https://es.beincrypto.com/?p=541789",
+  "https://es.beincrypto.com/?p=541772",
+  "https://es.beincrypto.com/?p=541436",
+  "https://es.beincrypto.com/?p=541805"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-09-12",
+  "fecha": "2026-09-13",
   "titulos": [
-   "“No veremos regulación de la IA hasta que mate a alguien”, advierte el CIO de Bridgewater",
-   "Bitcoin vs Zcash: Grayscale revela cuál es más rentable para minar",
-   "Revolut confirma envío de registros de pasaportes y de Bitcoin a correo electrónico gubernamental falso",
-   "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento",
-   "NVIDIA podría hacer que la IPO de Anthropic supere la de SpaceX con $10 mil millones",
-   "¿Caerá el precio del oro por debajo de $4,000 ante los nuevos riesgos económicos?",
-   "Tom Lee: los próximos 12 meses serán “realmente alcistas” para las criptomonedas"
+   "¿Podrá la IA crear una startup en 72 horas? El equipo de Elon Musk transmitirá en vivo el test",
+   "Caroline Ellison de FTX ahora es “Carol” y trabaja en secreto para una organización benéfica",
+   "El impulso de la tokenización en Brasil se acelera con un plan de crédito de $2 mil millones",
+   "¿Una mosca virtual puede hacer trading de Bitcoin? Ingeniero de Coinbase crea escenario surrealista"
   ]
  },
- "precios_enviado": "2026-09-12",
- "sponsor_enviado": "2026-09-12-19",
+ "precios_enviado": "2026-09-13",
+ "sponsor_enviado": "2026-09-13-13",
  "resumen_enviado": "2026-09-11"
 }
