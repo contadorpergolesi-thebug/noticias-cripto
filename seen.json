@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=538105",
-  "https://es.beincrypto.com/?p=538073",
-  "https://es.beincrypto.com/?p=537996",
   "https://news.bit2me.com/chainalysis-demanda-gobierno-estados-unidos/",
   "https://news.bit2me.com/ethereum-hegota-actualizacion-privacidad-red/",
   "https://es.beincrypto.com/binance-regresa-reino-unido-nueva-licencia/",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=542258",
   "https://es.beincrypto.com/fomc-warsh-tasa-interes-bitcoin-oro/",
   "https://es.beincrypto.com/?p=542188",
-  "https://news.bit2me.com/ensayo-euro-digital-comercios-hacia-nueva/"
+  "https://news.bit2me.com/ensayo-euro-digital-comercios-hacia-nueva/",
+  "https://www.iprofesional.com/finanzas/464609-como-es-el-modelo-peruano-del-bcra-para-mantener-el-dolar-en-calma",
+  "https://es.beincrypto.com/?p=542261",
+  "https://es.beincrypto.com/?p=542118"
  ],
  "inicializado": true,
  "resumen": {
@@ -823,10 +823,12 @@
    "Celsius demanda a BitMEX por 6,360 Bitcoin perdidos",
    "La Fed sube a 4%: ¿Por qué 16 funcionarios aún no han terminado?",
    "Standard Chartered ve a Arbitrum (ARB) en $10 para 2030: ¿En qué se basa el pronóstico?",
-   "El ensayo del euro digital con comercios: hacia una nueva era en los pagos europeos"
+   "El ensayo del euro digital con comercios: hacia una nueva era en los pagos europeos",
+   "Con el plazo del Banco Central de Brasil acercándose, Crypto.com cierra cuenta en reales",
+   "Anthropic es rentable, si ignoras el costo de crear Claude"
   ]
  },
  "precios_enviado": "2026-09-16",
- "sponsor_enviado": "2026-09-16-13",
- "resumen_enviado": "2026-09-15"
+ "sponsor_enviado": "2026-09-16-19",
+ "resumen_enviado": "2026-09-16"
 }
