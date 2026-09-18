@@ -1,14 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/visa-busca-socio-liquidaciones-stablecoins/",
-  "https://www.iprofesional.com/finanzas/462545-el-riesgo-pais-supero-los-500-puntos-y-alcanzo-un-nuevo-maximo-en-tres-meses",
-  "https://es.beincrypto.com/?p=538370",
-  "https://es.beincrypto.com/reglas-sec-cripto-ico-america/",
-  "https://www.iprofesional.com/finanzas/462556-subio-el-riesgo-pais-y-el-mercado-anticipa-como-puede-impactar-en-el-dolar-e-inversiones",
-  "https://es.beincrypto.com/?p=538361",
-  "https://es.beincrypto.com/anthropic-opv-acciones-supervotantes-spacex/",
-  "https://www.iprofesional.com/finanzas/462574-billeteras-digitales-tasas-700-por-ciento-preocupacion-usuarios-argentinos",
-  "https://www.iprofesional.com/economia/462571-metrogas-sube-a-contramano-del-merval-y-en-la-city-se-habla-del-factor-manzano",
   "https://cripto-contador.com/?p=4766",
   "https://cripto-contador.com/?p=4759",
   "https://es.beincrypto.com/?p=538373",
@@ -799,7 +790,16 @@
   "https://news.bit2me.com/sp-global-adquiere-openzeppelin-riesgo-cripto/",
   "https://news.bit2me.com/bitcoin-mantiene-precio-subida-tipos/",
   "https://news.bit2me.com/avalanche-viva-finanzas-corporativas-stablecoins/",
-  "https://news.bit2me.com/fed-sube-tipos-interes-25-puntos/"
+  "https://news.bit2me.com/fed-sube-tipos-interes-25-puntos/",
+  "https://www.iprofesional.com/actualidad/464629-plazo-fijo-tradicional-vs-uva-cual-paga-mas",
+  "https://www.iprofesional.com/actualidad/464636-prestamos-de-hasta-40000000-para-jubilados-requisitos-y-tasas",
+  "https://es.beincrypto.com/?p=542565",
+  "https://es.beincrypto.com/?p=542560",
+  "https://es.beincrypto.com/?p=542549",
+  "https://es.beincrypto.com/?p=542491",
+  "https://es.beincrypto.com/?p=542545",
+  "https://es.beincrypto.com/actriz-ia-tilly-norwood-piers-morgan-fallo/",
+  "https://news.bit2me.com/ethereum-glamsterdam-pruebas-capacidad/"
  ],
  "inicializado": true,
  "resumen": {
@@ -818,7 +818,14 @@
    "S&P Global adquiere OpenZeppelin: impulso institucional al análisis de riesgo en cripto",
    "Bitcoin mantiene los 76.000 $ tras la subida de tipos",
    "Avalanche y VIVA: finanzas corporativas con stablecoins",
-   "Tipos de interés: La Fed anuncia una subida de 25 puntos"
+   "Tipos de interés: La Fed anuncia una subida de 25 puntos",
+   "La plataforma de criptomonedas Lemon abandona Brasil ante condiciones regulatorias adversas",
+   "XRP supera el fracaso de la CLARITY Act y se dispara 7%: ¿Podrá mantener el ritmo?",
+   "Investigadores ganan $6,500 tras hackear OpenAI con Claude de Anthropic",
+   "Zoomex lanza campaña de compensación por pérdidas en copy trading durante la primera semana",
+   "Hackers infectan 30,000 dispositivos y roban $11 millones de wallets de criptomonedas",
+   "«La ‘primera actriz de IA del mundo’ tiene fallos en vivo con Piers Morgan y cambia al chino»",
+   "Ethereum Glamsterdam: éxito en las pruebas de capacidad"
   ]
  },
  "precios_enviado": "2026-09-18",
