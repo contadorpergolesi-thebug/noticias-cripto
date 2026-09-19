@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://cripto-contador.com/?p=4777",
-  "https://es.beincrypto.com/?p=538397",
-  "https://es.beincrypto.com/?p=538402",
   "https://es.beincrypto.com/?p=538317",
   "https://es.beincrypto.com/?p=538454",
   "https://news.bit2me.com/regulacion-sec-exenciones-tokens-cripto/",
@@ -799,7 +796,10 @@
   "https://news.bit2me.com/mineria-bitcoin-etiopia-recorta-energia/",
   "https://news.bit2me.com/zcash-aprueba-bloques-25-segundos-mantiene-halving/",
   "https://news.bit2me.com/bitcoin-core-32-mejoras-comisiones-validacion/",
-  "https://es.beincrypto.com/?p=542595"
+  "https://es.beincrypto.com/?p=542595",
+  "https://www.iprofesional.com/finanzas/464542-el-grupo-financiero-de-costantini-revela-que-bonos-corporativos-elige",
+  "https://es.beincrypto.com/?p=542619",
+  "https://es.beincrypto.com/?p=542575"
  ],
  "inicializado": true,
  "resumen": {
@@ -812,10 +812,12 @@
    "Minería de Bitcoin: Etiopía recorta un 77% el suministro eléctrico",
    "Zcash: aprueban bloques de 25 segundos y mantienen halving",
    "Bitcoin Core 32: mejoras en comisiones y validación",
-   "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos"
+   "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos",
+   "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
+   "Elon Musk dice que la IA duplicará el crecimiento de EEUU: ¿Es posible?"
   ]
  },
  "precios_enviado": "2026-09-19",
- "sponsor_enviado": "2026-09-19-13",
+ "sponsor_enviado": "2026-09-19-19",
  "resumen_enviado": "2026-09-18"
 }
