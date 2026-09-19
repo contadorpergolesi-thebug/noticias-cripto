@@ -1,6 +1,5 @@
 {
  "vistos": [
-  "https://cripto-contador.com/?p=4779",
   "https://cripto-contador.com/?p=4777",
   "https://es.beincrypto.com/?p=538397",
   "https://es.beincrypto.com/?p=538402",
@@ -799,7 +798,8 @@
   "https://es.beincrypto.com/?p=542254",
   "https://news.bit2me.com/mineria-bitcoin-etiopia-recorta-energia/",
   "https://news.bit2me.com/zcash-aprueba-bloques-25-segundos-mantiene-halving/",
-  "https://news.bit2me.com/bitcoin-core-32-mejoras-comisiones-validacion/"
+  "https://news.bit2me.com/bitcoin-core-32-mejoras-comisiones-validacion/",
+  "https://es.beincrypto.com/?p=542595"
  ],
  "inicializado": true,
  "resumen": {
@@ -811,10 +811,11 @@
    "Tus pagos con Bitcoin pueden revelar más de lo que esperabas",
    "Minería de Bitcoin: Etiopía recorta un 77% el suministro eléctrico",
    "Zcash: aprueban bloques de 25 segundos y mantienen halving",
-   "Bitcoin Core 32: mejoras en comisiones y validación"
+   "Bitcoin Core 32: mejoras en comisiones y validación",
+   "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos"
   ]
  },
  "precios_enviado": "2026-09-19",
- "sponsor_enviado": "2026-09-18-19",
+ "sponsor_enviado": "2026-09-19-13",
  "resumen_enviado": "2026-09-18"
 }
