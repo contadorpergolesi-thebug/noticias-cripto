@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=538317",
-  "https://es.beincrypto.com/?p=538454",
-  "https://news.bit2me.com/regulacion-sec-exenciones-tokens-cripto/",
-  "https://news.bit2me.com/stablecoins-efectivo-propuesta-contable-fasb/",
-  "https://www.iprofesional.com/finanzas/462602-creditos-en-dolares-que-empresas-podran-acceder-y-cual-es-el-limite-que-fijo-el-bcra",
-  "https://es.beincrypto.com/avance-vacuna-contra-el-cancer-acciones-moderna/",
-  "https://es.beincrypto.com/?p=538475",
-  "https://cripto-contador.com/?p=4807",
   "https://cripto-contador.com/?p=4805",
   "https://cripto-contador.com/?p=4803",
   "https://cripto-contador.com/?p=4801",
@@ -799,25 +791,30 @@
   "https://es.beincrypto.com/?p=542595",
   "https://www.iprofesional.com/finanzas/464542-el-grupo-financiero-de-costantini-revela-que-bonos-corporativos-elige",
   "https://es.beincrypto.com/?p=542619",
-  "https://es.beincrypto.com/?p=542575"
+  "https://es.beincrypto.com/?p=542575",
+  "https://www.iprofesional.com/finanzas/464762-nuevo-precio-del-dolar-que-preven-las-6-consultoras-que-mas-aciertan",
+  "https://es.beincrypto.com/?p=542645",
+  "https://es.beincrypto.com/?p=542639",
+  "https://es.beincrypto.com/?p=542385",
+  "https://es.beincrypto.com/?p=542436",
+  "https://news.bit2me.com/circle-presenta-blockchain-arc-pagos/",
+  "https://news.bit2me.com/pagos-xrp-agentes-ia-ripple-stripe/",
+  "https://news.bit2me.com/fraude-cripto-eeuu-acusa-exingenieros-datos/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-09-19",
+  "fecha": "2026-09-20",
   "titulos": [
-   "¿Cuál ETF de criptomonedas atrajo más dinero esta semana? No fue Bitcoin, ni Ethereum",
-   "Kevin O'Leary revela lo que separa a Bitcoin de $1 millón",
-   "Google confirma que Gemini hackeó a 3 empresas reales en prueba de seguridad de mayo",
-   "Tus pagos con Bitcoin pueden revelar más de lo que esperabas",
-   "Minería de Bitcoin: Etiopía recorta un 77% el suministro eléctrico",
-   "Zcash: aprueban bloques de 25 segundos y mantienen halving",
-   "Bitcoin Core 32: mejoras en comisiones y validación",
-   "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos",
-   "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
-   "Elon Musk dice que la IA duplicará el crecimiento de EEUU: ¿Es posible?"
+   "Entusiastas venezolanos participan en taller formativo sobre criptomonedas",
+   "¿La caída de las criptomonedas es un anticipo para mañana? Los hutíes apuntan a Riad, Trump considera acciones sobre Irán",
+   "¿Dónde residen realmente los dólares de Latinoamérica?",
+   "¿Por qué los bancos repentinamente quieren stablecoins y por qué eso podría ser importante para ti?",
+   "Arc: Circle presenta su nueva blockchain institucional",
+   "Pagos con XRP: Ripple integra su red con agentes de IA",
+   "Fraude cripto: EE. UU. acusa a exingenieros por uso de datos"
   ]
  },
- "precios_enviado": "2026-09-19",
- "sponsor_enviado": "2026-09-19-19",
+ "precios_enviado": "2026-09-20",
+ "sponsor_enviado": "2026-09-20-13",
  "resumen_enviado": "2026-09-18"
 }
