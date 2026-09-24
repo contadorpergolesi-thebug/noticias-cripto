@@ -79,6 +79,29 @@ MENSAJE_SPONSOR = (
     "perder el capital invertido.</i>"
 )
 
+# Mensaje de Earn2Trade: dias de la semana y hora en que se publica.
+# Los dias van de 0 (lunes) a 6 (domingo). Lista vacia = desactivado.
+DIAS_EARN2TRADE = [1, 4]   # martes y viernes
+HORA_EARN2TRADE = 17       # 17:00 (None para desactivar)
+# Ojo: el ampersand del enlace de afiliado va escrito como "&amp;" porque
+# los mensajes se envian en modo HTML. Telegram lo convierte solo al abrirlo.
+MENSAJE_EARN2TRADE = (
+    "<b>¿Sirven las cuentas de fondeo?</b>\n\n"
+    "Me puse a revisar Earn2Trade en detalle y el Trader Career Path tiene "
+    "lo mejor y lo peor del sector.\n\n"
+    "Lo bueno: escalás de USD 25.000 a 400.000 sin comprar cuentas nuevas.\n\n"
+    "Lo que nadie cuenta: la evaluación se paga por mes, y si retirás menos "
+    "de cierto monto el split baja al 50%.\n\n"
+    "Escribí la review completa con las 13 contras que encontré:\n"
+    "https://cripto-contador.com/analisis-tecnico/"
+    "earn2trade-en-2026-ventajas-desventajas-reglas-y-como-funcionan-sus-cuentas-de-fondeo/\n\n"
+    "Si ya lo tenías decidido:\n"
+    "https://www.earn2trade.com/trader-career-path"
+    "?a_pid=criptocontador&amp;a_bid=8d7b4b9e\n\n"
+    "<i>Enlace de afiliado. Operar futuros implica riesgo de perder el "
+    "capital invertido.</i>"
+)
+
 MAX_POR_EJECUCION = 15     # tope de mensajes por ronda (evita inundar el canal)
 LARGO_RESUMEN = 220        # caracteres del extracto
 SEGUNDOS_ENTRE_MENSAJES = 4
@@ -237,6 +260,22 @@ def enviar_sponsor(estado: dict, ahora: datetime) -> None:
         print("Enviado el mensaje del sponsor.")
 
 
+def enviar_earn2trade(estado: dict, ahora: datetime) -> None:
+    """Mensaje de Earn2Trade, los dias configurados en DIAS_EARN2TRADE.
+    Si la tanda falla, se recupera en la siguiente ronda del mismo dia."""
+    if HORA_EARN2TRADE is None or not DIAS_EARN2TRADE:
+        return
+    if ahora.weekday() not in DIAS_EARN2TRADE:
+        return
+    if ahora.hour < HORA_EARN2TRADE:
+        return
+    if estado.get("earn2trade_enviado") == hoy():
+        return
+    if enviar(MENSAJE_EARN2TRADE):
+        estado["earn2trade_enviado"] = hoy()
+        print("Enviado el mensaje de Earn2Trade.")
+
+
 def enviar_precios(estado: dict) -> None:
     """Cotizaciones de BTC y ETH, una vez por dia."""
     if HORA_PRECIOS is None or estado.get("precios_enviado") == hoy():
@@ -319,6 +358,7 @@ def main() -> int:
         if HORA_RESUMEN is not None and ahora.hour >= HORA_RESUMEN:
             enviar_resumen(estado)
         enviar_sponsor(estado, ahora)
+        enviar_earn2trade(estado, ahora)
 
     if en_silencio(ahora):
         guardar_estado(estado)
