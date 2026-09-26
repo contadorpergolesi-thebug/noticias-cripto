@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=539576",
-  "https://es.beincrypto.com/?p=539544",
-  "https://es.beincrypto.com/?p=539593",
-  "https://news.bit2me.com/microstrategy-riesgo-mercados-capitales-bitcoin/",
-  "https://news.bit2me.com/avalanche-posco-tokenizacion-activos-comerciales/",
-  "https://es.beincrypto.com/?p=539588",
   "https://news.bit2me.com/educacion-cripto-estudiantes-universidad/",
   "https://www.iprofesional.com/finanzas/463037-caucion-en-dolares-cuanto-paga-por-prestar-los-ahorros-inmovilizados",
   "https://www.iprofesional.com/economia/463119-el-dolar-vuelve-a-subir-se-aleja-de-los-1500-y-alcanza-un-nuevo-record",
@@ -799,7 +793,13 @@
   "https://es.beincrypto.com/?p=543366",
   "https://es.beincrypto.com/?p=543354",
   "https://es.beincrypto.com/?p=543337",
-  "https://news.bit2me.com/tesorerias-cripto-pierden-ventaja-bolsa-dwf/"
+  "https://news.bit2me.com/tesorerias-cripto-pierden-ventaja-bolsa-dwf/",
+  "https://www.iprofesional.com/finanzas/465295-por-que-cae-el-merval-avanza-el-dolar-y-sube-el-riesgo-pais",
+  "https://www.iprofesional.com/economia/465298-dolarizacion-ahorristas-compraron-mas-de-us2850-millones-en-un-mes",
+  "https://www.iprofesional.com/finanzas/465299-el-bcra-no-compro-dolares-y-las-reservas-cayeron-600-millones-tras-un-pago-al-fmi",
+  "https://es.beincrypto.com/?p=543373",
+  "https://es.beincrypto.com/?p=543400",
+  "https://es.beincrypto.com/?p=543300"
  ],
  "inicializado": true,
  "resumen": {
@@ -823,11 +823,14 @@
    "Gate Technology Ltd logra el cumplimiento de nivel 1 de PCI DSS v4.0.1 y refuerza la seguridad de los pagos en Europa",
    "Los ultrarricos temen la inflación: ¿Qué están comprando?",
    "¿Las acciones de Meta seguirán subiendo tras rally del 30%? JPMorgan sube precio objetivo",
-   "Tesorerías cripto pierden su ventaja en bolsa según DWF"
+   "Tesorerías cripto pierden su ventaja en bolsa según DWF",
+   "Top 3 altcoins a observar este fin de semana | 26-27 de septiembre",
+   "Corte de EEUU expone uso de Claude en la captura de Maduro",
+   "¿El cobre es el nuevo oro? Máximos históricos destacan en 2026"
   ]
  },
  "precios_enviado": "2026-09-25",
- "sponsor_enviado": "2026-09-25-13",
- "resumen_enviado": "2026-09-24",
+ "sponsor_enviado": "2026-09-25-19",
+ "resumen_enviado": "2026-09-25",
  "earn2trade_enviado": "2026-09-25"
 }
