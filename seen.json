@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=540449",
-  "https://es.beincrypto.com/?p=540465",
-  "https://es.beincrypto.com/acciones-dell-suben-resultados-ia-q2/",
-  "https://es.beincrypto.com/?p=540382",
-  "https://es.beincrypto.com/claude-fabula-5-1-lanzamiento-antidestilacion/",
-  "https://es.beincrypto.com/?p=540388",
   "https://es.beincrypto.com/?p=540345",
   "https://news.bit2me.com/bitcoin-microstrategy-adquiere-370-millones/",
   "https://es.beincrypto.com/?p=540407",
@@ -799,7 +793,13 @@
   "https://news.bit2me.com/ethereum-actualizacion-glamsterdam-sepolia/",
   "https://news.bit2me.com/etf-bitcoin-suman-3-100-millones/",
   "https://news.bit2me.com/ethereum-privacidad-aztec-reactiva-wallet-zkmoney/",
-  "https://news.bit2me.com/resumen-mercado-2026-10-01/"
+  "https://news.bit2me.com/resumen-mercado-2026-10-01/",
+  "https://www.iprofesional.com/finanzas/465805-la-city-responde-si-habra-dolar-planchado-por-lluvia-de-inversiones",
+  "yt:video:xYqs1Qs1Pdg",
+  "https://es.beincrypto.com/?p=544221",
+  "https://es.beincrypto.com/?p=544243",
+  "https://es.beincrypto.com/?p=544139",
+  "https://news.bit2me.com/regulacion-cripto-reino-unido-fca-febrero-2027/"
  ],
  "inicializado": true,
  "resumen": {
@@ -817,11 +817,16 @@
    "Ethereum programa la actualización Glamsterdam en Sepolia",
    "ETF de Bitcoin suman 3.100 millones en entradas continuas",
    "Ethereum y privacidad: Aztec reactiva la wallet zk.money",
-   "Resumen de mercado cripto del 1 de octubre: jornada en verde y Quant cae un 10,27%"
+   "Resumen de mercado cripto del 1 de octubre: jornada en verde y Quant cae un 10,27%",
+   "NO SE PAGA GANANCIAS POR TRADING, AL RECIBIR PAGOS DE UNA CUENTA DE FONDEO O PROP FIRM",
+   "Top 3 altcoins a observar este fin de semana | 3-4 de octubre",
+   "La red Blast de Ethereum cesa operaciones: ¿Quién controla los últimos $51 millones de los usuarios?",
+   "Agentes de IA y bots generan la mayor parte del tráfico web: ¿Cómo impactan en las acciones de infraestructura?",
+   "Regulación cripto en Reino Unido: plazo hasta febrero 2027"
   ]
  },
  "precios_enviado": "2026-10-02",
- "sponsor_enviado": "2026-10-02-13",
+ "sponsor_enviado": "2026-10-02-19",
  "resumen_enviado": "2026-09-28",
- "earn2trade_enviado": "2026-09-29"
+ "earn2trade_enviado": "2026-10-02"
 }
