@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=540345",
-  "https://news.bit2me.com/bitcoin-microstrategy-adquiere-370-millones/",
-  "https://es.beincrypto.com/?p=540407",
-  "https://es.beincrypto.com/?p=540361",
-  "https://es.beincrypto.com/?p=540579",
-  "https://es.beincrypto.com/?p=540547",
-  "https://es.beincrypto.com/?p=540602",
-  "https://es.beincrypto.com/?p=540560",
   "https://es.beincrypto.com/?p=540549",
   "https://es.beincrypto.com/?p=540570",
   "https://es.beincrypto.com/?p=540539",
@@ -799,34 +791,31 @@
   "https://es.beincrypto.com/?p=544221",
   "https://es.beincrypto.com/?p=544243",
   "https://es.beincrypto.com/?p=544139",
-  "https://news.bit2me.com/regulacion-cripto-reino-unido-fca-febrero-2027/"
+  "https://news.bit2me.com/regulacion-cripto-reino-unido-fca-febrero-2027/",
+  "https://www.iprofesional.com/finanzas/465803-por-que-no-debe-ponerse-un-impuesto-a-las-compras-de-dolares",
+  "https://es.beincrypto.com/?p=544303",
+  "https://es.beincrypto.com/?p=544308",
+  "https://es.beincrypto.com/?p=544316",
+  "https://es.beincrypto.com/?p=544300",
+  "https://es.beincrypto.com/?p=544279",
+  "https://es.beincrypto.com/?p=544062",
+  "https://news.bit2me.com/etf-bitcoin-cobertura-euros-hanetf/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-10-02",
+  "fecha": "2026-10-03",
   "titulos": [
-   "Acciones de Tesla aumentan 6% tras superar previsión de entregas: ¿Respaldarán las ganancias este rally?",
-   "USDT regresa a Bitcoin después de 10 años: ¿Qué significa para los usuarios?",
-   "Las 5 estrategias financieras que un minero de Bitcoin debe evaluar en 2026",
-   "Resumen semanal de Bitcoin y criptomonedas: 2 de octubre",
-   "Estados Unidos crea solo 29.000 empleos en septiembre: ¿por qué están subiendo Bitcoin y el oro?",
-   "Bienvenidos a Uptober: El sentimiento sobre ETH y XRP alcanza mínimos de varios meses",
-   "Citi eleva su precio objetivo de Bitcoin (BTC) a $113,000",
-   "Identifican al hacker de NEAR Intents: ¿Devolverá los 3.8 millones?",
-   "El precio de XRP registra un hito alcista: ¿Lo repetirá en el Q4?",
-   "Ethereum programa la actualización Glamsterdam en Sepolia",
-   "ETF de Bitcoin suman 3.100 millones en entradas continuas",
-   "Ethereum y privacidad: Aztec reactiva la wallet zk.money",
-   "Resumen de mercado cripto del 1 de octubre: jornada en verde y Quant cae un 10,27%",
-   "NO SE PAGA GANANCIAS POR TRADING, AL RECIBIR PAGOS DE UNA CUENTA DE FONDEO O PROP FIRM",
-   "Top 3 altcoins a observar este fin de semana | 3-4 de octubre",
-   "La red Blast de Ethereum cesa operaciones: ¿Quién controla los últimos $51 millones de los usuarios?",
-   "Agentes de IA y bots generan la mayor parte del tráfico web: ¿Cómo impactan en las acciones de infraestructura?",
-   "Regulación cripto en Reino Unido: plazo hasta febrero 2027"
+   "Jim Cramer lanza advertencia para los inversores en octubre",
+   "El ETF de Zcash perdió más de $93 millones esta semana: ¿Se terminó el rally para ZEC?",
+   "Extraditan desde Venezuela al hacker más buscado del FBI: detalles",
+   "Estas 4 altcoins registran ganancias de doble dígito mientras el mercado se desangra",
+   "NVIDIA registra máximo histórico: Wall Street aún ve hasta 99% de potencial alcista",
+   "Bitcoin rompe un patrón de 13 años: ¿Qué sigue?",
+   "ETF de Bitcoin en euros: HANetf estrena fondo con cobertura"
   ]
  },
- "precios_enviado": "2026-10-02",
- "sponsor_enviado": "2026-10-02-19",
+ "precios_enviado": "2026-10-03",
+ "sponsor_enviado": "2026-10-03-13",
  "resumen_enviado": "2026-09-28",
  "earn2trade_enviado": "2026-10-02"
 }
