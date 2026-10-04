@@ -1,10 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/polygon-parchea-fallos-seguridad-hard-forks/",
-  "https://www.iprofesional.com/finanzas/463549-el-plazo-fijo-vuelve-a-ganarle-a-dolar-e-inflacion-despues-de-1-ano",
-  "https://www.iprofesional.com/finanzas/463298-nuevos-18-cedears-en-cuales-invertir-segun-expertos-de-la-city",
-  "https://www.iprofesional.com/finanzas/463619-el-riesgo-pais-vuelve-a-caer-y-se-ubica-por-debajo-de-los-500-puntos",
-  "https://www.iprofesional.com/economia/463547-vuelan-precios-del-agro-y-la-city-espera-otra-lluvia-de-dolares",
   "https://www.iprofesional.com/finanzas/463616-la-guerra-por-pix-no-cede-por-que-el-sistema-que-creo-brasil-enfrenta-a-lula-con-trump",
   "https://www.iprofesional.com/finanzas/463491-goldman-sachs-y-jp-morgan-recortan-crecimiento-de-argentina",
   "https://www.iprofesional.com/finanzas/463600-ciudad-de-buenos-aires-logro-la-maxima-calificacion-de-deuda-entre-los-distritos-del-pais",
@@ -799,28 +794,25 @@
   "https://es.beincrypto.com/?p=544191",
   "https://es.beincrypto.com/?p=544325",
   "https://es.beincrypto.com/?p=544245",
-  "https://es.beincrypto.com/?p=543946"
+  "https://es.beincrypto.com/?p=543946",
+  "https://www.iprofesional.com/finanzas/465447-por-que-el-cedear-de-starbucks-puede-subir-hasta-20-por-ciento-en-dolares",
+  "https://es.beincrypto.com/?p=544253",
+  "https://es.beincrypto.com/?p=544348",
+  "https://es.beincrypto.com/?p=544169",
+  "https://es.beincrypto.com/?p=543733"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-10-03",
+  "fecha": "2026-10-04",
   "titulos": [
-   "Jim Cramer lanza advertencia para los inversores en octubre",
-   "El ETF de Zcash perdió más de $93 millones esta semana: ¿Se terminó el rally para ZEC?",
-   "Extraditan desde Venezuela al hacker más buscado del FBI: detalles",
-   "Estas 4 altcoins registran ganancias de doble dígito mientras el mercado se desangra",
-   "NVIDIA registra máximo histórico: Wall Street aún ve hasta 99% de potencial alcista",
-   "Bitcoin rompe un patrón de 13 años: ¿Qué sigue?",
-   "ETF de Bitcoin en euros: HANetf estrena fondo con cobertura",
-   "Debate sobre la computación cuántica en la sede de la ONU: ¿Cómo se están preparando los sistemas financieros?",
-   "El precio del cobre atrae la atención de cara a octubre: esta es la razón",
-   "Némesis de Ripple (XRP) podría ser el nuevo “Zar de IA” en la Casa Blanca: detalles",
-   "Elecciones en Brasil: ¿Qué opinan los candidatos sobre las criptomonedas?",
-   "Más allá del podio: ¿Cómo KuCoin une su visión a largo plazo con el impacto social?"
+   "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
+   "Goldman Sachs predice rallies de precios en 5 acciones",
+   "¿Tus Bitcoin en Lightning está en riesgo? Depende de quién opere el nodo",
+   "CEO de Phemex: ¿Por qué las tarjetas de criptomonedas deberían funcionar como la infraestructura de trading?"
   ]
  },
- "precios_enviado": "2026-10-03",
- "sponsor_enviado": "2026-10-03-19",
+ "precios_enviado": "2026-10-04",
+ "sponsor_enviado": "2026-10-04-13",
  "resumen_enviado": "2026-10-03",
  "earn2trade_enviado": "2026-10-02"
 }
