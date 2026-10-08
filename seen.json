@@ -1,20 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/tokenizacion-bonos-catastrofe-blockchain-2027/",
-  "https://www.iprofesional.com/economia/463971-el-banco-central-no-compro-dolares-por-tercera-vez-en-el-ano",
-  "https://www.iprofesional.com/finanzas/463906-como-invertir-y-cuidar-tus-ahorros-en-los-proximos-seis-meses",
-  "https://www.iprofesional.com/finanzas/463903-adelanto-de-sueldo-cuanto-prestan-los-bancos-y-cuales-son-sus-tasas",
-  "https://www.iprofesional.com/finanzas/463943-caputo-reforzo-el-poder-de-fuego-del-bcra-para-contener-al-dolar",
-  "https://news.bit2me.com/ethereum-pago-comisiones-sin-eth/",
-  "https://www.iprofesional.com/finanzas/463942-consumo-de-luz-por-que-superar-ciertas-topes-en-la-factura-sale-caro",
-  "https://www.iprofesional.com/finanzas/464004-alarmas-para-el-hogar-costos-de-proteger-casas-y-departamentos",
-  "https://www.iprofesional.com/finanzas/463894-nuevo-techo-del-dolar-de-caputo-pone-en-tension-al-mercado",
-  "https://es.beincrypto.com/retrasos-retiros-kraken-fondos-atascados/",
-  "https://news.bit2me.com/bitcoin-retrocede-79000-probabilidad-subida-tipos-fed/",
-  "https://news.bit2me.com/bit2shield-unidad-rastreo-criptoactivos/",
-  "https://news.bit2me.com/solana-triplica-tamano-transacciones-4096-bytes/",
-  "https://news.bit2me.com/polonia-mantiene-veto-regulacion-cripto/",
-  "https://www.iprofesional.com/finanzas/463950-bancos-argentinos-alerta-unicas-dos-acciones-comprar-septiembre-2026",
   "https://news.bit2me.com/microstrategy-recompra-acciones-pausa-compras-bitcoin/",
   "https://www.iprofesional.com/finanzas/463651-el-calendario-de-84-cedears-que-reparten-dolares-en-septiembre",
   "https://www.iprofesional.com/finanzas/463551-por-que-los-bonos-bajo-ley-argentina-cotizan-hasta-7-por-ciento-mas-baratos",
@@ -799,7 +784,22 @@
   "https://news.bit2me.com/solana-estandar-dvp-liquidacion-institucional-jpmorgan/",
   "https://news.bit2me.com/sp-global-evaluacion-riesgo-vaults-prestamos-cripto/",
   "https://news.bit2me.com/xrp-spac-evernorth-sube-fusion/",
-  "https://news.bit2me.com/bitcoin-soporte-dolar-maximos-mercado/"
+  "https://news.bit2me.com/bitcoin-soporte-dolar-maximos-mercado/",
+  "https://www.iprofesional.com/finanzas/466150-el-bcra-adelanto-que-el-fin-total-del-cepo-se-daria-recien-en-un-segundo-mandato-de-milei",
+  "https://www.iprofesional.com/finanzas/466065-cedear-de-nike-se-hundio-50-por-ciento-y-la-city-alerta-a-quien-quiera-comprar-barato",
+  "https://www.iprofesional.com/finanzas/466142-asistentes-ia-bancos-mejores-retornos-ahorristas",
+  "https://www.iprofesional.com/finanzas/466140-cristiano-rattazzi-recomienda-a-javier-milei-dolarizar-para-ganar-proximas-elecciones",
+  "https://www.iprofesional.com/finanzas/466143-que-empresas-que-cotizan-en-la-bolsa-repartieron-mas-dividendos-en-2026",
+  "https://www.iprofesional.com/finanzas/466134-depositos-en-dolares-subieron-mas-de-1000-millones-en-el-mes-y-rozaron-nuevo-record",
+  "https://www.iprofesional.com/finanzas/466127-riesgo-pais-cuando-llego-a-7222-puntos-y-que-paso-cada-vez-que-volvio-a-dispararse",
+  "https://www.iprofesional.com/finanzas/466113-riesgo-pais-argentino-subio-fuerte-puso-jaque-financiamiento-externo-octubre-2026",
+  "https://www.iprofesional.com/finanzas/466114-el-dolar-bajo-y-la-brecha-con-el-techo-de-la-banda-es-la-mas-alta-en-un-ano-y-medio",
+  "https://www.iprofesional.com/finanzas/465550-el-riesgo-pais-amenaza-con-cerrar-una-importante-canilla-de-dolares",
+  "yt:video:TORjdICK7r4",
+  "https://es.beincrypto.com/?p=544669",
+  "https://es.beincrypto.com/?p=544594",
+  "https://es.beincrypto.com/?p=544642",
+  "https://news.bit2me.com/?p=66389"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,11 +819,16 @@
    "Solana lanza estándar DvP para liquidación institucional",
    "S&P Global crea marco de riesgo para vaults cripto",
    "XRP: La SPAC de Evernorth sube un 270% antes de su fusión",
-   "Bitcoin sostiene los 86.000 $ ante el avance del dólar"
+   "Bitcoin sostiene los 86.000 $ ante el avance del dólar",
+   "CONSECUENCIAS DE NO FACTURAR INGRESOS COMO CREADOR DE CONTENIDO",
+   "CEO de Bitget habla sobre el hack de $387 millones: ¿Es seguro el exchange?",
+   "¿Están muertas las acciones inmobiliarias de Estados Unidos? Qué muestran los gráficos y las tasas",
+   "La realidad de los pagos con agentes de IA en 2026",
+   "Resumen cripto del 07/10: jornada en rojo, Uniswap -11 %"
   ]
  },
  "precios_enviado": "2026-10-07",
- "sponsor_enviado": "2026-10-07-13",
- "resumen_enviado": "2026-10-05",
+ "sponsor_enviado": "2026-10-07-19",
+ "resumen_enviado": "2026-10-07",
  "earn2trade_enviado": "2026-10-06"
 }
