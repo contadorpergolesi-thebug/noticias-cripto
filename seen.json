@@ -1,14 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/bitmine-compra-eth-reserva-corporativa/",
-  "https://news.bit2me.com/chfd-revolucion-stablecoins-marco-regulato/",
-  "https://www.iprofesional.com/finanzas/464060-radiografia-del-endeudamiento-brecha-invisible-de-la-mora-entre-caba-y-conurbano",
-  "https://es.beincrypto.com/?p=541432",
-  "https://es.beincrypto.com/?p=541422",
-  "https://es.beincrypto.com/?p=541066",
-  "https://es.beincrypto.com/?p=541411",
-  "https://news.bit2me.com/regulacion-cripto-lummis-consenso-clarity-act/",
-  "https://www.iprofesional.com/energia/464153-ypf-coloco-bono-por-us1200-millones-y-hace-historia-despues-de-11-anos",
   "https://www.iprofesional.com/finanzas/464152-morgan-stanley-estimo-el-precio-del-dolar-a-fin-de-ano-en-argentina",
   "https://www.iprofesional.com/finanzas/464108-del-colapso-geopolitico-a-la-ia-como-cambio-el-mundo-tras-las-torres-gemelas",
   "https://es.beincrypto.com/?p=541430",
@@ -799,7 +790,16 @@
   "https://news.bit2me.com/computacion-cuantica-bitcoin-europol-alerta-claves-privadas/",
   "https://news.bit2me.com/zcash-etf-winklevoss-solicita-nasdaq/",
   "https://news.bit2me.com/cardano-cip-0113-congelar-restringir-activos/",
-  "https://news.bit2me.com/euro-digital-bce-fragmentacion-tokenizacion/"
+  "https://news.bit2me.com/euro-digital-bce-fragmentacion-tokenizacion/",
+  "https://www.iprofesional.com/finanzas/466243-el-banco-central-acelera-el-ritmo-de-compras-y-las-reservas-tocan-maximos-en-dos-semanas",
+  "https://www.iprofesional.com/finanzas/466235-la-agn-revelo-que-el-bcra-perdio-mas-de-us1000-millones-por-operaciones-con-el-oro",
+  "https://www.iprofesional.com/economia/466232-arca-cuanto-se-puede-transferir-entre-cuentas-propias-en-octubre",
+  "yt:video:6ABaOSfiork",
+  "https://es.beincrypto.com/?p=544931",
+  "https://es.beincrypto.com/?p=544955",
+  "https://es.beincrypto.com/?p=544946",
+  "https://es.beincrypto.com/?p=544959",
+  "https://news.bit2me.com/?p=66412"
  ],
  "inicializado": true,
  "resumen": {
@@ -818,11 +818,17 @@
    "Computación cuántica y Bitcoin: Europol advierte riesgos",
    "Zcash ETF: Winklevoss solicita cotizar en Nasdaq",
    "Cardano CIP-0113 permite congelar y restringir activos",
-   "Euro digital: el BCE advierte del riesgo de fragmentación"
+   "Euro digital: el BCE advierte del riesgo de fragmentación",
+   "Binance informa todos los movimientos?",
+   "Amazon bloquea agentes de compras con IA: ¿Por qué?",
+   "Méliuz cesa compra y venta de Bitcoin dentro de la app, pero mantiene su tesorería de BTC",
+   "¿El gobierno de EEUU vendió $1 mil millones en Bitcoin?",
+   "España acaba con el anonimato en cajeros de criptomonedas y amplía el control de fondos",
+   "Resumen cripto del 08/10: jornada en rojo, Near Protocol -14 %"
   ]
  },
  "precios_enviado": "2026-10-08",
- "sponsor_enviado": "2026-10-08-13",
- "resumen_enviado": "2026-10-07",
+ "sponsor_enviado": "2026-10-08-19",
+ "resumen_enviado": "2026-10-08",
  "earn2trade_enviado": "2026-10-06"
 }
