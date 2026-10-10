@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=541560",
-  "https://news.bit2me.com/riesgo-venta-bitcoin-minimos-historicos/",
-  "https://www.iprofesional.com/finanzas/464238-caputo-renuncia-a-su-bono-preferido-y-emite-deuda-de-corto-plazo",
-  "https://es.beincrypto.com/?p=541597",
   "https://es.beincrypto.com/?p=541606",
   "https://es.beincrypto.com/liquidacion-etf-dogecoin-bitwise-bwow/",
   "https://www.iprofesional.com/finanzas/464289-plazo-fijo-los-bancos-bajaron-las-tasas-y-asi-quedo-el-ranking-tras-el-dato-de-inflacion",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=545043",
   "https://news.bit2me.com/computacion-cuantica-ia-plan-cientifico-eeuu/",
   "https://news.bit2me.com/bitcoin-etf-salidas-485-millones-dolares/",
-  "https://news.bit2me.com/bitcoin-cae-83000-dolares-tension-petroleo/"
+  "https://news.bit2me.com/bitcoin-cae-83000-dolares-tension-petroleo/",
+  "https://www.iprofesional.com/finanzas/466331-precio-mas-bajo-de-dolar-previsto-por-15-economistas-de-bancos-y-consultoras",
+  "https://es.beincrypto.com/?p=545137",
+  "https://es.beincrypto.com/?p=545134",
+  "https://news.bit2me.com/?p=66433"
  ],
  "inicializado": true,
  "resumen": {
@@ -811,7 +811,10 @@
    "Ray Dalio advierte que lo peor para las acciones podría estar por venir",
    "Computación cuántica e IA: plan científico de 6.000 millones",
    "Bitcoin ETFs registran salidas de 485M USD en EE. UU.",
-   "Bitcoin cae bajo 83.000 $ por la tensión petrolera"
+   "Bitcoin cae bajo 83.000 $ por la tensión petrolera",
+   "Claude AI envió a la policía una denuncia falsa de asesinato",
+   "Encuentran chip espía oculto dentro de una Ledger Wallet sellada",
+   "Resumen cripto del 10/10: jornada en verde, Near Protocol +14 %"
   ]
  },
  "precios_enviado": "2026-10-10",
