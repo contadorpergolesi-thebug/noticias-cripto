@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=541558",
-  "https://es.beincrypto.com/sbf-tribunal-supremo-ftx-peticion-fraude/",
-  "https://news.bit2me.com/unicoin-demanda-uniswap-marca-uni/",
-  "https://www.iprofesional.com/finanzas/464292-cuanto-gano-invirtiendo-500-000-a-plazo-fijo",
   "https://www.iprofesional.com/finanzas/464280-cedears-de-real-estate-como-invertir-en-ladrillos-de-eeuu",
   "https://www.iprofesional.com/finanzas/464256-en-que-recomiendan-invertir-tras-la-inflacion-mas-baja-en-14-meses",
   "https://es.beincrypto.com/?p=541722",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=544902",
   "https://news.bit2me.com/eeuu-confiscara-cripto-iran-tesoro/",
   "https://news.bit2me.com/esma-analiza-liquidez-colateral-tokenizado-ue/",
-  "https://news.bit2me.com/mara-transfiere-81-millones-bitcoin-galaxy-digital/"
+  "https://news.bit2me.com/mara-transfiere-81-millones-bitcoin-galaxy-digital/",
+  "https://www.iprofesional.com/economia/466329-preocupacion-por-los-ruidos-alrededor-del-ministro-luis-caputo",
+  "https://es.beincrypto.com/?p=545198",
+  "https://es.beincrypto.com/?p=545202",
+  "https://news.bit2me.com/?p=66449"
  ],
  "inicializado": true,
  "resumen": {
@@ -811,11 +811,14 @@
    "Bitget cambia los negocios institucionales de criptomonedas: así es como",
    "EE. UU. planea confiscar 1.000 millones cripto a Irán",
    "ESMA analiza la liquidez del colateral tokenizado en la UE",
-   "MARA transfiere 81,1 millones a Galaxy Digital"
+   "MARA transfiere 81,1 millones a Galaxy Digital",
+   "¿Quién es el dueño de Bitcoin? Wall Street vs. la gente común",
+   "Cartas de Pokémon superan a Bitcoin, al oro y al S&P 500 con retornos de 150%",
+   "Resumen cripto del 11/10: jornada en verde, Starknet +14 %"
   ]
  },
  "precios_enviado": "2026-10-11",
- "sponsor_enviado": "2026-10-11-13",
+ "sponsor_enviado": "2026-10-11-19",
  "resumen_enviado": "2026-10-10",
  "earn2trade_enviado": "2026-10-09"
 }
