@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=541606",
-  "https://es.beincrypto.com/liquidacion-etf-dogecoin-bitwise-bwow/",
-  "https://www.iprofesional.com/finanzas/464289-plazo-fijo-los-bancos-bajaron-las-tasas-y-asi-quedo-el-ranking-tras-el-dato-de-inflacion",
   "https://www.iprofesional.com/finanzas/464283-caputo-celebra-record-exportador-pyme-de-us7-630-millones-pero-crece-la-morosidad",
   "https://www.iprofesional.com/finanzas/464274-casas-modulares-cuanto-presta-el-banco-provincia-y-requisitos",
   "https://es.beincrypto.com/?p=541627",
@@ -799,7 +796,10 @@
   "https://www.iprofesional.com/finanzas/466331-precio-mas-bajo-de-dolar-previsto-por-15-economistas-de-bancos-y-consultoras",
   "https://es.beincrypto.com/?p=545137",
   "https://es.beincrypto.com/?p=545134",
-  "https://news.bit2me.com/?p=66433"
+  "https://news.bit2me.com/?p=66433",
+  "https://www.iprofesional.com/estilo-de-vida/466264-guia-de-cruceros-2026-de-miniviajes-a-travesias-de-22-dias",
+  "https://es.beincrypto.com/?p=545173",
+  "https://es.beincrypto.com/?p=545158"
  ],
  "inicializado": true,
  "resumen": {
@@ -814,11 +814,13 @@
    "Bitcoin cae bajo 83.000 $ por la tensión petrolera",
    "Claude AI envió a la policía una denuncia falsa de asesinato",
    "Encuentran chip espía oculto dentro de una Ledger Wallet sellada",
-   "Resumen cripto del 10/10: jornada en verde, Near Protocol +14 %"
+   "Resumen cripto del 10/10: jornada en verde, Near Protocol +14 %",
+   "¿XRP Ledger es vulnerable a la IA? Fundador de Avalanche advierte sobre fallas ocultas",
+   "Peter Brandt comparte advertencia crítica para el precio del oro"
   ]
  },
  "precios_enviado": "2026-10-10",
- "sponsor_enviado": "2026-10-10-13",
- "resumen_enviado": "2026-10-09",
+ "sponsor_enviado": "2026-10-10-19",
+ "resumen_enviado": "2026-10-10",
  "earn2trade_enviado": "2026-10-09"
 }
