@@ -1,16 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=541919",
-  "https://news.bit2me.com/volumen-cripto-repunta-agosto/",
-  "https://news.bit2me.com/bitcoin-inflacion-impacto-corto-largo-plazo/",
-  "https://news.bit2me.com/rlusd-ripple-tesoreria-corporativa-mica/",
-  "https://news.bit2me.com/etf-bitcoin-salidas-449-millones/",
-  "https://www.iprofesional.com/finanzas/464419-morosidad-bancaria-borde-colapso-financiero-argentinos-septiembre-2026",
-  "https://www.iprofesional.com/finanzas/464394-el-banco-central-compro-la-cifra-de-dolares-mas-baja-del-ano",
-  "yt:video:t9SpDTppz7o",
-  "https://es.beincrypto.com/?p=541991",
-  "https://es.beincrypto.com/?p=541982",
-  "https://www.iprofesional.com/finanzas/464442-la-cnv-dio-marcha-atras-con-una-norma-vinculada-al-echeq-que-habia-autorizado-en-junio",
   "https://www.iprofesional.com/finanzas/464318-el-bcra-exige-mas-requisitos-a-fintech-para-competir-con-bancos",
   "https://es.beincrypto.com/?p=541995",
   "https://www.iprofesional.com/finanzas/464360-carry-trade-con-fecha-limite-por-que-en-la-city-recomiendan-hacer-tasa-antes-del-21-de-septiembre",
@@ -799,7 +788,18 @@
   "https://news.bit2me.com/xrp-ledger-corrige-fallo-critico-tokens/",
   "https://news.bit2me.com/zcash-firmas-poscuanticas-ataques-ia/",
   "https://news.bit2me.com/acciones-tokenizadas-fmi-demanda-volatilidad-mercado/",
-  "https://news.bit2me.com/evernorth-debuta-nasdaq-reserva-xrp/"
+  "https://news.bit2me.com/evernorth-debuta-nasdaq-reserva-xrp/",
+  "https://www.iprofesional.com/finanzas/466518-los-5-productos-de-la-canasta-familiar-que-mas-aumentaron-en-un-ano",
+  "https://www.iprofesional.com/finanzas/466128-cuanto-se-gana-con-plazo-fijo-banco-provincia-tras-suba-de-tasas",
+  "https://www.iprofesional.com/finanzas/466504-cuando-sera-negocio-el-plazo-fijo-tras-el-dato-de-inflacion-ipc-indec",
+  "https://www.iprofesional.com/economia/466507-el-bcra-le-hace-caso-al-fmi-y-concreta-una-de-las-mayores-compras-de-dolares-del-ano",
+  "https://es.beincrypto.com/?p=545513",
+  "https://es.beincrypto.com/?p=545508",
+  "https://es.beincrypto.com/?p=545498",
+  "https://news.bit2me.com/?p=66486",
+  "https://news.bit2me.com/hsbc-ant-digital-prueban-pagos-agentes-ia/",
+  "https://news.bit2me.com/?p=66421",
+  "https://www.iprofesional.com/finanzas/466229-por-que-cocos-debio-desdoblar-su-app-para-comprar-y-vender-criptos"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,11 +819,18 @@
    "XRP Ledger corrige un fallo crítico que creaba tokens",
    "Zcash prepara firmas poscuánticas contra ataques de IA",
    "Acciones tokenizadas según el FMI: demanda y volatilidad",
-   "Evernorth debuta en Nasdaq con 473 millones de XRP"
+   "Evernorth debuta en Nasdaq con 473 millones de XRP",
+   "Wall Street y una advertencia de bonos por $110 mil millones: ¿Qué significa para las acciones y Bitcoin?",
+   "Paul Tudor Jones advierte sobre un 2027 brutal para las acciones: ¿aguantará Bitcoin?",
+   "Regresa el FOMO por Ethereum mientras los inversores de ETF venden durante 10 días consecutivos",
+   "Resumen cripto del 13 de octubre: jornada en rojo, Near Protocol -8 %",
+   "HSBC y Ant Digital prueban micropagos con agentes IA",
+   "Resumen cripto del 09/10: jornada en verde, Cosmos +21 %",
+   "Cocos desdobló app para comprar y vender criptos y lanzó sus primeros productos bancarios"
   ]
  },
  "precios_enviado": "2026-10-13",
- "sponsor_enviado": "2026-10-13-13",
+ "sponsor_enviado": "2026-10-13-19",
  "resumen_enviado": "2026-10-11",
- "earn2trade_enviado": "2026-10-09"
+ "earn2trade_enviado": "2026-10-13"
 }
