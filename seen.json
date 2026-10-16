@@ -1,15 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/regulacion-cripto-sec-clarity-act-2/",
-  "https://news.bit2me.com/solana-triplica-limite-tamano-transacciones-mainnet/",
-  "https://www.iprofesional.com/finanzas/464316-en-que-cedears-recomiendan-invertir-chatgpt-gemini-y-claude",
-  "https://www.iprofesional.com/finanzas/464243-5-obligaciones-negociables-en-dolares-que-elige-el-broker-allaria",
-  "https://www.iprofesional.com/finanzas/464593-vista-energy-es-la-firma-argentina-que-mas-apetito-despierta-entre-inversores",
-  "https://www.iprofesional.com/finanzas/464527-5-cedears-para-cubrirse-de-las-elecciones-de-eeuu",
-  "https://es.beincrypto.com/?p=542414",
-  "https://es.beincrypto.com/?p=542407",
-  "https://es.beincrypto.com/?p=542399",
-  "https://news.bit2me.com/ley-clarity-act-lummis-regulacion-cripto/",
   "https://www.iprofesional.com/finanzas/463851-el-nuevo-semaforo-de-bonos-argentinos-de-la-city",
   "https://es.beincrypto.com/?p=542422",
   "https://www.iprofesional.com/finanzas/464720-el-gobierno-cerro-agosto-con-un-superavit-fiscal-de-635-529-millones",
@@ -799,7 +789,17 @@
   "https://es.beincrypto.com/?p=545808",
   "https://news.bit2me.com/starknet-vota-independencia-ethereum-riesgo-cuantico/",
   "https://news.bit2me.com/starknet-lanza-shadow-accounts-privacidad-defi/",
-  "https://news.bit2me.com/?p=66549"
+  "https://news.bit2me.com/?p=66549",
+  "https://www.iprofesional.com/energia/466817-la-nueva-inversion-financiera-que-ypf-habilitara-desde-su-app",
+  "https://www.iprofesional.com/finanzas/466628-que-espera-el-mercado-para-la-inflacion-tras-ultimo-dato-del-ipc-indec",
+  "https://www.iprofesional.com/economia/466808-la-inflacion-mayorista-salto-al-32-en-septiembre-impulsada-por-el-petroleo-y-el-gas",
+  "https://www.iprofesional.com/finanzas/466785-el-riesgo-pais-vuelve-a-subir-y-rompe-la-barrera-de-los-630-puntos-basicos",
+  "https://www.iprofesional.com/finanzas/466765-cuanto-cuesta-mantener-un-perro-o-gato-el-presupuesto-de-mascotas",
+  "https://es.beincrypto.com/?p=545859",
+  "https://es.beincrypto.com/?p=545851",
+  "https://es.beincrypto.com/?p=545895",
+  "https://news.bit2me.com/?p=66565",
+  "https://news.bit2me.com/bitcoin-etf-salidas-xrp-flujos/"
  ],
  "inicializado": true,
  "resumen": {
@@ -815,11 +815,16 @@
    "Strategy podría ser eliminada de los principales índices bursátiles globales",
    "Starknet vota independizarse de Ethereum por computación cuántica",
    "Starknet lanza Shadow Accounts para dar privacidad en DeFi",
-   "Resumen cripto del 15 de octubre: jornada en verde, Near Protocol +10 %"
+   "Resumen cripto del 15 de octubre: jornada en verde, Near Protocol +10 %",
+   "Google supera obstáculo clave en la computación cuántica: ¿Qué significa para Bitcoin?",
+   "Chainalysis explica por qué EEUU está acumulamdo Bitcoin mientras el mundo compra sus dólares",
+   "Wallets de ballenas de Bitcoin registran máximo histórico mientras los bajistas abren más posiciones cortas: ¿Qué sigue?",
+   "Resumen cripto del 16 de octubre: jornada en rojo, Celestia +14 %",
+   "Bitcoin sufre salidas de 261 millones en sus ETF"
   ]
  },
  "precios_enviado": "2026-10-16",
  "sponsor_enviado": "2026-10-16-13",
  "resumen_enviado": "2026-10-15",
- "earn2trade_enviado": "2026-10-13"
+ "earn2trade_enviado": "2026-10-16"
 }
