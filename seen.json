@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/464578-combustibles-la-diferencia-de-precio-entre-provincias-llega-a-22-450-por-tanque",
-  "https://www.iprofesional.com/finanzas/464527-5-cedears-para-cubrirse-de-las-elecciones-de-ee-uu-",
-  "https://www.iprofesional.com/finanzas/464586-que-dicen-los-balances-de-empresas-que-cotizan-en-la-bolsa-portena",
-  "https://www.iprofesional.com/finanzas/464617-como-podria-impactar-al-gobierno-de-milei-la-suba-de-la-tasa-de-interes-en-eeuu",
   "https://www.iprofesional.com/finanzas/464547-la-city-recalcula-el-precio-del-dolar-las-proyecciones-para-fin-de-ano-se-desinflan",
   "https://es.beincrypto.com/?p=542375",
   "https://es.beincrypto.com/?p=542370",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=545795",
   "https://es.beincrypto.com/?p=545746",
   "https://es.beincrypto.com/?p=545772",
-  "https://news.bit2me.com/fed-escasez-infraestructura-ia-dos-anos/"
+  "https://news.bit2me.com/fed-escasez-infraestructura-ia-dos-anos/",
+  "https://www.iprofesional.com/finanzas/466720-nuevo-fondo-de-inversion-de-mercado-pago-sigue-sin-dar-ganancias",
+  "https://www.iprofesional.com/finanzas/466695-que-accion-mercado-sube-20-por-ciento-octubre-y-gana-mas-del-270-por-ciento-en-2026",
+  "https://es.beincrypto.com/?p=545804",
+  "https://es.beincrypto.com/?p=545797"
  ],
  "inicializado": true,
  "resumen": {
@@ -822,11 +822,13 @@
    "Argentina reordena reglas para plataformas de criptomonedas desde noviembre",
    "Arthur Hayes apuesta por lo que viene tras el crash de la IA",
    "El mercado cripto enfrenta un riesgo importante de liquidación, según datos del Q3",
-   "Fed prevé escasez en infraestructura de IA por dos años"
+   "Fed prevé escasez en infraestructura de IA por dos años",
+   "Grayscale señala que la volatilidad de Bitcoin cayó a 43%: se ubica en el rango del S&P 500",
+   "Rakuten Wallet entregará monedas físicas de Shiba Inu (SHIB)"
   ]
  },
  "precios_enviado": "2026-10-15",
- "sponsor_enviado": "2026-10-15-13",
- "resumen_enviado": "2026-10-14",
+ "sponsor_enviado": "2026-10-15-19",
+ "resumen_enviado": "2026-10-15",
  "earn2trade_enviado": "2026-10-13"
 }
