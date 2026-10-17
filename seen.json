@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/sp-global-adquiere-openzeppelin-riesgo-cripto/",
-  "https://news.bit2me.com/bitcoin-mantiene-precio-subida-tipos/",
-  "https://news.bit2me.com/avalanche-viva-finanzas-corporativas-stablecoins/",
-  "https://news.bit2me.com/fed-sube-tipos-interes-25-puntos/",
   "https://www.iprofesional.com/actualidad/464629-plazo-fijo-tradicional-vs-uva-cual-paga-mas",
   "https://www.iprofesional.com/actualidad/464636-prestamos-de-hasta-40000000-para-jubilados-requisitos-y-tasas",
   "https://es.beincrypto.com/?p=542565",
@@ -799,7 +795,11 @@
   "https://news.bit2me.com/suecia-retoma-corona-digital-euro-digital/",
   "https://news.bit2me.com/babylon-propuesta-bitcoin-nativo-aave-v4/",
   "https://news.bit2me.com/etf-cripto-blackrock-crecen-activos/",
-  "https://es.beincrypto.com/?p=545960"
+  "https://es.beincrypto.com/?p=545960",
+  "https://www.iprofesional.com/finanzas/466829-bonos-pesos-rinden-mas-que-devaluacion-octubre-2026",
+  "https://es.beincrypto.com/?p=545919",
+  "https://es.beincrypto.com/?p=545375",
+  "https://es.beincrypto.com/?p=545969"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,11 +813,14 @@
    "Suecia retoma la corona digital ante el euro digital",
    "Bitcoin nativo en Aave V4: la propuesta de Babylon Labs",
    "ETF cripto de BlackRock crecen un 63%",
-   "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate"
+   "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate",
+   "Comunidad cripto de Brasil presiona a candidatos presidenciales antes de la segunda vuelta",
+   "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
+   "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin"
   ]
  },
  "precios_enviado": "2026-10-17",
- "sponsor_enviado": "2026-10-17-13",
+ "sponsor_enviado": "2026-10-17-19",
  "resumen_enviado": "2026-10-16",
  "earn2trade_enviado": "2026-10-16"
 }
