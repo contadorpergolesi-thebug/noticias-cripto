@@ -1,6 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=542476",
   "https://news.bit2me.com/sp-global-adquiere-openzeppelin-riesgo-cripto/",
   "https://news.bit2me.com/bitcoin-mantiene-precio-subida-tipos/",
   "https://news.bit2me.com/avalanche-viva-finanzas-corporativas-stablecoins/",
@@ -799,7 +798,8 @@
   "https://es.beincrypto.com/?p=545626",
   "https://news.bit2me.com/suecia-retoma-corona-digital-euro-digital/",
   "https://news.bit2me.com/babylon-propuesta-bitcoin-nativo-aave-v4/",
-  "https://news.bit2me.com/etf-cripto-blackrock-crecen-activos/"
+  "https://news.bit2me.com/etf-cripto-blackrock-crecen-activos/",
+  "https://es.beincrypto.com/?p=545960"
  ],
  "inicializado": true,
  "resumen": {
@@ -812,11 +812,12 @@
    "Nuevo activo en USD de KuCoin paga hasta 6% en stablecoins: ¿Vale la pena usarlo?",
    "Suecia retoma la corona digital ante el euro digital",
    "Bitcoin nativo en Aave V4: la propuesta de Babylon Labs",
-   "ETF cripto de BlackRock crecen un 63%"
+   "ETF cripto de BlackRock crecen un 63%",
+   "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate"
   ]
  },
  "precios_enviado": "2026-10-17",
- "sponsor_enviado": "2026-10-16-19",
+ "sponsor_enviado": "2026-10-17-13",
  "resumen_enviado": "2026-10-16",
  "earn2trade_enviado": "2026-10-16"
 }
