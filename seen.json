@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/463851-el-nuevo-semaforo-de-bonos-argentinos-de-la-city",
-  "https://es.beincrypto.com/?p=542422",
-  "https://www.iprofesional.com/finanzas/464720-el-gobierno-cerro-agosto-con-un-superavit-fiscal-de-635-529-millones",
-  "https://www.iprofesional.com/politica/464714-el-gobierno-aseguro-que-habra-dolares-en-2027-y-nego-atraso-cambiario",
   "https://www.iprofesional.com/energia/464708-vmos-emitio-su-primer-bono-local-segunda-corporativa-mas-grande",
   "https://www.iprofesional.com/finanzas/464680-nueva-herramienta-bursatil-como-es-la-caucion-en-dolar-cable",
   "https://www.iprofesional.com/economia/464604-el-techo-que-caputo-puso-a-la-suba-de-sueldos-en-el-presupuesto-2027",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=545851",
   "https://es.beincrypto.com/?p=545895",
   "https://news.bit2me.com/?p=66565",
-  "https://news.bit2me.com/bitcoin-etf-salidas-xrp-flujos/"
+  "https://news.bit2me.com/bitcoin-etf-salidas-xrp-flujos/",
+  "https://www.iprofesional.com/finanzas/466820-por-que-la-suba-del-riesgo-pais-no-esta-pegando-en-el-dolar",
+  "https://www.iprofesional.com/finanzas/466823-el-bcra-acelero-el-ritmo-de-compras-y-sumo-mas-de-640-millones-dolares-en-la-semana",
+  "https://www.iprofesional.com/finanzas/466785-el-riesgo-pais-subio-por-sexto-dia-consecutivo-y-se-acerco-a-los-650-puntos",
+  "https://es.beincrypto.com/?p=545912"
  ],
  "inicializado": true,
  "resumen": {
@@ -820,11 +820,12 @@
    "Chainalysis explica por qué EEUU está acumulamdo Bitcoin mientras el mundo compra sus dólares",
    "Wallets de ballenas de Bitcoin registran máximo histórico mientras los bajistas abren más posiciones cortas: ¿Qué sigue?",
    "Resumen cripto del 16 de octubre: jornada en rojo, Celestia +14 %",
-   "Bitcoin sufre salidas de 261 millones en sus ETF"
+   "Bitcoin sufre salidas de 261 millones en sus ETF",
+   "Top 3 altcoins a observar este fin de semana | 17-18 de octubre"
   ]
  },
  "precios_enviado": "2026-10-16",
- "sponsor_enviado": "2026-10-16-13",
- "resumen_enviado": "2026-10-15",
+ "sponsor_enviado": "2026-10-16-19",
+ "resumen_enviado": "2026-10-16",
  "earn2trade_enviado": "2026-10-16"
 }
