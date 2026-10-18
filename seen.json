@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/464760-la-mora-de-las-familias-se-acerco-al-13-por-ciento-y-alcanzo-un-nuevo-record",
-  "https://www.iprofesional.com/finanzas/464761-riesgo-pais-es-el-mas-alto-del-ultimo-mes-tras-historica-medida-de-la-fed",
-  "https://es.beincrypto.com/?p=542536",
   "https://www.iprofesional.com/economia/464765-contundente-senal-de-caputo-al-mercado-sobre-el-dolar-para-2027",
   "https://es.beincrypto.com/?p=542592",
   "https://es.beincrypto.com/?p=542608",
@@ -799,7 +796,10 @@
   "https://news.bit2me.com/patrick-witt-dimite-consejo-cripto-casa-blanca/",
   "https://news.bit2me.com/australia-proyecto-ley-fiscalidad-cripto-ocde/",
   "https://news.bit2me.com/ia-openai-usa-fondos-cripto-testnet-sin-permiso/",
-  "https://es.beincrypto.com/?p=545957"
+  "https://es.beincrypto.com/?p=545957",
+  "https://es.beincrypto.com/?p=546010",
+  "https://es.beincrypto.com/?p=545571",
+  "https://news.bit2me.com/?p=66595"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,11 +813,14 @@
    "Patrick Witt dimite del Consejo Cripto de la Casa Blanca",
    "Australia impulsa proyecto fiscal cripto bajo OCDE",
    "IA de OpenAI usa fondos cripto en Sepolia sin permiso",
-   "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 18 de octubre"
+   "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 18 de octubre",
+   "Stablecoin de Cardano ofrece 50% de APR, pero hay un detalle",
+   "¿Bitcoin está listo para las computadoras cuánticas? Lo que muestra el nuevo plan de Coinbase",
+   "Resumen cripto del 18 de octubre: jornada en rojo, Celestia -8 %"
   ]
  },
  "precios_enviado": "2026-10-18",
- "sponsor_enviado": "2026-10-18-13",
+ "sponsor_enviado": "2026-10-18-19",
  "resumen_enviado": "2026-10-16",
  "earn2trade_enviado": "2026-10-16"
 }
