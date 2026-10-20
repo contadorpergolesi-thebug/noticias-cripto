@@ -1,16 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/464368-8-cedears-en-los-que-cocos-capital-recomienda-invertir-1-millon",
-  "https://www.iprofesional.com/finanzas/464841-dolares-del-agro-quien-se-queda-con-las-divisas-del-campo",
-  "https://cripto-contador.com/?p=4791",
-  "https://es.beincrypto.com/?p=542806",
-  "https://es.beincrypto.com/?p=542798",
-  "https://es.beincrypto.com/?p=542795",
-  "https://es.beincrypto.com/?p=542727",
-  "https://news.bit2me.com/futuros-perpetuos-acciones-kalshi/",
-  "https://news.bit2me.com/riesgo-cuantico-bitcoin-soluciones/",
-  "https://news.bit2me.com/metaplanet-vaneck-critica-compensacion-directivos/",
-  "https://news.bit2me.com/ethereum-institutional-apoya-reducir-tiempo-bloque/",
   "https://news.bit2me.com/bitcoin-supera-81000-dolares-petroleo/",
   "https://www.iprofesional.com/finanzas/464882-msci-calculara-los-principales-indices-de-la-bolsa-y-el-merval-cambia-de-nombre",
   "https://es.beincrypto.com/?p=542793",
@@ -799,7 +788,18 @@
   "https://news.bit2me.com/bitcoin-etf-salidas-octubre-inflacion/",
   "https://news.bit2me.com/bancos-frenan-avance-stablecoins-tipos-interes/",
   "https://news.bit2me.com/google-willow-avance-cuantico-bitcoin/",
-  "https://www.iprofesional.com/criptomonedas/467009-jp-morgan-proyecta-cuanto-puede-rendir-bitcoin-en-los-proximos-10-anos"
+  "https://www.iprofesional.com/criptomonedas/467009-jp-morgan-proyecta-cuanto-puede-rendir-bitcoin-en-los-proximos-10-anos",
+  "https://www.iprofesional.com/finanzas/467052-como-es-el-msci-merval-el-nuevo-indice-con-19-acciones-lideres",
+  "https://www.iprofesional.com/economia/467060-el-bcra-acelero-las-compras-y-ya-suma-mas-de-1100-millones-dolares-en-lo-que-va-de-octubre",
+  "https://www.iprofesional.com/finanzas/467014-el-riesgo-pais-cerro-en-baja-luego-de-cruzar-la-barrera-de-los-700-puntos-basicos",
+  "https://www.iprofesional.com/finanzas/467035-que-seguro-de-viaje-conviene-elegir-entre-pax-assist-card-y-universal-assistance",
+  "https://www.iprofesional.com/finanzas/467013-ypf-y-pampa-energia-entre-acciones-argentinas-con-mayor-potencial-de-suba-para-wall-street",
+  "https://es.beincrypto.com/resultados-spacex-t3-2026-ia-starlink-supera/",
+  "https://es.beincrypto.com/?p=546265",
+  "https://es.beincrypto.com/?p=546255",
+  "https://es.beincrypto.com/?p=546227",
+  "https://news.bit2me.com/?p=66650",
+  "https://news.bit2me.com/solana-solidez-operativa-informe-fidelity/"
  ],
  "inicializado": true,
  "resumen": {
@@ -817,11 +817,17 @@
    "Bitcoin ETF: salidas de casi 1.000 millones en dos semanas",
    "Bancos frenan el avance de stablecoins con tipos de interés",
    "Google Willow: avance cuántico y el reto para Bitcoin",
-   "JP Morgan estima cuánto rendirá bitcoin en 10 años y alerta por su volatilidad"
+   "JP Morgan estima cuánto rendirá bitcoin en 10 años y alerta por su volatilidad",
+   "SpaceX supera las estimaciones del tercer trimestre de 2026 mientras sus ingresos aumentan 161% interanual",
+   "JPMorgan revela 3 posibles escenarios para Bitcoin en 2036",
+   "Francia establece nuevo impuesto sobre criptomonedas mientras estallan protestas por el costo de vida",
+   "Acciones chinas registran racha bajista récord de 10 semanas a pesar crecer 4.5% en el PIB",
+   "Resumen cripto del 20 de octubre: jornada en verde, Pump.fun +4 %",
+   "Solana muestra solidez operativa según informe de Fidelity"
   ]
  },
  "precios_enviado": "2026-10-20",
  "sponsor_enviado": "2026-10-20-13",
  "resumen_enviado": "2026-10-16",
- "earn2trade_enviado": "2026-10-16"
+ "earn2trade_enviado": "2026-10-20"
 }
