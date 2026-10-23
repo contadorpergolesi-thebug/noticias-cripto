@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/kakao-pay-kakaobank-stablecoins-fireblocks/",
-  "https://news.bit2me.com/etf-bitcoin-entradas-mil-millones-2/",
-  "https://news.bit2me.com/near-sube-80-volumen-intents/",
-  "https://www.iprofesional.com/finanzas/465087-mercado-pago-vendera-acciones-y-tiemblan-iol-y-cocos-capital",
-  "https://www.iprofesional.com/finanzas/465054-el-riesgo-pais-subio-por-octava-jornada-consecutiva-y-se-acerco-a-los-570-puntos",
-  "https://www.iprofesional.com/finanzas/465088-el-bcra-redujo-el-nivel-de-compras-y-las-reservas-anotaron-su-mayor-caida-en-el-mes",
   "https://es.beincrypto.com/?p=541233",
   "https://es.beincrypto.com/?p=543079",
   "https://www.iprofesional.com/finanzas/465146-moodys-anticipa-mejor-acceso-al-credito-para-empresas-hasta-2027",
@@ -799,7 +793,13 @@
   "https://es.beincrypto.com/?p=546524",
   "https://es.beincrypto.com/?p=546511",
   "https://news.bit2me.com/?p=66692",
-  "https://news.bit2me.com/dogecoin-labs-nace-impulsar-ecosistema/"
+  "https://news.bit2me.com/dogecoin-labs-nace-impulsar-ecosistema/",
+  "https://www.iprofesional.com/finanzas/467280-broda-cuestiono-el-dolar-barato-y-dijo-a-que-precio-deberia-estar-en-argentina",
+  "https://www.iprofesional.com/finanzas/467265-bancos-y-billeteras-deberan-informar-el-rendimiento-de-sus-cuentas-remuneradas-a-7-dias",
+  "https://www.iprofesional.com/finanzas/467274-economia-desafia-a-la-city-advierte-que-el-riesgo-pais-esta-exagerado",
+  "https://cripto-contador.com/?p=4884",
+  "https://es.beincrypto.com/?p=546399",
+  "https://es.beincrypto.com/?p=546440"
  ],
  "inicializado": true,
  "resumen": {
@@ -827,11 +827,14 @@
    "Bancos de EEUU detectan agentes de IA no autorizados operando dentro de las cuentas de clientes",
    "Fireblocks niega afirmaciones sobre compra por $2.5 mil millones por parte de Visa",
    "Resumen cripto del 22 de octubre: jornada en rojo, Near Protocol -9 %",
-   "Dogecoin Labs nace para impulsar su ecosistema"
+   "Dogecoin Labs nace para impulsar su ecosistema",
+   "Earn2Trade en 2026: ventajas, desventajas, reglas y cómo funcionan sus cuentas de fondeo",
+   "Los exchanges de criptomonedas quieren tu próxima operación de acciones en 2027",
+   "El 1% de los usuarios de IA impulsa el 80% del gasto, dejando el boom muy frágil"
   ]
  },
  "precios_enviado": "2026-10-22",
- "sponsor_enviado": "2026-10-22-13",
- "resumen_enviado": "2026-10-21",
+ "sponsor_enviado": "2026-10-22-19",
+ "resumen_enviado": "2026-10-22",
  "earn2trade_enviado": "2026-10-20"
 }
