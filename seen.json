@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/465223-deuda-global-bajo-presion-las-senales-que-empiezan-a-inquietar-a-los-mercados",
-  "https://www.iprofesional.com/finanzas/465214-wall-street-en-alerta-que-pasa-si-trump-pierde-el-control-de-la-camara-de-representantes",
-  "https://www.iprofesional.com/finanzas/465217-que-comprar-y-donde-comer-en-el-mercado-central",
   "https://www.iprofesional.com/finanzas/463947-que-impacto-electoral-pueden-tener-bonos-argentinos-segun-bind-inversiones",
   "https://www.iprofesional.com/finanzas/465197-la-reforma-del-bcra-provocaria-un-peso-mas-fuerte-y-menos-riesgo-pais",
   "https://es.beincrypto.com/?p=543333",
@@ -799,7 +796,10 @@
   "https://www.iprofesional.com/finanzas/467373-que-cedears-prometen-mayor-recorrido-alcista-tras-elecciones-en-brasil",
   "https://www.iprofesional.com/politica/467366-en-la-city-esperan-triunfo-de-bolsonaro-y-un-contagio-financiero-en-argentina",
   "https://es.beincrypto.com/?p=546678",
-  "https://es.beincrypto.com/?p=546637"
+  "https://es.beincrypto.com/?p=546637",
+  "https://es.beincrypto.com/?p=546465",
+  "https://es.beincrypto.com/?p=546338",
+  "https://news.bit2me.com/?p=66728"
  ],
  "inicializado": true,
  "resumen": {
@@ -814,11 +814,14 @@
    "Mastercard lanza una herramienta antifraude para stablecoins",
    "Fraude cripto: EE. UU. combate estafas internacionales",
    "Bitcoin pierde los $80,000 y $200 millones en posiciones apalancadas se liquidan en una hora",
-   "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?"
+   "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?",
+   "Las acciones de IA podrían desplomarse en 2027: 3 formas de proteger tu dinero",
+   "Las próximas criptomonedas ganadoras podrían ser diferentes a las actuales",
+   "Resumen cripto del 24 de octubre: jornada en rojo, Near Protocol -7 %"
   ]
  },
  "precios_enviado": "2026-10-24",
- "sponsor_enviado": "2026-10-24-13",
+ "sponsor_enviado": "2026-10-24-19",
  "resumen_enviado": "2026-10-23",
  "earn2trade_enviado": "2026-10-23"
 }
