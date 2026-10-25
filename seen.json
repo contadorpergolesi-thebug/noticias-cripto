@@ -1,15 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/463947-que-impacto-electoral-pueden-tener-bonos-argentinos-segun-bind-inversiones",
-  "https://www.iprofesional.com/finanzas/465197-la-reforma-del-bcra-provocaria-un-peso-mas-fuerte-y-menos-riesgo-pais",
-  "https://es.beincrypto.com/?p=543333",
-  "https://es.beincrypto.com/?p=543369",
-  "https://es.beincrypto.com/?p=543324",
-  "https://es.beincrypto.com/?p=543256",
-  "https://es.beincrypto.com/?p=543278",
-  "https://es.beincrypto.com/?p=543313",
-  "https://es.beincrypto.com/?p=543269",
-  "https://es.beincrypto.com/?p=543275",
   "https://news.bit2me.com/contratos-perpetuos-cripto-mercado-divisas/",
   "https://news.bit2me.com/actualizacion-xrp-ledger-delegacion-permisos/",
   "https://news.bit2me.com/instituciones-mantienen-cripto-caida-mercado/",
@@ -799,29 +789,33 @@
   "https://es.beincrypto.com/?p=546637",
   "https://es.beincrypto.com/?p=546465",
   "https://es.beincrypto.com/?p=546338",
-  "https://news.bit2me.com/?p=66728"
+  "https://news.bit2me.com/?p=66728",
+  "https://www.iprofesional.com/finanzas/467037-banco-por-banco-cuanto-se-gana-con-un-plazo-fijo-por-1-millon-a-30-dias",
+  "https://www.iprofesional.com/politica/467283-milei-hace-una-apuesta-a-todo-o-nada-por-bolsonaro-en-brasil",
+  "https://www.iprofesional.com/finanzas/467199-deuda-familiar-record-cuanto-deben-los-hogares-argentinos-y-por-que-crece-la-mora",
+  "https://es.beincrypto.com/?p=546238",
+  "https://es.beincrypto.com/?p=546476",
+  "https://es.beincrypto.com/?p=546713",
+  "https://es.beincrypto.com/?p=546218",
+  "https://es.beincrypto.com/?p=546686",
+  "https://news.bit2me.com/polygon-adquiere-coinme-pagos-globales/",
+  "https://news.bit2me.com/remesas-stablecoins-reducen-costes-84-por-ciento/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-10-24",
+  "fecha": "2026-10-25",
   "titulos": [
-   "Earn2Trade Trader Career Path: reglas, costos, drawdown y payouts de la TCP50",
-   "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
-   "Uniswap registra el mayor aumento de wallets en 4 años. ¿UNI tendrá un rally?",
-   "¿Realmente está en auge la economía de agentes de IA? 6.4 millones de pagos cuentan una historia diferente",
-   "El futuro de los exchanges de criptomonedas de cara a 2027",
-   "Visa y Mesh permitirán pagos cripto en 175 millones de comercios",
-   "Mastercard lanza una herramienta antifraude para stablecoins",
-   "Fraude cripto: EE. UU. combate estafas internacionales",
-   "Bitcoin pierde los $80,000 y $200 millones en posiciones apalancadas se liquidan en una hora",
-   "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?",
-   "Las acciones de IA podrían desplomarse en 2027: 3 formas de proteger tu dinero",
-   "Las próximas criptomonedas ganadoras podrían ser diferentes a las actuales",
-   "Resumen cripto del 24 de octubre: jornada en rojo, Near Protocol -7 %"
+   "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
+   "¿Cuánto dinero dejarías que controle una IA?",
+   "Javier Milei y el escándalo LIBRA: lo que finalmente decidió la Justicia",
+   "MoneyGram da otro gran paso en blockchain con XDC Network",
+   "Ethereum muestra la misma señal que provocó el rally de junio: ¿Qué significa?",
+   "Polygon adquiere Coinme para competir en pagos",
+   "Remesas con stablecoins reducen costes un 84%"
   ]
  },
- "precios_enviado": "2026-10-24",
- "sponsor_enviado": "2026-10-24-19",
+ "precios_enviado": "2026-10-25",
+ "sponsor_enviado": "2026-10-25-13",
  "resumen_enviado": "2026-10-23",
  "earn2trade_enviado": "2026-10-23"
 }
