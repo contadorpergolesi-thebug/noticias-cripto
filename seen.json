@@ -1,19 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=543626",
-  "https://es.beincrypto.com/?p=543596",
-  "https://es.beincrypto.com/?p=543539",
-  "https://es.beincrypto.com/?p=543559",
-  "https://es.beincrypto.com/microstrategy-compra-1666-bitcoin-847666-btc/",
-  "https://es.beincrypto.com/?p=543509",
-  "https://es.beincrypto.com/?p=543534",
-  "https://es.beincrypto.com/?p=543568",
-  "https://news.bit2me.com/?p=66261",
-  "https://news.bit2me.com/mineria-bitcoin-riot-platforms-liquida-credito/",
-  "https://news.bit2me.com/sec-recompra-tokens-valores-howey/",
-  "https://news.bit2me.com/bitcoin-ondo-tasas-tesoro-maximos/",
-  "https://news.bit2me.com/hyperliquid-doublezero-datos-mercado-fibra/",
-  "https://news.bit2me.com/strategy-dividendos-diarios-acciones-preferentes/",
   "https://www.iprofesional.com/finanzas/465448-reservas-del-bcra-cayeron-y-perforaron-los-us48000-millones-por-primera-vez-en-dos-meses",
   "https://www.iprofesional.com/economia/465436-caputo-cauteloso-renovo-100-de-vencimientos-y-acoto-las-tasas",
   "https://www.iprofesional.com/finanzas/465429-por-que-sube-el-riesgo-pais-se-pincha-la-bolsa-y-caen-bonos",
@@ -799,7 +785,21 @@
   "https://news.bit2me.com/bitcoin-etf-franklin-templeton-dividendos/",
   "https://news.bit2me.com/banco-corea-stablecoins-ley-divisas-fiscalidad/",
   "https://news.bit2me.com/tokenizacion-sec-prioridad-supervision-2027/",
-  "https://news.bit2me.com/bitcoin-core-seguridad-ia-parches-vulnerabilidades/"
+  "https://news.bit2me.com/bitcoin-core-seguridad-ia-parches-vulnerabilidades/",
+  "https://www.iprofesional.com/finanzas/467636-el-fmi-aprobo-la-tercera-revision-del-acuerdo-con-argentina-resultados-impresionantes",
+  "https://www.iprofesional.com/finanzas/467632-cuanto-pierde-el-nuevo-indice-de-acciones-msci-merval-desde-el-debut",
+  "https://www.iprofesional.com/finanzas/467170-como-es-el-nuevo-plazo-fijo-tradicional-precancelable-de-banco-santander",
+  "https://www.iprofesional.com/finanzas/467584-cedio-el-riesgo-pais-pero-se-mantuvo-por-encima-de-los-750-puntos-basicos",
+  "https://www.iprofesional.com/finanzas/467618-el-dolar-sigue-al-alza-pero-esta-en-el-nivel-mas-bajo-en-10-anos",
+  "https://www.iprofesional.com/finanzas/467412-bancos-cierran-379-sucursales-y-el-empleo-cae-12-por-ciento-en-apenas-dos-anos",
+  "https://www.iprofesional.com/finanzas/467421-las-5-acciones-bancarias-que-podrian-duplicar-su-precio-segun-allaria",
+  "https://www.iprofesional.com/negocios/467596-mercado-pago-entra-al-top-20-de-las-marcas-financieras-mas-valiosas-del-mundo",
+  "https://www.iprofesional.com/finanzas/467597-morgan-stanley-ve-subas-de-hasta-97-en-acciones-argentinas-y-hay-dos-variables-clave",
+  "https://es.beincrypto.com/?p=546971",
+  "https://es.beincrypto.com/?p=546943",
+  "https://es.beincrypto.com/?p=546958",
+  "https://news.bit2me.com/?p=66785",
+  "https://news.bit2me.com/china-red-nacional-blockchain-2030/"
  ],
  "inicializado": true,
  "resumen": {
@@ -815,11 +815,16 @@
    "Bitcoin protagoniza nuevos ETF de Franklin Templeton",
    "Corea del Sur regulará stablecoins en su ley de divisas",
    "Tokenización: la SEC la sitúa como riesgo prioritario",
-   "Bitcoin Core acelera parches de seguridad detectados por IA"
+   "Bitcoin Core acelera parches de seguridad detectados por IA",
+   "Hackers roban $400,000 de un mercado de predicciones vinculado a Binance",
+   "¿El Q-Day de Bitcoin está a una década de distancia? Los escépticos dicen que ya se está retrasando",
+   "CEO de JPMorgan advierte riesgos que amenazan acciones y bonos de EEUU",
+   "Resumen cripto del 27 de octubre: jornada en verde, Near Protocol +3 %",
+   "China fija 2030 para culminar su red nacional blockchain"
   ]
  },
  "precios_enviado": "2026-10-27",
- "sponsor_enviado": "2026-10-27-13",
+ "sponsor_enviado": "2026-10-27-19",
  "resumen_enviado": "2026-10-25",
- "earn2trade_enviado": "2026-10-23"
+ "earn2trade_enviado": "2026-10-27"
 }
