@@ -1,20 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/bitcoin-lightning-x402-pagos-inteligencia-artificial/",
-  "https://news.bit2me.com/etf-bitcoin-recupera-deficit-5-800/",
-  "https://news.bit2me.com/declaracion-impuestos-cripto-irs-eeuu/",
-  "https://www.iprofesional.com/finanzas/465786-riesgo-pais-llego-650-puntos-volvio-niveles-noviembre-2025",
-  "https://www.iprofesional.com/finanzas/465777-el-mercado-recorta-la-expectativa-de-subas-de-tasas-en-eeuu-y-favorece-a-argentina",
-  "https://www.iprofesional.com/finanzas/465636-por-que-el-mercado-duda-de-la-meta-de-reservas-del-bcra-de-caputo",
-  "https://www.iprofesional.com/actualidad/465703-cuanto-cobra-un-plomero-para-cambiar-un-cuerito-o-una-caneria",
-  "https://es.beincrypto.com/?p=544232",
-  "https://es.beincrypto.com/?p=544225",
-  "https://es.beincrypto.com/?p=544172",
-  "https://es.beincrypto.com/?p=544084",
-  "https://es.beincrypto.com/informe-empleo-eeuu-septiembre-bitcoin-oro/",
-  "https://es.beincrypto.com/?p=544198",
-  "https://es.beincrypto.com/?p=544159",
-  "https://es.beincrypto.com/?p=544162",
   "https://es.beincrypto.com/?p=544116",
   "https://news.bit2me.com/ethereum-actualizacion-glamsterdam-sepolia/",
   "https://news.bit2me.com/etf-bitcoin-suman-3-100-millones/",
@@ -799,7 +784,22 @@
   "https://news.bit2me.com/?p=67236",
   "https://news.bit2me.com/vaneck-lanza-etf-exposicion-bitcoin-wbmo/",
   "https://news.bit2me.com/dinero-tokenizado-grandes-empresas-adopcion-pagos/",
-  "https://news.bit2me.com/posible-ataque-binance-3500-millones-dolares/"
+  "https://news.bit2me.com/posible-ataque-binance-3500-millones-dolares/",
+  "https://www.iprofesional.com/finanzas/467962-que-acciones-y-bonos-recomienda-la-city-para-noviembre-tras-desplome",
+  "https://www.iprofesional.com/finanzas/467845-en-plena-batalla-fintech-cocos-vende-dolares-mas-baratos-para-captar-mas-clientes",
+  "https://www.iprofesional.com/finanzas/467963-ahorristas-le-arrebataron-al-bcra-casi-2500-millones-de-dolares",
+  "https://www.iprofesional.com/economia/467957-bcra-volvio-a-comprar-y-en-octubre-sumo-casi-tres-veces-mas-de-dolares-que-en-septiembre",
+  "https://www.iprofesional.com/finanzas/467947-wall-street-se-desploma-por-el-temor-a-la-ia-y-dos-gigantes-tecnologicos-estan-en-la-mira",
+  "https://www.iprofesional.com/finanzas/467950-los-factores-detras-del-salto-del-riesgo-pais-y-hasta-donde-puede-escalar",
+  "https://www.iprofesional.com/finanzas/467930-riesgo-pais-vuelve-a-subir-a-787-puntos-y-caen-los-bonos-argentinos",
+  "https://www.iprofesional.com/finanzas/466925-riesgo-pais-en-787-puntos-que-significa-y-como-afecta-a-la-economia-argentina",
+  "https://www.iprofesional.com/economia/467939-banco-central-elimina-freno-monetario-cuando-se-notara-economia-octubre-2026",
+  "yt:video:LRUrg6h7ehw",
+  "https://es.beincrypto.com/?p=547394",
+  "https://es.beincrypto.com/?p=547376",
+  "https://es.beincrypto.com/?p=547314",
+  "https://news.bit2me.com/?p=67250",
+  "https://news.bit2me.com/zcash-debate-detener-financiacion-125-millones-zcg/"
  ],
  "inicializado": true,
  "resumen": {
@@ -816,11 +816,17 @@
    "Hackeo a Binance: que ha pasado y que significa para los usuarios",
    "VanEck lanza ETF con exposición a Bitcoin, oro y bonos",
    "Dinero tokenizado: el 88% de grandes empresas lo adopta",
-   "Alerta de seguridad cripto: movimientos de 3.500 millones"
+   "Alerta de seguridad cripto: movimientos de 3.500 millones",
+   "SI ME PAGAN EN CRIPTO, TENGO QUE FACTURARLO? O PUEDO EVITARLO?",
+   "El precio del oro pierde los $3,900 y registra mínimo anual: ¿Qué dicen los analistas?",
+   "Tether ganó $4.5 mil millones en 2026, pero su reserva de Bitcoin ahora supera el respaldo de seguridad de USDT",
+   "Bitcoin se está volviendo “aburrido” y esa es una razón alcista, dice el analista James Check",
+   "Resumen cripto del 30 de octubre: jornada en rojo, Solana -5 %",
+   "Zcash debate detener financiación de 125 millones en ZCG"
   ]
  },
  "precios_enviado": "2026-10-30",
- "sponsor_enviado": "2026-10-30-13",
+ "sponsor_enviado": "2026-10-30-19",
  "resumen_enviado": "2026-10-28",
- "earn2trade_enviado": "2026-10-27"
+ "earn2trade_enviado": "2026-10-30"
 }
