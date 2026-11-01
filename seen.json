@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/465843-que-empresas-pagan-intereses-por-sus-obligaciones-negociables-en-octubre",
-  "https://www.iprofesional.com/finanzas/465740-los-cuatro-bonos-que-elige-banco-hipotecario-para-inversores-agresivos",
-  "https://www.iprofesional.com/finanzas/465931-la-accion-de-mercado-libre-se-disparo-en-wall-street-tras-el-triunfo-de-bolsonaro",
   "https://www.iprofesional.com/finanzas/465928-cae-el-riesgo-pais-y-rebotan-las-acciones-argentinas-luego-del-triunfo-de-bolsonaro",
   "https://www.iprofesional.com/actualidad/465891-super-nino-que-seguros-conviene-contratar-para-el-auto-y-la-casa",
   "https://www.iprofesional.com/finanzas/465904-bonos-argentinos-explotan-tras-la-victoria-de-bolsonaro-esto-ganan-quienes-invirtieron",
@@ -799,7 +796,10 @@
   "https://news.bit2me.com/dtcc-tokenizacion-valores-banca-wall-street/",
   "https://news.bit2me.com/opentrade-nombra-presidente-ex-ceo-swift/",
   "https://news.bit2me.com/ethereum-corrige-fallo-clientes-teku-besu/",
-  "https://news.bit2me.com/banco-inglaterra-consulta-colateral-tokenizado-clearing/"
+  "https://news.bit2me.com/banco-inglaterra-consulta-colateral-tokenizado-clearing/",
+  "https://www.iprofesional.com/finanzas/467365-la-city-anticipa-un-verano-mas-caliente-para-el-precio-de-dolar",
+  "https://es.beincrypto.com/?p=547518",
+  "https://news.bit2me.com/?p=67285"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,11 +813,13 @@
    "DTCC activa la tokenización de 30 billones en valores",
    "OpenTrade nombra presidente al ex consejero de Swift",
    "Ethereum corrige fallo en clientes Teku y Besu",
-   "Banco de Inglaterra consulta sobre colateral tokenizado"
+   "Banco de Inglaterra consulta sobre colateral tokenizado",
+   "¿Es seguro Coinbase tras el monumental hack de Binance?",
+   "Resumen cripto del 1 de noviembre: mercado mixto, Near Protocol -4 %"
   ]
  },
  "precios_enviado": "2026-11-01",
- "sponsor_enviado": "2026-11-01-13",
+ "sponsor_enviado": "2026-11-01-19",
  "resumen_enviado": "2026-10-31",
  "earn2trade_enviado": "2026-10-30"
 }
