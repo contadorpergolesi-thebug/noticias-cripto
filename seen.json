@@ -1,16 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/economia/465815-con-dolar-controlado-el-carry-trade-vuelve-a-ser-atractivo",
-  "https://es.beincrypto.com/nasdaq-cae-300-puntos-openai-ingresos/",
-  "https://es.beincrypto.com/?p=544847",
-  "https://es.beincrypto.com/?p=544913",
-  "https://es.beincrypto.com/?p=544929",
-  "https://es.beincrypto.com/?p=544892",
-  "https://es.beincrypto.com/?p=544908",
-  "https://es.beincrypto.com/?p=544887",
-  "https://es.beincrypto.com/?p=544877",
-  "https://es.beincrypto.com/?p=544855",
-  "https://news.bit2me.com/superapps-financieras-convergencia-cripto-bolsa/",
   "https://news.bit2me.com/computacion-cuantica-bitcoin-europol-alerta-claves-privadas/",
   "https://news.bit2me.com/zcash-etf-winklevoss-solicita-nasdaq/",
   "https://news.bit2me.com/cardano-cip-0113-congelar-restringir-activos/",
@@ -799,7 +788,18 @@
   "https://es.beincrypto.com/?p=547967",
   "https://news.bit2me.com/bitcoin-propiedad-tribunal-supremo-tailandia/",
   "https://news.bit2me.com/strategy-dimite-cfo-mstr-cae-6-por-ciento/",
-  "https://news.bit2me.com/canton-foundation-redstone-precio-institucional/"
+  "https://news.bit2me.com/canton-foundation-redstone-precio-institucional/",
+  "https://www.iprofesional.com/actualidad/468361-se-viene-el-verano-cuanto-cobran-los-jardineros-y-pileteros-y-cuanto-cuestan-los-insumos",
+  "https://www.iprofesional.com/finanzas/468486-consultora-recomienda-comprar-acciones-de-mercado-libre-tras-desplome",
+  "https://www.iprofesional.com/finanzas/468485-el-bcra-revelo-que-esperan-45-economistas-para-el-dolar-en-argentina",
+  "https://www.iprofesional.com/finanzas/468357-alquileres-de-verano-como-evitar-estafas-que-garantias-ofrecen-airbnb-y-booking",
+  "https://www.iprofesional.com/finanzas/468475-el-bcra-compro-dolares-pero-las-reservas-cayeron-por-un-pago-al-fmi",
+  "https://www.iprofesional.com/finanzas/468448-el-dolar-se-disparo-en-paraguay-y-el-riesgo-pais-subio-16-tras-la-renuncia-de-pena",
+  "https://www.iprofesional.com/finanzas/468463-por-que-la-crisis-de-ueno-bank-no-debe-afectar-a-bancos-de-argentina",
+  "https://es.beincrypto.com/?p=548101",
+  "https://es.beincrypto.com/?p=548082",
+  "https://es.beincrypto.com/?p=548096",
+  "https://news.bit2me.com/?p=67309"
  ],
  "inicializado": true,
  "resumen": {
@@ -818,11 +818,15 @@
    "El S&P 500 muestra una señal nunca vista en 36 años: ¿Qué sigue?",
    "Bitcoin es propiedad según el Tribunal Supremo de Tailandia",
    "Strategy: dimite su director financiero y MSTR cae un 6%",
-   "RedStone recibe 15,8M de Canton Coin para privacidad"
+   "RedStone recibe 15,8M de Canton Coin para privacidad",
+   "Méliuz vende 78 BTC para financiar recompra de acciones en B3",
+   "Bitfarms vende toda su reserva de Bitcoin: ¿Qué significa?",
+   "¿Por qué está cayendo la bolsa de EEUU? 3 razones detrás de la caída de $2 billones",
+   "Resumen cripto del 5 de noviembre: jornada en rojo, Uniswap -9 %"
   ]
  },
  "precios_enviado": "2026-11-05",
- "sponsor_enviado": "2026-11-05-13",
- "resumen_enviado": "2026-11-04",
+ "sponsor_enviado": "2026-11-05-19",
+ "resumen_enviado": "2026-11-05",
  "earn2trade_enviado": "2026-11-03"
 }
