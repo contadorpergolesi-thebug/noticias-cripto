@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=545028",
-  "https://es.beincrypto.com/ventas-de-revendedores-de-ledger-pausadas-reclamos-de-drenaje/",
-  "https://es.beincrypto.com/?p=544948",
-  "https://es.beincrypto.com/?p=545047",
-  "https://es.beincrypto.com/?p=545031",
-  "https://es.beincrypto.com/?p=544980",
   "https://es.beincrypto.com/?p=544864",
   "https://news.bit2me.com/blackrock-agentes-ia-demanda-criptoactivos/",
   "https://www.iprofesional.com/finanzas/466334-bcra-compro-mas-de-200-millones-dolares-en-la-semana-y-tuvo-su-mejor-inicio-de-mes-desde-julio",
@@ -799,7 +793,13 @@
   "https://news.bit2me.com/israel-extradita-sospechoso-hackeo-nomad-bridge/",
   "https://news.bit2me.com/trezor-alerta-dispositivos-alterados-cryptobilis/",
   "https://news.bit2me.com/uber-prueba-tokenizacion-hsbc-franklin-templeton/",
-  "https://news.bit2me.com/polygon-expande-infraestructura-pagos-solana/"
+  "https://news.bit2me.com/polygon-expande-infraestructura-pagos-solana/",
+  "https://www.iprofesional.com/finanzas/468598-broker-argentino-tenia-dolares-depositados-en-ueno-bank-esperamos-que-se-acomode-pronto",
+  "https://www.iprofesional.com/finanzas/468549-el-riesgo-pais-volvio-a-subir-y-se-acerco-a-los-940-puntos-nuevo-maximo-en-mas-de-un-ano",
+  "https://es.beincrypto.com/?p=548295",
+  "https://es.beincrypto.com/?p=548285",
+  "https://es.beincrypto.com/?p=548263",
+  "https://news.bit2me.com/acciones-tokenizadas-intel-ibm-rechazan-okx-ice/"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,11 +819,15 @@
    "Nomad Bridge: Israel extradita a sospechoso por 2,8M USD",
    "Trezor alerta sobre dispositivos alterados por CryptoBilis",
    "Uber prueba tokenización con HSBC y Franklin Templeton",
-   "Polygon expande su infraestructura de pagos a Solana"
+   "Polygon expande su infraestructura de pagos a Solana",
+   "BeInCrypto y Coinhold Wallet organizarán AMA sobre stablecoins e inflación en Latinoamérica",
+   "Venta masiva de ETF spot de Bitcoin borra todas las entradas previstas para 2026",
+   "27 mercados bursátiles en todo el mundo están en territorio bajista: descubre cuáles son",
+   "Acciones tokenizadas: Intel e IBM frenan la iniciativa de OKX"
   ]
  },
  "precios_enviado": "2026-11-06",
- "sponsor_enviado": "2026-11-06-13",
- "resumen_enviado": "2026-11-05",
- "earn2trade_enviado": "2026-11-03"
+ "sponsor_enviado": "2026-11-06-19",
+ "resumen_enviado": "2026-11-06",
+ "earn2trade_enviado": "2026-11-06"
 }
