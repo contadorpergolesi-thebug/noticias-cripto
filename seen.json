@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/bitcoin-cae-83000-dolares-tension-petroleo/",
-  "https://www.iprofesional.com/finanzas/466331-precio-mas-bajo-de-dolar-previsto-por-15-economistas-de-bancos-y-consultoras",
-  "https://es.beincrypto.com/?p=545137",
-  "https://es.beincrypto.com/?p=545134",
-  "https://news.bit2me.com/?p=66433",
-  "https://www.iprofesional.com/estilo-de-vida/466264-guia-de-cruceros-2026-de-miniviajes-a-travesias-de-22-dias",
-  "https://es.beincrypto.com/?p=545173",
-  "https://es.beincrypto.com/?p=545158",
   "https://www.iprofesional.com/finanzas/466160-que-cambia-con-la-reforma-del-mercado-de-capitales-de-milei",
   "https://www.iprofesional.com/actualidad/466359-gerente-de-banco-explico-como-funcionan-los-fondos-de-stencia-laboral",
   "https://es.beincrypto.com/?p=545163",
@@ -799,29 +791,31 @@
   "https://news.bit2me.com/xrp-ledger-corrige-fallo-quema-tokens/",
   "https://www.iprofesional.com/finanzas/468577-a-partir-de-que-precio-del-dolar-el-carry-trade-pasa-a-ser-mal-negocio",
   "yt:video:HyAVhD1uEy8",
-  "https://es.beincrypto.com/?p=548339"
+  "https://es.beincrypto.com/?p=548339",
+  "https://www.iprofesional.com/finanzas/468619-inflacion-proteger-ahorros-pesos-dolares-opciones-clave-noviembre-2026",
+  "https://es.beincrypto.com/?p=548396",
+  "https://es.beincrypto.com/?p=548374",
+  "https://es.beincrypto.com/?p=548281",
+  "https://es.beincrypto.com/?p=548369",
+  "https://news.bit2me.com/polygon-hard-fork-recuperar-fondos-robados/",
+  "https://news.bit2me.com/fallo-critico-linux-kernel-lnd-lightning-mitigacion/",
+  "https://news.bit2me.com/ethereum-resistencia-cuantica-adelanto-2028/"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-11-07",
+  "fecha": "2026-11-08",
   "titulos": [
-   "cobrar por Skrill no significa que puedas dejar tus ingresos sin declarar 👀",
-   "Binance informa todos los movimientos?",
-   "Bitcoin no necesita un banco, pero Strategy quiere convertirse en uno",
-   "“Esto es vivir en Venezuela”: usuarios de Kontigo denuncian fondos bloqueados",
-   "Desarrollador de Bitcoin propone trampa cuántica para hackers",
-   "Top 3 altcoins desafían el crash del mercado cripto",
-   "Reseña de KuCoin TradFi: ¿Los traders de criptomonedas pueden acceder a los mercados globales 24/7?",
-   "TRM Labs: El KYC para los agentes de IA debe empezar por la persona detrás de ellos",
-   "EE. UU. veta a MEXC de su sistema financiero",
-   "Bitcoin frente a la crisis bancaria en Paraguay",
-   "XRP Ledger corrige un fallo en la quema de tokens",
-   "PAGO POR RETIROS IMPUESTO A LAS GANANCIAS EN TRADING?",
-   "Zcash muestra una señal de advertencia para Bitcoin y Ethereum"
+   "Resumen semanal de Bitcoin y criptomonedas: América Latina – 8 de noviembre",
+   "Glamsterdam podría romper la blockchain Ethereum, advierten los desarrolladores",
+   "Menos empresas y más tokenización: OKX expone qué esperar del mercado cripto brasileño en 2027",
+   "¿Elon Musk es Satoshi Nakamoto? Nuevo estudio de Grok AI expone teorías reveladoras",
+   "Polygon evalúa hard fork para recuperar 6,8M $",
+   "Fallo crítico en Linux y mitigación para LND de Lightning",
+   "Ethereum planea su resistencia cuántica para 2028"
   ]
  },
- "precios_enviado": "2026-11-07",
- "sponsor_enviado": "2026-11-07-19",
+ "precios_enviado": "2026-11-08",
+ "sponsor_enviado": "2026-11-08-13",
  "resumen_enviado": "2026-11-07",
  "earn2trade_enviado": "2026-11-06"
 }
