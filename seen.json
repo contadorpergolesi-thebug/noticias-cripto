@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/466160-que-cambia-con-la-reforma-del-mercado-de-capitales-de-milei",
-  "https://www.iprofesional.com/actualidad/466359-gerente-de-banco-explico-como-funcionan-los-fondos-de-stencia-laboral",
-  "https://es.beincrypto.com/?p=545163",
   "https://es.beincrypto.com/?p=545193",
   "https://es.beincrypto.com/?p=545153",
   "https://es.beincrypto.com/?p=544902",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=548369",
   "https://news.bit2me.com/polygon-hard-fork-recuperar-fondos-robados/",
   "https://news.bit2me.com/fallo-critico-linux-kernel-lnd-lightning-mitigacion/",
-  "https://news.bit2me.com/ethereum-resistencia-cuantica-adelanto-2028/"
+  "https://news.bit2me.com/ethereum-resistencia-cuantica-adelanto-2028/",
+  "https://www.iprofesional.com/economia/468637-revolut-ya-le-puso-fecha-al-comienzo-de-sus-operaciones-como-banco-en-argentina",
+  "https://es.beincrypto.com/?p=547075",
+  "https://es.beincrypto.com/caida-precio-bitcoin-liquidaciones-cripto-riesgos-mercado/"
  ],
  "inicializado": true,
  "resumen": {
@@ -811,11 +811,13 @@
    "¿Elon Musk es Satoshi Nakamoto? Nuevo estudio de Grok AI expone teorías reveladoras",
    "Polygon evalúa hard fork para recuperar 6,8M $",
    "Fallo crítico en Linux y mitigación para LND de Lightning",
-   "Ethereum planea su resistencia cuántica para 2028"
+   "Ethereum planea su resistencia cuántica para 2028",
+   "¿Están las empresas ignorando un gran riesgo con los pagos automatizados por IA?",
+   "Las liquidaciones cripto aumentan mientras Bitcoin cae por debajo de 74 000 dólares. ¿Qué tan grave es?"
   ]
  },
  "precios_enviado": "2026-11-08",
  "sponsor_enviado": "2026-11-08-19",
- "resumen_enviado": "2026-11-07",
+ "resumen_enviado": "2026-11-08",
  "earn2trade_enviado": "2026-11-06"
 }
