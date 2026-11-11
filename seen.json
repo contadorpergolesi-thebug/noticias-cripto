@@ -1,14 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=545483",
-  "https://es.beincrypto.com/?p=545486",
-  "https://es.beincrypto.com/?p=545454",
-  "https://es.beincrypto.com/?p=545449",
-  "https://es.beincrypto.com/?p=545431",
-  "https://es.beincrypto.com/?p=545444",
-  "https://es.beincrypto.com/?p=545419",
-  "https://es.beincrypto.com/?p=545407",
-  "https://es.beincrypto.com/?p=545226",
   "https://news.bit2me.com/bonos-catastrofe-tokenizados-brecha-seguros-desastres/",
   "https://news.bit2me.com/xrp-ledger-corrige-fallo-critico-tokens/",
   "https://news.bit2me.com/zcash-firmas-poscuanticas-ataques-ia/",
@@ -799,7 +790,16 @@
   "https://news.bit2me.com/bitcoin-computacion-cuantica-minas-disuasorias-cory-fields/",
   "https://news.bit2me.com/strategy-compra-1036-bitcoin-tesoreria-850000-btc/",
   "https://news.bit2me.com/i1695-anchor-k7m2/",
-  "https://news.bit2me.com/i1693-videodur-shared-7f3a1/"
+  "https://news.bit2me.com/i1693-videodur-shared-7f3a1/",
+  "https://www.iprofesional.com/autos/468732-autos-electricos-chinos-por-que-eeuu-teme-que-puedan-espiar",
+  "https://www.iprofesional.com/economia/468734-plan-para-cortar-tasas-a-lo-caputo-divide-a-brasil",
+  "https://www.iprofesional.com/finanzas/468730-que-inversion-conviene-antes-de-las-elecciones-2027-dolar-plazo-fijo-o-uva",
+  "https://www.iprofesional.com/finanzas/468677-demanda-de-cobertura-cambiaria-por-las-elecciones-se-despierta-y-empieza-a-meter-presion",
+  "https://es.beincrypto.com/?p=548709",
+  "https://es.beincrypto.com/?p=548705",
+  "https://news.bit2me.com/cripto-planes-401k-casa-blanca-revision-laboral/",
+  "https://news.bit2me.com/ethereum-frena-glamsterdam-hoodi-riesgos-contratos/",
+  "https://www.iprofesional.com/finanzas/468494-como-cambio-el-inversor-argentino-y-que-buscan-hoy-quienes-entran-al-mundo-cripto"
  ],
  "inicializado": true,
  "resumen": {
@@ -819,11 +819,16 @@
    "Bitcoin frente a la computación cuántica: minas disuasorias",
    "Strategy compra 1.036 Bitcoin y acumula más de 850.000 BTC",
    "i1695 anchor k7m2",
-   "i1693 videodur shared 7f3a1"
+   "i1693 videodur shared 7f3a1",
+   "Goldman y Citi destinan $270 millones para su propia stablecoin: ¿Peligran Tether y Circle?",
+   "Bitcoin está perdiendo su última línea de defensa y no hay compradores a la vista",
+   "Cripto en planes 401(k): Casa Blanca revisa la norma final",
+   "Ethereum frena Glamsterdam en Hoodi por riesgos de contratos",
+   "Cómo cambió el inversor argentino y qué buscan hoy quienes entran al mundo cripto"
   ]
  },
  "precios_enviado": "2026-11-10",
- "sponsor_enviado": "2026-11-10-13",
- "resumen_enviado": "2026-11-08",
- "earn2trade_enviado": "2026-11-06"
+ "sponsor_enviado": "2026-11-10-19",
+ "resumen_enviado": "2026-11-10",
+ "earn2trade_enviado": "2026-11-10"
 }
