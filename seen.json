@@ -1,11 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/466229-por-que-cocos-debio-desdoblar-su-app-para-comprar-y-vender-criptos",
-  "https://www.iprofesional.com/finanzas/466593-inversiones-privadas-millonarias-argentina-gestion-caputo-bangkok",
-  "https://www.iprofesional.com/economia/466560-miniso-y-el-consumo-joven-por-que-crecen-los-locales-para-chicos",
-  "https://www.iprofesional.com/economia/466521-la-inflacion-no-cede-y-le-quita-margen-de-maniobra-a-milei",
-  "https://www.iprofesional.com/finanzas/466480-mercado-pago-se-convertira-en-banco-y-usan-la-noticia-para-intentar-robar-cuentas",
-  "https://www.iprofesional.com/finanzas/466510-la-city-recomienda-anticiparse-y-empezar-a-dolarizar-inversiones",
   "https://www.iprofesional.com/finanzas/465209-las-8-obligaciones-negociables-que-mas-eligen-los-fondos-de-inversion",
   "https://www.iprofesional.com/finanzas/466382-morgan-stanley-anticipa-los-sectores-que-ganaran-con-la-ia",
   "https://www.iprofesional.com/finanzas/465649-que-precio-del-dolar-espera-banco-hipotecario-para-diciembre",
@@ -799,7 +793,13 @@
   "https://es.beincrypto.com/?p=548789",
   "https://es.beincrypto.com/?p=548742",
   "https://es.beincrypto.com/?p=548782",
-  "https://es.beincrypto.com/?p=548761"
+  "https://es.beincrypto.com/?p=548761",
+  "https://www.iprofesional.com/finanzas/468848-luis-caputo-inyecta-pesos-en-mercado-que-no-apuesta-mas-alla-de-elecciones-2027",
+  "https://es.beincrypto.com/nvidia-acciones-segundo-informe-romance-jensen-huang/",
+  "https://es.beincrypto.com/msci-abandona-estrategia-indice-eeuu-ventas/",
+  "https://es.beincrypto.com/?p=548858",
+  "https://es.beincrypto.com/?p=548845",
+  "https://es.beincrypto.com/?p=548842"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,11 +813,16 @@
    "Datos históricos sitúan el precio de XRP en una ventana crítica de recuperación de 90 días",
    "¿Grok está perdiendo la carrera de la IA? Elon Musk dice que Claude es mejor “por ahora”",
    "Deutsche Bank lanza custodia de Bitcoin, Ethereum y stablecoins",
-   "Ex-CTO de Ripple revela cuántos XRP, Ethereum y Bitcoin posee"
+   "Ex-CTO de Ripple revela cuántos XRP, Ethereum y Bitcoin posee",
+   "Acción de Nvidia cae 10% tras segundo informe sobre asunto de Jensen Huang: ¿Dejará de ser CEO?",
+   "MSCI retira estrategia de su índice de EE. UU.: ¿afectará una venta forzada de 2.8 mil millones de dólares a MSTR?",
+   "¿Capitulación en las tesorerías de Bitcoin? MSCI decide hoy sobre Strategy",
+   "LBank reafirma seguridad de los fondos y realiza una revisión transparente de riesgos",
+   "Berkshire Hathaway logra su mayor ventaja frente al S&P 500 desde 2010: ¿Cómo sucedió?"
   ]
  },
  "precios_enviado": "2026-11-11",
- "sponsor_enviado": "2026-11-11-13",
- "resumen_enviado": "2026-11-10",
+ "sponsor_enviado": "2026-11-11-19",
+ "resumen_enviado": "2026-11-11",
  "earn2trade_enviado": "2026-11-10"
 }
