@@ -1,13 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=545754",
-  "https://es.beincrypto.com/?p=545751",
-  "https://es.beincrypto.com/?p=545723",
-  "https://es.beincrypto.com/?p=545694",
-  "https://es.beincrypto.com/?p=545688",
-  "https://news.bit2me.com/bitcoin-computacion-cuantica-seguridad-propuesta/",
-  "https://news.bit2me.com/sec-cambia-cuorum-facilita-regulacion-cripto/",
-  "https://news.bit2me.com/ens-dao-votacion-actualizacion-ensv2-ethereum/",
   "https://news.bit2me.com/ia-curar-cancer-polemica-palantir/",
   "https://www.iprofesional.com/finanzas/466707-cuanto-se-gana-con-plazo-fijo-de-banco-ciudad-con-2-millones-de-pesos",
   "https://es.beincrypto.com/?p=545742",
@@ -799,7 +791,15 @@
   "https://es.beincrypto.com/?p=549037",
   "https://es.beincrypto.com/?p=549105",
   "https://es.beincrypto.com/?p=549101",
-  "https://es.beincrypto.com/?p=549059"
+  "https://es.beincrypto.com/?p=549059",
+  "https://www.iprofesional.com/finanzas/469113-gobierno-javier-milei-lanza-otro-canje-para-aliviar-vencimiento-de-casi-30-billones-de-pesos-en-noviembre-2026",
+  "https://www.iprofesional.com/finanzas/468763-que-pasara-con-las-acciones-de-6-gigantes-tras-cisne-negro-para-la-ia",
+  "https://www.iprofesional.com/finanzas/469107-ya-se-puede-invertir-en-seis-nuevos-cedears-de-etf-vinculados-al-agro-mineria-e-industria",
+  "https://www.iprofesional.com/actualidad/469063-restaurantes-a-puertas-cerradas-que-ofrecen-cuanto-cuestan-y-los-elegidos-por-michelin",
+  "https://es.beincrypto.com/vuelos-eeuu-cancelados-fallo-riesgo-mercado-bolsa/",
+  "https://es.beincrypto.com/?p=549161",
+  "https://news.bit2me.com/?p=67503",
+  "https://www.iprofesional.com/finanzas/469101-el-bcra-dio-de-baja-la-billetera-virtual-de-sur-finanzas-la-financiera-vinculada-a-tapia"
  ],
  "inicializado": true,
  "resumen": {
@@ -813,11 +813,15 @@
    "Resumen semanal de Bitcoin y criptomonedas: 13 de noviembre",
    "Apagón de Microsoft recusita las máquinas de fax: ¿Qué sucedió?",
    "¿Por qué Bitcoin cayó por debajo de $69,000? Top 5 factores clave",
-   "XRP anuncia un importante reset para el 25 de noviembre: ¿Reaccionará el precio?"
+   "XRP anuncia un importante reset para el 25 de noviembre: ¿Reaccionará el precio?",
+   "EE. UU. suspende todos los vuelos; mercado de valores enfrenta un riesgo importante",
+   "Twenty One Capital ganó $1 mil millones con Bitcoin, pero ya ha perdido el 60%",
+   "Resumen cripto del 13 de noviembre: mercado mixto, Near Protocol +4 %",
+   "El BCRA dio de baja la billetera virtual de Sur Finanzas, la financiera vinculada a Tapia"
   ]
  },
  "precios_enviado": "2026-11-13",
- "sponsor_enviado": "2026-11-13-13",
- "resumen_enviado": "2026-11-12",
- "earn2trade_enviado": "2026-11-10"
+ "sponsor_enviado": "2026-11-13-19",
+ "resumen_enviado": "2026-11-13",
+ "earn2trade_enviado": "2026-11-13"
 }
