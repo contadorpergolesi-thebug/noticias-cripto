@@ -1,12 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=545903",
-  "https://es.beincrypto.com/?p=545837",
-  "https://es.beincrypto.com/?p=545891",
-  "https://es.beincrypto.com/?p=545882",
-  "https://es.beincrypto.com/?p=545876",
-  "https://es.beincrypto.com/?p=545872",
-  "https://es.beincrypto.com/?p=545808",
   "https://news.bit2me.com/starknet-vota-independencia-ethereum-riesgo-cuantico/",
   "https://news.bit2me.com/starknet-lanza-shadow-accounts-privacidad-defi/",
   "https://news.bit2me.com/?p=66549",
@@ -799,25 +792,29 @@
   "https://es.beincrypto.com/?p=549196",
   "https://www.iprofesional.com/finanzas/469078-que-precio-del-dolar-preven-consultoras-y-bancos-mas-confiables-de-la-city",
   "https://es.beincrypto.com/?p=549238",
-  "https://es.beincrypto.com/?p=549234"
+  "https://es.beincrypto.com/?p=549234",
+  "https://www.iprofesional.com/economia/468833-por-que-la-verdadera-bazuca-de-dolares-caputo-la-tiene-en-el-campo",
+  "https://es.beincrypto.com/?p=549177",
+  "https://es.beincrypto.com/?p=549226",
+  "https://es.beincrypto.com/?p=548557",
+  "https://es.beincrypto.com/?p=548797",
+  "https://es.beincrypto.com/?p=549278",
+  "https://es.beincrypto.com/?p=549259"
  ],
  "inicializado": true,
  "resumen": {
-  "fecha": "2026-11-14",
+  "fecha": "2026-11-15",
   "titulos": [
-   "Argentina entra al CARF y EE.UU. vuelve a frenar la CLARITY Act. ¿Qué está pasando con cripto?",
-   "SE PUEDE VIVIR LEGALMENTE SIN PAGAR IMPUESTOS?",
-   "Denuncian presunto desfalco de Kontigo por $50 millones: la empresa aún no se pronuncia",
-   "Los grandes bancos tienen casi $1 billón ligados a la IA: ¿Qué pasa si el boom se quiebra?",
-   "¿Puede un solo exchange de criptomonedas gestionar todas tus operaciones? Zoomex cree que sí",
-   "El precio de XRP enfrenta una posible caída del 20%: niveles clave a vigilar",
-   "¿Bitcoin nunca más registrará un nuevo máximo histórico? Analistas debaten en X",
-   "AMD experimenta su mayor rally frente a NVIDIA desde 1999: ¿Podrá superar los resultados trimestrales?",
-   "Charles Hoskinson discute con holders de ADA molestos por promesas de rallies de precio"
+   "Más del 35% del suministro de Bitcoin enfrenta riesgo cuántico, según nuevos datos",
+   "Hyperliquid (HYPE) muestra resiliencia mientras la caída del mercado cripto se agudiza",
+   "Wall Street quiere tokenizar todo, pero: ¿Quién está comprando?",
+   "Los traders de criptomonedas deben hacer esto antes de pensar en ganar dinero",
+   "Kontigo rompe el silencio y asegura que los fondos están a salvo, pero hay dudas",
+   "Bitcoin cae a $62,000: los traders denuncian “manipulación orquestada”"
   ]
  },
- "precios_enviado": "2026-11-14",
- "sponsor_enviado": "2026-11-14-19",
+ "precios_enviado": "2026-11-15",
+ "sponsor_enviado": "2026-11-15-13",
  "resumen_enviado": "2026-11-13",
  "earn2trade_enviado": "2026-11-13"
 }
