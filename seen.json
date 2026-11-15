@@ -1,8 +1,5 @@
 {
  "vistos": [
-  "https://news.bit2me.com/starknet-vota-independencia-ethereum-riesgo-cuantico/",
-  "https://news.bit2me.com/starknet-lanza-shadow-accounts-privacidad-defi/",
-  "https://news.bit2me.com/?p=66549",
   "https://www.iprofesional.com/energia/466817-la-nueva-inversion-financiera-que-ypf-habilitara-desde-su-app",
   "https://www.iprofesional.com/finanzas/466628-que-espera-el-mercado-para-la-inflacion-tras-ultimo-dato-del-ipc-indec",
   "https://www.iprofesional.com/economia/466808-la-inflacion-mayorista-salto-al-32-en-septiembre-impulsada-por-el-petroleo-y-el-gas",
@@ -799,7 +796,10 @@
   "https://es.beincrypto.com/?p=548557",
   "https://es.beincrypto.com/?p=548797",
   "https://es.beincrypto.com/?p=549278",
-  "https://es.beincrypto.com/?p=549259"
+  "https://es.beincrypto.com/?p=549259",
+  "https://www.iprofesional.com/finanzas/469020-10-acciones-del-merval-que-recomienda-comprar-broker-top-de-la-city",
+  "https://es.beincrypto.com/?p=549113",
+  "https://es.beincrypto.com/jensen-huang-ceo-nvidia-regreso-acciones/"
  ],
  "inicializado": true,
  "resumen": {
@@ -810,11 +810,13 @@
    "Wall Street quiere tokenizar todo, pero: ¿Quién está comprando?",
    "Los traders de criptomonedas deben hacer esto antes de pensar en ganar dinero",
    "Kontigo rompe el silencio y asegura que los fondos están a salvo, pero hay dudas",
-   "Bitcoin cae a $62,000: los traders denuncian “manipulación orquestada”"
+   "Bitcoin cae a $62,000: los traders denuncian “manipulación orquestada”",
+   "Reseña de KuCoin Crypto Loans: ¿Préstamos de Bitcoin sin vender?",
+   "Jensen Huang quiere volver como CEO de Nvidia, según informes. ¿Cómo reaccionará la acción?"
   ]
  },
  "precios_enviado": "2026-11-15",
- "sponsor_enviado": "2026-11-15-13",
+ "sponsor_enviado": "2026-11-15-19",
  "resumen_enviado": "2026-11-13",
  "earn2trade_enviado": "2026-11-13"
 }
