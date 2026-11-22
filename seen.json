@@ -1,9 +1,5 @@
 {
  "vistos": [
-  "https://www.iprofesional.com/finanzas/467156-cuales-son-los-grandes-fondos-de-inversion-que-le-dan-pelean-a-los-plazos-fijos",
-  "https://www.iprofesional.com/finanzas/467160-2-cedear-de-empresas-brasilenas-que-recomienda-la-city-gane-quien-gane",
-  "https://www.iprofesional.com/finanzas/466962-acciones-de-nike-se-desploman-40-por-ciento-y-analistas-avisan-si-conviene-comprar",
-  "https://es.beincrypto.com/?p=546370",
   "https://es.beincrypto.com/alerta-hackeo-intercambio-cripto-riesgo-php2shell/",
   "https://es.beincrypto.com/?p=546332",
   "https://www.iprofesional.com/finanzas/467234-riesgo-pais-argentino-sube-consecuencias-gobierno-empresas",
@@ -799,7 +795,11 @@
   "https://es.beincrypto.com/?p=550005",
   "https://news.bit2me.com/amundi-tokeniza-fondo-stoxx-600-ethereum/",
   "https://news.bit2me.com/ismos-formara-un-millon-desarrolladores-bitcoin/",
-  "https://news.bit2me.com/?p=67516"
+  "https://news.bit2me.com/?p=67516",
+  "https://www.iprofesional.com/finanzas/469373-por-que-wall-street-recorta-su-apuesta-por-acciones-argentinas",
+  "https://es.beincrypto.com/?p=550084",
+  "https://es.beincrypto.com/?p=549891",
+  "https://news.bit2me.com/?p=68226"
  ],
  "inicializado": true,
  "resumen": {
@@ -815,11 +815,14 @@
    "S&P 500 cae por debajo de 7,000 puntos mientras NVIDIA enfrenta una investigación contable",
    "Ethereum acoge fondo indexado de Amundi",
    "ISMOS formará un millón de desarrolladores de Bitcoin",
-   "Resumen cripto del 17 de noviembre: mercado mixto, Injective Protocol +3 %"
+   "Resumen cripto del 17 de noviembre: mercado mixto, Injective Protocol +3 %",
+   "Top 3 altcoins que desafían el desplome del mercado mientras Bitcoin cae a mínimos de dos años",
+   "Reseña de Zoomex 2026: Criptomonedas, acciones, herramientas de IA y ahorros en una sola plataforma",
+   "Resumen cripto del 21 de noviembre: jornada en verde, Ethereum +5 %"
   ]
  },
  "precios_enviado": "2026-11-21",
- "sponsor_enviado": "2026-11-21-13",
- "resumen_enviado": "2026-11-13",
+ "sponsor_enviado": "2026-11-21-19",
+ "resumen_enviado": "2026-11-21",
  "earn2trade_enviado": "2026-11-20"
 }
