@@ -1,10 +1,5 @@
 {
  "vistos": [
-  "https://es.beincrypto.com/?p=546503",
-  "https://es.beincrypto.com/?p=546450",
-  "https://es.beincrypto.com/?p=546461",
-  "https://es.beincrypto.com/?p=546471",
-  "https://es.beincrypto.com/?p=546448",
   "https://es.beincrypto.com/coindcx-niega-reclamo-de-hackeo-de-16-millones/",
   "https://es.beincrypto.com/?p=546395",
   "https://news.bit2me.com/etf-ethereum-salidas-octubre-reembolsos/",
@@ -799,7 +794,12 @@
   "https://news.bit2me.com/computacion-cuantica-desafio-blockchain-iosco/",
   "https://news.bit2me.com/bitcoin-core-corrige-fallo-detectado-ia/",
   "https://news.bit2me.com/shrincs-bitcoin-analisis-seguridad-post-cuantica/",
-  "https://www.iprofesional.com/finanzas/469727-bitcoin-y-oro-se-desploman-por-que-caen-y-hasta-donde-pueden-llegar"
+  "https://www.iprofesional.com/finanzas/469727-bitcoin-y-oro-se-desploman-por-que-caen-y-hasta-donde-pueden-llegar",
+  "https://www.iprofesional.com/finanzas/469713-que-acciones-argentinas-quedaron-baratas-para-invertir-segun-la-city",
+  "https://es.beincrypto.com/?p=549586",
+  "https://es.beincrypto.com/?p=550128",
+  "https://es.beincrypto.com/?p=550116",
+  "https://news.bit2me.com/?p=68242"
  ],
  "inicializado": true,
  "resumen": {
@@ -814,11 +814,15 @@
    "Computación cuántica y blockchain: alerta de IOSCO",
    "Bitcoin Core corrige fallo detectado con IA",
    "SHRINCS para Bitcoin: publican análisis de seguridad cuántica",
-   "Bitcoin y oro se desploman: por qué caen y hasta dónde pueden llegar"
+   "Bitcoin y oro se desploman: por qué caen y hasta dónde pueden llegar",
+   "¿Pueden los bots de trading con IA vencer al bear market de criptomonedas?",
+   "Solo el 5% de las criptomonedas suben mientras crecen los temores a un aumento de tasas por parte de la Fed",
+   "BofA nombra 5 acciones para comprar antes de Navidad de 2026",
+   "Resumen cripto del 22 de noviembre: mercado mixto, Near Protocol +4 %"
   ]
  },
  "precios_enviado": "2026-11-22",
- "sponsor_enviado": "2026-11-22-13",
- "resumen_enviado": "2026-11-21",
+ "sponsor_enviado": "2026-11-22-19",
+ "resumen_enviado": "2026-11-22",
  "earn2trade_enviado": "2026-11-20"
 }
